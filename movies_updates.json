@@ -1,6 +1,1157 @@
 {
-  "version": 1,
+  "version": 2,
   "movies": [
+    {
+      "id": 8289147,
+      "ru": "灵魂摆渡·十年",
+      "en": "灵魂摆渡·十年",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.5,
+      "poster": "https://image.tmdb.org/t/p/w342/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8299167,
+      "ru": "Ранчо Даттонов",
+      "en": "Dutton Ranch",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.266,
+      "poster": "https://image.tmdb.org/t/p/w342/mmxsx98NnY56CvataUqM1ktt14O.jpg",
+      "genres": [
+        "вестерн",
+        "драма"
+      ]
+    },
+    {
+      "id": 8284110,
+      "ru": "主角",
+      "en": "主角",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.2,
+      "poster": "https://image.tmdb.org/t/p/w342/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8259837,
+      "ru": "Суперглупцы",
+      "en": "원더풀스",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.05,
+      "poster": "https://image.tmdb.org/t/p/w342/uARtDxJDtISHnM2BxaSKvlQpWrc.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "комедия",
+        "НФ и Фэнтези",
+        "драма"
+      ]
+    },
+    {
+      "id": 8273240,
+      "ru": "Вне кампуса",
+      "en": "Off Campus",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.006,
+      "poster": "https://image.tmdb.org/t/p/w342/etw1XngIUqHeTeIPloS9B8w9xPi.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8317056,
+      "ru": "双程",
+      "en": "双程",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1uuVhAwTRvileHfXdO46dYTiJef.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8289271,
+      "ru": "翘楚",
+      "en": "翘楚",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vcU56Dw1aKxTTlhrVr0qvPnljDV.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8007757,
+      "ru": "В чужой шкуре",
+      "en": "Swapped",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.97,
+      "poster": "https://image.tmdb.org/t/p/w342/gl112Rnih0fHcWBIKpVzeW84xov.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "семейный",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 8220102,
+      "ru": "Паук-Нуар",
+      "en": "Spider-Noir",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.711,
+      "poster": "https://image.tmdb.org/t/p/w342/59sYPPO9H7BZrEcmA3G3Yaxga5V.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 7687163,
+      "ru": "Проект «Конец света»",
+      "en": "Project Hail Mary",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.655,
+      "poster": "https://image.tmdb.org/t/p/w342/lGNWODvZnfiocvegYSw1bYnm6pt.jpg",
+      "genres": [
+        "фантастика",
+        "приключения"
+      ]
+    },
+    {
+      "id": 8276161,
+      "ru": "Пусть послужит вам уроком",
+      "en": "참교육",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/36BnxmIvWvOsMmlQfbI0ilTfuvh.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8439930,
+      "ru": "Каратель: Последнее убийство",
+      "en": "The Punisher: One Last Kill",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.367,
+      "poster": "https://image.tmdb.org/t/p/w342/nLFfNeftCJRK1PXebnSymYX3Vhf.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8270476,
+      "ru": "Уидоус-Бэй",
+      "en": "Widow's Bay",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.281,
+      "poster": "https://image.tmdb.org/t/p/w342/7Dc2FNMcOeNO61W2rOKgJDoVJ63.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8327819,
+      "ru": "Прыгуны",
+      "en": "Hoppers",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.167,
+      "poster": "https://image.tmdb.org/t/p/w342/4eqr5LZH122BiU9hboXHZxX8bBl.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 8226863,
+      "ru": "Супер Марио: Галактическое кино",
+      "en": "The Super Mario Galaxy Movie",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/qKKstbeafWIjmZqTwAqt3brDNs1.jpg",
+      "genres": [
+        "семейный",
+        "комедия",
+        "приключения",
+        "фэнтези",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 7414419,
+      "ru": "Убить Билла: Кровавое дело целиком",
+      "en": "Kill Bill: The Whole Bloody Affair",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.089,
+      "poster": "https://image.tmdb.org/t/p/w342/dCbI4sDGLopb3aod5ADyufwYk5c.jpg",
+      "genres": [
+        "боевик",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8304313,
+      "ru": "Мумия",
+      "en": "Lee Cronin's The Mummy",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.05,
+      "poster": "https://image.tmdb.org/t/p/w342/vOyM4rebbIan7wANnFyCKr460mS.jpg",
+      "genres": [
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8318413,
+      "ru": "Давление",
+      "en": "Pressure",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/xYLbAshji6VK0vQjtLZg2E9bea.jpg",
+      "genres": [
+        "триллер",
+        "история",
+        "военный"
+      ]
+    },
+    {
+      "id": 8393326,
+      "ru": "Призрак в клетке",
+      "en": "Ghost in the Cell",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.958,
+      "poster": "https://image.tmdb.org/t/p/w342/9r7cCpIuf9NIGQqL92nhTtG25Cn.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8339713,
+      "ru": "Обсессия",
+      "en": "Obsession",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/c3Vz4RgYsWmxsm7eANSXwGA6gAR.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8275779,
+      "ru": "День разоблачения",
+      "en": "Disclosure Day",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/rwsWNNJKqLdN0ymCPx1yJagMVi.jpg",
+      "genres": [
+        "детектив",
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8419406,
+      "ru": "Охота за тенью",
+      "en": "捕风追影",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.625,
+      "poster": "https://image.tmdb.org/t/p/w342/5eNBdxmWTZiHRgDt3fUpVazW1WL.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 7454639,
+      "ru": "Властелины вселенной",
+      "en": "Masters of the Universe",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/u0SxcVBFf9c5PFt9i12RYSLoQf.jpg",
+      "genres": [
+        "боевик",
+        "фэнтези",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 7936075,
+      "ru": "Майкл",
+      "en": "Michael",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.595,
+      "poster": "https://image.tmdb.org/t/p/w342/AsPFMI3PhgCsraMq7RmMJwFQh2b.jpg",
+      "genres": [
+        "музыка",
+        "драма"
+      ]
+    },
+    {
+      "id": 8266800,
+      "ru": "Мальчик и лис",
+      "en": "L’Enfant du Désert",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/vw0xSfEZ4lm5thkO7evXWVA070w.jpg",
+      "genres": [
+        "семейный",
+        "приключения"
+      ]
+    },
+    {
+      "id": 8057265,
+      "ru": "పెద్ది",
+      "en": "పెద్ది",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 8582770,
+      "ru": "Специалист: Месть",
+      "en": "धुरंधर: द रिवेंज",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/hsJG5r6etrMNwW00BVp4NC7zi67.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8382513,
+      "ru": "Курочка. Пух и прах",
+      "en": "Κότα",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/xmHzLoSEguCNj4b0nSiqu0npNHF.jpg",
+      "genres": [
+        "приключения",
+        "драма"
+      ]
+    },
+    {
+      "id": 8065834,
+      "ru": "കാട്ടാളൻ",
+      "en": "കാട്ടാളൻ",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8116201,
+      "ru": "Железное лёгкое",
+      "en": "Iron Lung",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.196,
+      "poster": "https://image.tmdb.org/t/p/w342/wSLbGlRjAkbRqXAFZh27MOz8QoZ.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 7015370,
+      "ru": "Возвращение кота",
+      "en": "猫の恩返し",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.131,
+      "poster": "https://image.tmdb.org/t/p/w342/uz4xyULBJqfi3VixGXj7ZUPvvVq.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "мультфильм",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
+      "id": 8575535,
+      "ru": "Ассистент в морге",
+      "en": "Tormento",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.109,
+      "poster": "https://image.tmdb.org/t/p/w342/dfJ9PqicF0cswNDsostHrGVueiq.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8291335,
+      "ru": "Холостяк в Италии",
+      "en": "Solo Mio",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/ae2uj2PGYKbUH3SL0A6papGAwln.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8380291,
+      "ru": "Джек Райан: Призрачная война",
+      "en": "Tom Clancy's Jack Ryan: Ghost War",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.094,
+      "poster": "https://image.tmdb.org/t/p/w342/c5O6qPKEiSIuPKiYPtIovS2fQOT.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8280525,
+      "ru": "Школа магических зверей. Хранители чуда",
+      "en": "Die Schule der magischen Tiere 4",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.967,
+      "poster": "https://image.tmdb.org/t/p/w342/2Pe4IsQV725dl5pj1j0VuixMROp.jpg",
+      "genres": [
+        "семейный",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 8430077,
+      "ru": "Хокум",
+      "en": "Hokum",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.951,
+      "poster": "https://image.tmdb.org/t/p/w342/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8358005,
+      "ru": "Роман на работе",
+      "en": "Office Romance",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ekzv3cgWww6BHLCeinQELQoO6Vf.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8390300,
+      "ru": "Опасные отношения",
+      "en": "Over Your Dead Body",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.83,
+      "poster": "https://image.tmdb.org/t/p/w342/2lyG4cFXUPu5L8ad3rH684eGfWf.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8228710,
+      "ru": "Мандалорец и Грогу",
+      "en": "The Mandalorian and Grogu",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.817,
+      "poster": "https://image.tmdb.org/t/p/w342/yWPrjlrV9R0eXwBrCvbM95oiepd.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 8523145,
+      "ru": "Твоё сердце будет разбито",
+      "en": "Твоё сердце будет разбито",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 8129104,
+      "ru": "Флавия. Юный детектив",
+      "en": "Flavia",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/xwm7TGTmQcM2PkVvMxTjpYYk600.jpg",
+      "genres": [
+        "семейный",
+        "приключения",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8083381,
+      "ru": "Закулисье реальности",
+      "en": "Backrooms",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.767,
+      "poster": "https://image.tmdb.org/t/p/w342/22Xq2lLAm9fefizn2UwyZ07pWTP.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 8375646,
+      "ru": "Колония",
+      "en": "군체",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.722,
+      "poster": "https://image.tmdb.org/t/p/w342/uQIlX1zpvM7FAKRbeyLDJN3zxrX.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 7931285,
+      "ru": "Мортал Комбат 2",
+      "en": "Mortal Kombat II",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/4WgJ5Dk0JhPdCdJkwHNVyJyQYdH.jpg",
+      "genres": [
+        "боевик",
+        "фэнтези",
+        "приключения"
+      ]
+    },
+    {
+      "id": 8122573,
+      "ru": "Грязные деньги",
+      "en": "In the Grey",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.637,
+      "poster": "https://image.tmdb.org/t/p/w342/eX68co76w7wunCRunji7kyglqTG.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8252107,
+      "ru": "Звездный городок",
+      "en": "Star City",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/b4n7ygvB7gvBdV4KTJyHIWRslrh.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези",
+        "Война и Политика"
+      ]
+    },
+    {
+      "id": 8314481,
+      "ru": "Дьявол носит Prada 2",
+      "en": "The Devil Wears Prada 2",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.598,
+      "poster": "https://image.tmdb.org/t/p/w342/rszWffz3SMz42OLvA6ks1pizRRY.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8242265,
+      "ru": "Ограбить Лондон",
+      "en": "Fuze",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.454,
+      "poster": "https://image.tmdb.org/t/p/w342/mAoWadpIpwp8XEjYpDzEKy8rs6c.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 7824003,
+      "ru": "Фантом. Кто ты?",
+      "en": "Diabolik - Chi sei?",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/1OaTVt7prbMaknPrLuqfR9cfTdh.jpg",
+      "genres": [
+        "криминал",
+        "боевик",
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8140521,
+      "ru": "Вверх по волшебному дереву",
+      "en": "The Magic Faraway Tree",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.263,
+      "poster": "https://image.tmdb.org/t/p/w342/6mpfEw7QMd4pD9vFFl8lDoOn2XA.jpg",
+      "genres": [
+        "приключения",
+        "семейный",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 8292415,
+      "ru": "Бой со зверем",
+      "en": "Beast",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.219,
+      "poster": "https://image.tmdb.org/t/p/w342/jazhffqHI1Uob6mzERAH5isKe2W.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 8480387,
+      "ru": "Полутон",
+      "en": "undertone",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/g4FzBPGjN2xWYajgVcRqkzxCWC7.jpg",
+      "genres": [
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8368314,
+      "ru": "Пассажир",
+      "en": "Passenger",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.137,
+      "poster": "https://image.tmdb.org/t/p/w342/grlCRoCv2uT7WGvpkWSKxjPPVqc.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8517069,
+      "ru": "Марк глазами Софии",
+      "en": "Marc by Sofia",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/Qi9HQXNK7W9zrPm4fAnD5RvqMr.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
+      "id": 8433117,
+      "ru": "கர",
+      "en": "கர",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8510745,
+      "ru": "Оно. Дом зла",
+      "en": "Bodycam",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/gtG3iamwzKAjIvFaLtzoEoxDYnG.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8273221,
+      "ru": "Очень страшное кино",
+      "en": "Scary Movie",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.696,
+      "poster": "https://image.tmdb.org/t/p/w342/PAr5KeXIoRKmgXcBf6bT3fCjx2.jpg",
+      "genres": [
+        "комедия",
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8303055,
+      "ru": "Псарня",
+      "en": "A Breed Apart",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wPFYJ2SyHUF4rDwf8xdSCTCIFdP.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "боевик"
+      ]
+    },
+    {
+      "id": 8309735,
+      "ru": "Однажды в Газе",
+      "en": "كان ياما كان في غزة",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.107,
+      "poster": "https://image.tmdb.org/t/p/w342/ljVL5zbS9qOHLwnb3cfvb7xAWlg.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8389881,
+      "ru": "Обитель зла: Мутация",
+      "en": "The Cure",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.8,
+      "poster": "https://image.tmdb.org/t/p/w342/lIuCbRc2jSB1uPDvjdQ1SuESt4O.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8284725,
+      "ru": "Вы нам не подходите",
+      "en": "Not Suitable for Work",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.7,
+      "poster": "https://image.tmdb.org/t/p/w342/7Rsd29587fax35rVh0DeICwUFie.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 8277439,
+      "ru": "Мыс страха",
+      "en": "Cape Fear",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.7,
+      "poster": "https://image.tmdb.org/t/p/w342/a5CZ7Mh2XcEnenS9bXbWYVFKuGb.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8629983,
+      "ru": "Робоняня",
+      "en": "Робоняня",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sihYf53YsgEByzx8berTBEvmUuA.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
+      "id": 8464258,
+      "ru": "インビジブルハーフ",
+      "en": "インビジブルハーフ",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/s8re0zVQZVdtat1K5hydnUtwQo1.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8368337,
+      "ru": "Одиссея",
+      "en": "The Odyssey",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/exOPvjnLaKMp00fsk8E3UpfPtNC.jpg",
+      "genres": [
+        "приключения",
+        "боевик",
+        "фэнтези"
+      ]
+    },
+    {
+      "id": 8279865,
+      "ru": "И наступит рассвет",
+      "en": "花緑青が明ける日に",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/iqTuBlAVud12BcL7kWMpHVCqFQa.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
+      ]
+    },
+    {
+      "id": 8279493,
+      "ru": "Ночной бизнес",
+      "en": "The Get Out",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wPZ8g69OylfL57ai1AgkQE1LLQy.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8273684,
+      "ru": "Холоп 3",
+      "en": "Холоп 3",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/etcR0lFrEBEmcgi9n80uUee2ejf.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8128204,
+      "ru": "Feed",
+      "en": "Feed",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8084244,
+      "ru": "История игрушек 5",
+      "en": "Toy Story 5",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/84igQj0DU3TgPrtQ7bHXHCio1sV.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "комедия",
+        "приключения"
+      ]
+    },
     {
       "id": 7000001,
       "ru": "Пример фильма",
@@ -15,6 +1166,609 @@
       "genres": [
         "Боевик",
         "Фантастика"
+      ]
+    },
+    {
+      "id": 8283123,
+      "ru": "Мечта Эшрефа",
+      "en": "Eşref Rüya",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/mYG3mcnKwyrPMcZzkO9pIyE9UX1.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8223911,
+      "ru": "Противостояние святого",
+      "en": "仙逆",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.588,
+      "poster": "https://image.tmdb.org/t/p/w342/6AVM12M6UunFmX0bSmP2o4N5Bnt.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8124364,
+      "ru": "Извне",
+      "en": "FROM",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.447,
+      "poster": "https://image.tmdb.org/t/p/w342/dFJ8exnjJoEfTlHoR58L4OlTSEu.jpg",
+      "genres": [
+        "детектив",
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8135934,
+      "ru": "Легенда о Vox Machina",
+      "en": "The Legend of Vox Machina",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.222,
+      "poster": "https://image.tmdb.org/t/p/w342/iUNq7Nr95wvKKUSFOOi8ecmUmPi.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8126398,
+      "ru": "五十公里桃花坞",
+      "en": "五十公里桃花坞",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8076479,
+      "ru": "Пацаны",
+      "en": "The Boys",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.455,
+      "poster": "https://image.tmdb.org/t/p/w342/8QGxRzHbzs4ihjy4afaUdlsROBD.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8085552,
+      "ru": "Эйфория",
+      "en": "Euphoria",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8090521,
+      "ru": "Остров любви. США",
+      "en": "Love Island USA",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kU2y21cls8WargMaX7KI47URMjD.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8079744,
+      "ru": "Новичок",
+      "en": "The Rookie",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.546,
+      "poster": "https://image.tmdb.org/t/p/w342/jfxInWjSixQeeyT7oiBvdXjd7HM.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8073586,
+      "ru": "Йеллоустоун",
+      "en": "Yellowstone",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.265,
+      "poster": "https://image.tmdb.org/t/p/w342/muLDL6UrK6Rh47OwgbNZbNcwUc.jpg",
+      "genres": [
+        "вестерн",
+        "драма"
+      ]
+    },
+    {
+      "id": 8081329,
+      "ru": "Место под солнцем",
+      "en": "Un si grand soleil",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/eK1D7S3yfBDtx92bwSwC3Gvt8On.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8065942,
+      "ru": "Re: Жизнь в другом мире с нуля",
+      "en": "Re:ゼロから始める異世界生活",
+      "year": "2016",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.867,
+      "poster": "https://image.tmdb.org/t/p/w342/4BZmlkvpQL87RlZuvpZLQa0ABNd.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8098031,
+      "ru": "Беги",
+      "en": "奔跑吧",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/jOl12DTFiMcp9ga2KaEKwt5H8oo.jpg",
+      "genres": [
+        "комедия",
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8060625,
+      "ru": "Рик и Морти",
+      "en": "Rick and Morty",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.678,
+      "poster": "https://image.tmdb.org/t/p/w342/cgbInj4z0x6ZSIP9z5yICrzGRhu.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "НФ и Фэнтези",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8001399,
+      "ru": "Игра Престолов",
+      "en": "Game of Thrones",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.462,
+      "poster": "https://image.tmdb.org/t/p/w342/1sIAsLSaMwm3mb7Y6jISMv56McR.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8033238,
+      "ru": "Бегущий человек",
+      "en": "런닝맨",
+      "year": "2010",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.257,
+      "poster": "https://image.tmdb.org/t/p/w342/15SMnscZqd7HZ0bzruatOcKUlOV.jpg",
+      "genres": [
+        "комедия",
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8022980,
+      "ru": "Смотрите, что происходит: Прямой эфир",
+      "en": "Watch What Happens Live with Andy Cohen",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+      "genres": [
+        "Ток-шоу",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8001396,
+      "ru": "Во все тяжкие",
+      "en": "Breaking Bad",
+      "year": "2008",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.946,
+      "poster": "https://image.tmdb.org/t/p/w342/3NA1FOlnjE909OyVT534B7fw5h5.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8005920,
+      "ru": "Менталист",
+      "en": "The Mentalist",
+      "year": "2008",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.354,
+      "poster": "https://image.tmdb.org/t/p/w342/sdlnS04iwOeYzng0CAOyiycNTM3.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8001622,
+      "ru": "Сверхъестественное",
+      "en": "Supernatural",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.31,
+      "poster": "https://image.tmdb.org/t/p/w342/hvO99pEfSBxF55clgs8r4mpRzr.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8004057,
+      "ru": "Мыслить как преступник",
+      "en": "Criminal Minds",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.297,
+      "poster": "https://image.tmdb.org/t/p/w342/AuQnXLFaCbhmE7gOPGWfJ9onzC.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8001416,
+      "ru": "Анатомия страсти",
+      "en": "Grey's Anatomy",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/9LIuxUjJ2Cc4DMXFRN2ReCMBKDD.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8206559,
+      "ru": "Биннеландеры",
+      "en": "Binnelanders",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.532,
+      "poster": "https://image.tmdb.org/t/p/w342/AlNWXugy5a9Qhw9pWDGMBtIlNB0.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8004614,
+      "ru": "Морская полиция: Спецотдел",
+      "en": "NCIS",
+      "year": "2003",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4ltafNQAjz9jhZ4xPN3eLGPD5P8.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8004419,
+      "ru": "В настоящее время с Биллом Маром",
+      "en": "Real Time with Bill Maher",
+      "year": "2003",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.048,
+      "poster": "https://image.tmdb.org/t/p/w342/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+      "genres": [
+        "комедия",
+        "Ток-шоу"
+      ]
+    },
+    {
+      "id": 8037854,
+      "ru": "Ван-Пис",
+      "en": "ワンピース",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w342/osRT8GsND3PfhvevsS5DK9px0LI.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "комедия",
+        "мультфильм"
+      ]
+    },
+    {
+      "id": 7000603,
+      "ru": "Матрица",
+      "en": "The Matrix",
+      "year": "1999",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.247,
+      "poster": "https://image.tmdb.org/t/p/w342/kEDbym5htJgDQNenjUtSJxAHysB.jpg",
+      "genres": [
+        "боевик",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 8002734,
+      "ru": "Закон и порядок. Специальный корпус",
+      "en": "Law & Order: Special Victims Unit",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.947,
+      "poster": "https://image.tmdb.org/t/p/w342/1GLIkXaLtgaRooXLSltTdp8oShL.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8001434,
+      "ru": "Гриффины",
+      "en": "Family Guy",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.401,
+      "poster": "https://image.tmdb.org/t/p/w342/9zdZeAxt7Xxu5omPufFu1TMl8BP.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8002224,
+      "ru": "Дневное шоу с Тревором Ноем",
+      "en": "The Daily Show",
+      "year": "1996",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.414,
+      "poster": "https://image.tmdb.org/t/p/w342/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+      "genres": [
+        "Новости",
+        "комедия"
+      ]
+    },
+    {
+      "id": 7001089,
+      "ru": "На гребне волны",
+      "en": "Point Break",
+      "year": "1993",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.155,
+      "poster": "https://image.tmdb.org/t/p/w342/5w7W8uJyChwbiShMhSvLvWKVaBV.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8004656,
+      "ru": "WWE RAW",
+      "en": "Raw",
+      "year": "1993",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.832,
+      "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8000549,
+      "ru": "Закон и порядок",
+      "en": "Law & Order",
+      "year": "1990",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.311,
+      "poster": "https://image.tmdb.org/t/p/w342/6IfLWdBXDuktBo8oVjiWxodSHCV.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 8000456,
+      "ru": "Симпсоны",
+      "en": "The Simpsons",
+      "year": "1989",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.019,
+      "poster": "https://image.tmdb.org/t/p/w342/171yRAHGCziNjtO53sEil1PH64v.jpg",
+      "genres": [
+        "семейный",
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
+      "id": 7186745,
+      "ru": "Поруганная любовь",
+      "en": "L'Amour violé",
+      "year": "1978",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/kWlQqBbyrtGfcYU1qRqwCaEmBuz.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8002661,
+      "ru": "Камен Райдер",
+      "en": "仮面ライダー",
+      "year": "1971",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "драма"
+      ]
+    },
+    {
+      "id": 8094722,
+      "ru": "Tagesschau",
+      "en": "Tagesschau",
+      "year": "1952",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.759,
+      "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "genres": [
+        "Новости"
       ]
     }
   ]
