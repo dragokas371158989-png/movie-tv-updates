@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "movies": [
+    {
+      "id": 7000001,
+      "ru": "Пример фильма",
+      "en": "Example Movie",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "Боевик",
+        "Фантастика"
+      ]
+    }
+  ]
+}
