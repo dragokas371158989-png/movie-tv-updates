@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "movies": [
     {
       "id": 8289147,
@@ -212,6 +212,23 @@
         "драма",
         "детектив",
         "комедия"
+      ]
+    },
+    {
+      "id": 8667198,
+      "ru": "Удивительный Цифровой Цирк: Последний акт",
+      "en": "The Amazing Digital Circus: The Last Act",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.208,
+      "poster": "https://image.tmdb.org/t/p/w342/uoZeXWuUS2z2F7VaC1iS5RS5cnk.jpg",
+      "genres": [
+        "мультфильм",
+        "фантастика",
+        "ужасы"
       ]
     },
     {
@@ -430,6 +447,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "genres": [
         "боевик",
+        "драма"
+      ]
+    },
+    {
+      "id": 8397364,
+      "ru": "Грация",
+      "en": "La grazia",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/xgZclC1K9Mm8HeK226EnJMz2uwt.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -962,6 +994,22 @@
       ]
     },
     {
+      "id": 8280511,
+      "ru": "Единственный свидетель",
+      "en": "The Witness",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8309735,
       "ru": "Однажды в Газе",
       "en": "كان ياما كان في غزة",
@@ -1021,6 +1069,39 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8274706,
+      "ru": "Меченая",
+      "en": "La desconocida",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/k7fXHQZiKAn0qSO3kSTUmhveGxD.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8664119,
+      "ru": "Малыш-каратист",
+      "en": "Малыш-каратист",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7gMZmN8YeTRdc6K3ySWzvVEl0vs.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "семейный"
       ]
     },
     {
@@ -1169,6 +1250,39 @@
       ]
     },
     {
+      "id": 8241609,
+      "ru": "Друзья и соседи",
+      "en": "Your Friends & Neighbors",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.736,
+      "poster": "https://image.tmdb.org/t/p/w342/wr6dsSOfht23oiym1TcAlMN7R3k.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 7083533,
+      "ru": "Аватар: Пламя и пепел",
+      "en": "Avatar: Fire and Ash",
+      "year": "2025",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.556,
+      "poster": "https://image.tmdb.org/t/p/w342/kpxYvaCnbRi7btNnpLCJrehy77e.jpg",
+      "genres": [
+        "фантастика",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8283123,
       "ru": "Мечта Эшрефа",
       "en": "Eşref Rüya",
@@ -1234,6 +1348,37 @@
         "мультфильм",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8154770,
+      "ru": "你好，星期六",
+      "en": "你好，星期六",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8117648,
+      "ru": "Ферма Кларксона",
+      "en": "Clarkson's Farm",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.495,
+      "poster": "https://image.tmdb.org/t/p/w342/ivcJkXAr6wPZKThuDsFXIi54iN9.jpg",
+      "genres": [
+        "Реалити-шоу",
+        "комедия"
       ]
     },
     {
@@ -1343,6 +1488,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/eK1D7S3yfBDtx92bwSwC3Gvt8On.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8079481,
+      "ru": "Расколотая битвой синева небес",
+      "en": "斗破苍穹",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/9AmbICSQ6fNjbJSCJXdn3HdadKs.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -1722,6 +1884,23 @@
         "семейный",
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 7028322,
+      "ru": "Резня на каникулах",
+      "en": "Vacanze per un massacro",
+      "year": "1980",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.969,
+      "poster": "https://image.tmdb.org/t/p/w342/arRNmW27fs1TFsIBOwPYCfZQFJC.jpg",
+      "genres": [
+        "триллер",
+        "боевик",
+        "криминал"
       ]
     },
     {
