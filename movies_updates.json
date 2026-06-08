@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "movies": [
     {
       "id": 8289147,
@@ -82,6 +82,21 @@
       ]
     },
     {
+      "id": 8700944,
+      "ru": "Love, Ngo",
+      "en": "Love, Ngo",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8317056,
       "ru": "双程",
       "en": "双程",
@@ -161,6 +176,24 @@
       "genres": [
         "фантастика",
         "приключения"
+      ]
+    },
+    {
+      "id": 8229544,
+      "ru": "Среди нас",
+      "en": "Among Us",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/3ErHasjs5fTNPv1YeIdQb91ov6O.jpg",
+      "genres": [
+        "мультфильм",
+        "детектив",
+        "комедия",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -463,6 +496,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/xgZclC1K9Mm8HeK226EnJMz2uwt.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8323411,
+      "ru": "Вампир Лестат",
+      "en": "The Vampire Lestat",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.25,
+      "poster": "https://image.tmdb.org/t/p/w342/ljVJisH9eGGomAA6pu62PPtHANq.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -946,6 +995,22 @@
       ]
     },
     {
+      "id": 8288341,
+      "ru": "Семь снайперов",
+      "en": "Seven Snipers",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/r5m902K8gIyz0PdOg4FvziRUgFo.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
       "id": 8510745,
       "ru": "Оно. Дом зла",
       "en": "Bodycam",
@@ -974,6 +1039,22 @@
       "genres": [
         "комедия",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8318203,
+      "ru": "Элис и Стив",
+      "en": "Alice and Steve",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/wvDlB9H1egdH2CCVPtS65CJFjB0.jpg",
+      "genres": [
+        "комедия",
+        "драма"
       ]
     },
     {
@@ -1010,6 +1091,22 @@
       ]
     },
     {
+      "id": 8308553,
+      "ru": "है जवानी तो इश्क होना है",
+      "en": "है जवानी तो इश्क होना है",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
       "id": 8309735,
       "ru": "Однажды в Газе",
       "en": "كان ياما كان في غزة",
@@ -1022,6 +1119,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/ljVL5zbS9qOHLwnb3cfvb7xAWlg.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8103473,
+      "ru": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
+      "en": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/9cgwiPHZ57NjI0RKb2yIu8mUnNs.jpg",
+      "genres": [
+        "история",
+        "криминал",
+        "боевик",
+        "фэнтези"
       ]
     },
     {
@@ -1234,6 +1349,23 @@
       ]
     },
     {
+      "id": 7969681,
+      "ru": "Человек-паук: Новый день",
+      "en": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/znqlzokx4sInZ3msrotcwYMWEK5.jpg",
+      "genres": [
+        "фантастика",
+        "боевик",
+        "приключения"
+      ]
+    },
+    {
       "id": 7000001,
       "ru": "Пример фильма",
       "en": "Example Movie",
@@ -1314,6 +1446,24 @@
         "мультфильм",
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8228429,
+      "ru": "斗罗大陆Ⅱ绝世唐门",
+      "en": "斗罗大陆Ⅱ绝世唐门",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/y4anZOnHEJCYKvlS6cx7vd18hiQ.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези",
+        "Боевик и Приключения",
+        "драма"
       ]
     },
     {
