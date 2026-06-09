@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "movies": [
     {
       "id": 8289147,
@@ -14,6 +14,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/r1EHwuOLdQ396YOlpmBoFEeOit3.jpg",
       "genres": [
         "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8196950,
+      "ru": "Ателье колдовских колпаков",
+      "en": "とんがり帽子のアトリエ",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.276,
+      "poster": "https://image.tmdb.org/t/p/w342/f2IDbZMzplrunH8DKXMhqL7uVvA.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
         "НФ и Фэнтези"
       ]
     },
@@ -512,6 +529,22 @@
       "genres": [
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8224941,
+      "ru": "Бороуз",
+      "en": "The Boroughs",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.226,
+      "poster": "https://image.tmdb.org/t/p/w342/826WiB3FY5dsfCC1gwUpJXGkwkm.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "детектив"
       ]
     },
     {
@@ -1578,6 +1611,23 @@
       ]
     },
     {
+      "id": 8090966,
+      "ru": "गुल्लक",
+      "en": "गुल्लक",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.911,
+      "poster": "https://image.tmdb.org/t/p/w342/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8090521,
       "ru": "Остров любви. США",
       "en": "Love Island USA",
@@ -1690,6 +1740,22 @@
       "genres": [
         "комедия",
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8061818,
+      "ru": "Поздней ночью с Сетом Майерсом",
+      "en": "Late Night with Seth Meyers",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.2,
+      "poster": "https://image.tmdb.org/t/p/w342/f3N9I7pt4OOpQxwN3aq0yyYJVTT.jpg",
+      "genres": [
+        "Ток-шоу",
+        "комедия"
       ]
     },
     {
@@ -2004,6 +2070,21 @@
       ]
     },
     {
+      "id": 8012415,
+      "ru": "Egoli: Place of Gold",
+      "en": "Egoli: Place of Gold",
+      "year": "1992",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/l8ivo9sEkKrLYRsNeyaVmAbH0eg.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 8000549,
       "ru": "Закон и порядок",
       "en": "Law & Order",
@@ -2099,6 +2180,19 @@
       "genres": [
         "Новости"
       ]
+    },
+    {
+      "id": 8321942,
+      "ru": "BYU Baseball",
+      "en": "BYU Baseball",
+      "year": "",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": []
     }
   ]
 }
