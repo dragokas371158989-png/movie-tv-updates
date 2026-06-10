@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "movies": [
     {
       "id": 8289147,
@@ -124,6 +124,21 @@
       "studio": "",
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/1uuVhAwTRvileHfXdO46dYTiJef.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8292696,
+      "ru": "Мо Ли",
+      "en": "莫离",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/pRPDAGXmoUnWlRj34BHQ1Gt05ai.jpg",
       "genres": [
         "драма"
       ]
@@ -369,6 +384,24 @@
       ]
     },
     {
+      "id": 7959646,
+      "ru": "Зомбилэнд-Сага. Фильм",
+      "en": "劇場版 ゾンビランドサガ ゆめぎんがパラダイス",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wmsBwd3dtd9i1Pl6nDZyd0WlTeO.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "музыка",
+        "боевик"
+      ]
+    },
+    {
       "id": 8393326,
       "ru": "Призрак в клетке",
       "en": "Ghost in the Cell",
@@ -597,6 +630,23 @@
       ]
     },
     {
+      "id": 7015283,
+      "ru": "Помпоко: Война тануки в период Хэйсэй",
+      "en": "平成狸合戦ぽんぽこ",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/bw8S5NFoahJDTEpVVvJi2WCDaMn.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8116201,
       "ru": "Железное лёгкое",
       "en": "Iron Lung",
@@ -677,6 +727,41 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8560681,
+      "ru": "Kolory zła: Czerń",
+      "en": "Kolory zła: Czerń",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/v6J7FYPywQFF8ANoRRtceqIGpDM.jpg",
+      "genres": [
+        "триллер",
+        "детектив",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 8092936,
+      "ru": "Долина улыбок",
+      "en": "La valle dei sorrisi",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/95xMcwNpN2b4ts1M4i9xh23vxUE.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "драма"
       ]
     },
     {
@@ -773,6 +858,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "genres": [
         "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 8260592,
+      "ru": "Каждый год после",
+      "en": "Every Year After",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/pQWZB2x69uuMXedXj943aLYeFsc.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -1044,6 +1144,22 @@
       ]
     },
     {
+      "id": 8187294,
+      "ru": "Кто есть кто?",
+      "en": "¿Quién es quién?",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/tATQl3WQ8oqAdyuXwypKIzpD3ze.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8510745,
       "ru": "Оно. Дом зла",
       "en": "Bodycam",
@@ -1088,6 +1204,24 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8204135,
+      "ru": "Dragon Striker",
+      "en": "Dragon Striker",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези",
+        "семейный",
+        "Боевик и Приключения"
       ]
     },
     {
@@ -1236,6 +1370,22 @@
       ]
     },
     {
+      "id": 8469930,
+      "ru": "Пункт назначения: Мост №13",
+      "en": "Tumbal Proyek",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.2,
+      "poster": "https://image.tmdb.org/t/p/w342/wdOa8jWX8u1YNSlWyRvoNCc9y7S.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8664119,
       "ru": "Малыш-каратист",
       "en": "Малыш-каратист",
@@ -1269,6 +1419,22 @@
       ]
     },
     {
+      "id": 8596259,
+      "ru": "Дед Фомич",
+      "en": "Дед Фомич",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/3M83ChV6rcT1JjdFuSXsXj34IQJ.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8464258,
       "ru": "インビジブルハーフ",
       "en": "インビジブルハーフ",
@@ -1281,6 +1447,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/s8re0zVQZVdtat1K5hydnUtwQo1.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8430698,
+      "ru": "Кровавая бухта",
+      "en": "The Bay",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "триллер"
       ]
     },
     {
@@ -1298,6 +1479,22 @@
         "приключения",
         "боевик",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 8321008,
+      "ru": "Рейс 298",
+      "en": "Black Box (Flight 298)",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/oHGXlnrpn7faqSKNEEFyzTyeXPG.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
@@ -1346,6 +1543,21 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8180894,
+      "ru": "Оно приходит снизу",
+      "en": "Bajo tus pies",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
+      "genres": [
+        "ужасы"
       ]
     },
     {
@@ -1562,6 +1774,21 @@
       "genres": [
         "Реалити-шоу",
         "комедия"
+      ]
+    },
+    {
+      "id": 7879945,
+      "ru": "Незнакомец",
+      "en": "L'homme inconnu",
+      "year": "2021",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -1859,6 +2086,23 @@
       ]
     },
     {
+      "id": 7064736,
+      "ru": "Питер FM",
+      "en": "Питер FM",
+      "year": "2006",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.73,
+      "poster": "https://image.tmdb.org/t/p/w342/3SDj59oHf00MsbYvYb6tCMko498.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8001622,
       "ru": "Сверхъестественное",
       "en": "Supernatural",
@@ -1953,6 +2197,23 @@
       "genres": [
         "комедия",
         "Ток-шоу"
+      ]
+    },
+    {
+      "id": 7005279,
+      "ru": "Госфорд парк",
+      "en": "Gosford Park",
+      "year": "2002",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.822,
+      "poster": "https://image.tmdb.org/t/p/w342/sKM5KAv4yAN8Zs7HLG6us33OE9x.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "триллер"
       ]
     },
     {
@@ -2193,6 +2454,23 @@
       "rating": 0,
       "poster": "",
       "genres": []
+    },
+    {
+      "id": 8296286,
+      "ru": "История о перекуре за супермаркетом",
+      "en": "スーパーの裏でヤニ吸うふたり",
+      "year": "",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/e35H4IqTgf8ZgWf61V2amM6JZ1s.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "комедия"
+      ]
     }
   ]
 }
