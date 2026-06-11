@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "movies": [
     {
       "id": 8289147,
@@ -208,6 +208,22 @@
       "genres": [
         "фантастика",
         "приключения"
+      ]
+    },
+    {
+      "id": 8280738,
+      "ru": "Живая ярость",
+      "en": "火遮眼",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/jAN5WQstlgSMsbLISH59Sx7cYfu.jpg",
+      "genres": [
+        "боевик",
+        "криминал"
       ]
     },
     {
@@ -451,6 +467,23 @@
       ]
     },
     {
+      "id": 8628448,
+      "ru": "माँ बहन",
+      "en": "माँ बहन",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.833,
+      "poster": "https://image.tmdb.org/t/p/w342/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+      "genres": [
+        "комедия",
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 8419406,
       "ru": "Охота за тенью",
       "en": "捕风追影",
@@ -466,6 +499,22 @@
         "криминал",
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8367220,
+      "ru": "கருப்பு",
+      "en": "கருப்பு",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+      "genres": [
+        "боевик",
+        "фэнтези"
       ]
     },
     {
@@ -1031,6 +1080,22 @@
       ]
     },
     {
+      "id": 8288246,
+      "ru": "Американский маньяк",
+      "en": "The Huntsman",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.37,
+      "poster": "https://image.tmdb.org/t/p/w342/n0NLFP70wFMQd99YHCUpvUFeGb6.jpg",
+      "genres": [
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
       "id": 8140521,
       "ru": "Вверх по волшебному дереву",
       "en": "The Magic Faraway Tree",
@@ -1435,6 +1500,22 @@
       ]
     },
     {
+      "id": 8488184,
+      "ru": "Касса невест",
+      "en": "Касса невест",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "комедия",
+        "приключения"
+      ]
+    },
+    {
       "id": 8464258,
       "ru": "インビジブルハーフ",
       "en": "インビジブルハーフ",
@@ -1482,6 +1563,22 @@
       ]
     },
     {
+      "id": 8324115,
+      "ru": "ทนายปีศาจ",
+      "en": "ทนายปีศาจ",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/1xVfGMogjedmwtomxxeXi2VsCSe.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8321008,
       "ru": "Рейс 298",
       "en": "Black Box (Flight 298)",
@@ -1495,6 +1592,22 @@
       "genres": [
         "ужасы",
         "триллер"
+      ]
+    },
+    {
+      "id": 8312493,
+      "ru": "喧嘩独学",
+      "en": "喧嘩独学",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения"
       ]
     },
     {
@@ -1527,6 +1640,22 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8278605,
+      "ru": "南部档案",
+      "en": "南部档案",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "детектив"
       ]
     },
     {
@@ -1807,6 +1936,21 @@
       ]
     },
     {
+      "id": 8102904,
+      "ru": "Сладкие магнолии",
+      "en": "Sweet Magnolias",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/fhBvB92Z1Rp8tcPYogDI5wYsG7d.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8076479,
       "ru": "Пацаны",
       "en": "The Boys",
@@ -1986,6 +2130,22 @@
       ]
     },
     {
+      "id": 8276191,
+      "ru": "Super Simple Songs",
+      "en": "Super Simple Songs",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bRwgnC2MZ79fel2L18q0YKhQYeT.jpg",
+      "genres": [
+        "Детский",
+        "мультфильм"
+      ]
+    },
+    {
       "id": 8060625,
       "ru": "Рик и Морти",
       "en": "Rick and Morty",
@@ -2103,6 +2263,21 @@
       ]
     },
     {
+      "id": 8002316,
+      "ru": "Офис",
+      "en": "The Office",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.588,
+      "poster": "https://image.tmdb.org/t/p/w342/zjW7g5PGsJMy7pIr0hKdBKWcH9V.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8001622,
       "ru": "Сверхъестественное",
       "en": "Supernatural",
@@ -2214,6 +2389,21 @@
         "драма",
         "детектив",
         "триллер"
+      ]
+    },
+    {
+      "id": 8014743,
+      "ru": "Городские декорации",
+      "en": "El cor de la ciutat",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/xQ83cJA8AxoQMZe8ADApWrRZB1v.jpg",
+      "genres": [
+        "Мыльная опера"
       ]
     },
     {
