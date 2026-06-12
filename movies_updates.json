@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "movies": [
     {
       "id": 8289147,
@@ -1209,6 +1209,21 @@
       ]
     },
     {
+      "id": 8242937,
+      "ru": "Проклятый рыцарь",
+      "en": "The Dreadful",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/jC3FRx1hKsi1ivrZvET9AQ5oC7Y.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8187294,
       "ru": "Кто есть кто?",
       "en": "¿Quién es quién?",
@@ -1858,6 +1873,22 @@
       ]
     },
     {
+      "id": 8206484,
+      "ru": "诛仙",
+      "en": "诛仙",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/kSC8drFvUBrcnHe6bz6zwvrnoeo.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8135934,
       "ru": "Легенда о Vox Machina",
       "en": "The Legend of Vox Machina",
@@ -2161,6 +2192,22 @@
         "комедия",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8057532,
+      "ru": "Щенячий патруль",
+      "en": "PAW Patrol",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/phgTUYIUdvU4WyLsrJcuCgusg0M.jpg",
+      "genres": [
+        "мультфильм",
+        "Детский"
       ]
     },
     {
