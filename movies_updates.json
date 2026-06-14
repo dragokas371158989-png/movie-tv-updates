@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "movies": [
     {
       "id": 8289147,
@@ -747,6 +747,40 @@
       ]
     },
     {
+      "id": 8305781,
+      "ru": "Клинки хранителей",
+      "en": "镖人：风起大漠",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/mpxVTWARSk6TQVYXOkeMLFrDPew.jpg",
+      "genres": [
+        "боевик",
+        "драма",
+        "история"
+      ]
+    },
+    {
+      "id": 8292695,
+      "ru": "Они придут за тобой",
+      "en": "They Will Kill You",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/xCDqSY3cxVQbZULUgpoqRMNLvFQ.jpg",
+      "genres": [
+        "ужасы",
+        "комедия",
+        "боевик"
+      ]
+    },
+    {
       "id": 8291335,
       "ru": "Холостяк в Италии",
       "en": "Solo Mio",
@@ -794,6 +828,21 @@
         "детектив",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8293550,
+      "ru": "बंदर",
+      "en": "बंदर",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "genres": [
+        "триллер"
       ]
     },
     {
@@ -1889,6 +1938,23 @@
       ]
     },
     {
+      "id": 8094997,
+      "ru": "Дом Дракона",
+      "en": "House of the Dragon",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.297,
+      "poster": "https://image.tmdb.org/t/p/w342/hXyYN6LFo7QnKUA3QBx7B3KsnJE.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8135934,
       "ru": "Легенда о Vox Machina",
       "en": "The Legend of Vox Machina",
@@ -2344,6 +2410,21 @@
       ]
     },
     {
+      "id": 8040879,
+      "ru": "Дома есть дома",
+      "en": "Dahoam is Dahoam",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 7064736,
       "ru": "Питер FM",
       "en": "Питер FM",
@@ -2422,6 +2503,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/9LIuxUjJ2Cc4DMXFRN2ReCMBKDD.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8001433,
+      "ru": "Американский папаша!",
+      "en": "American Dad!",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.007,
+      "poster": "https://image.tmdb.org/t/p/w342/6Oz0DW4H6f1LH0UWsdjVeZyalDH.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
       ]
     },
     {
