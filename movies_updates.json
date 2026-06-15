@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "movies": [
     {
       "id": 8289147,
@@ -1320,6 +1320,22 @@
       ]
     },
     {
+      "id": 8239134,
+      "ru": "भूत बंगला",
+      "en": "भूत बंगला",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.531,
+      "poster": "https://image.tmdb.org/t/p/w342/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
       "id": 8318203,
       "ru": "Элис и Стив",
       "en": "Alice and Steve",
@@ -1351,6 +1367,22 @@
         "НФ и Фэнтези",
         "семейный",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8322430,
+      "ru": "Многоженец",
+      "en": "The Polygamist",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/unauZrKoQBBVKUuV66tlZvQWM1w.jpg",
+      "genres": [
+        "драма",
+        "Мыльная опера"
       ]
     },
     {
@@ -1675,6 +1707,22 @@
       ]
     },
     {
+      "id": 8284631,
+      "ru": "राख",
+      "en": "राख",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/5MbNy94ia4ZLf8OGtSfSjjlxxWN.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8279865,
       "ru": "И наступит рассвет",
       "en": "花緑青が明ける日に",
@@ -1766,6 +1814,24 @@
       "poster": "",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8108427,
+      "ru": "Моана",
+      "en": "Moana",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/s7o0gbvgpjwb8S0Uc5QaEdwJntb.jpg",
+      "genres": [
+        "семейный",
+        "фэнтези",
+        "комедия",
+        "приключения"
       ]
     },
     {
@@ -2226,6 +2292,22 @@
         "НФ и Фэнтези",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8059941,
+      "ru": "Ночное шоу с Джимми Фэллоном",
+      "en": "The Tonight Show Starring Jimmy Fallon",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.829,
+      "poster": "https://image.tmdb.org/t/p/w342/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "genres": [
+        "комедия",
+        "Ток-шоу"
       ]
     },
     {
@@ -2746,6 +2828,22 @@
       ]
     },
     {
+      "id": 7011012,
+      "ru": "Ущерб",
+      "en": "Damage",
+      "year": "1992",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8000549,
       "ru": "Закон и порядок",
       "en": "Law & Order",
@@ -2806,6 +2904,21 @@
       "studio": "",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/kWlQqBbyrtGfcYU1qRqwCaEmBuz.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8112079,
+      "ru": "狂潮",
+      "en": "狂潮",
+      "year": "1976",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/w5hwoVacFcF6a6YZ8CKHsR2gwH9.jpg",
       "genres": [
         "драма"
       ]
