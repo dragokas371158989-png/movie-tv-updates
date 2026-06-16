@@ -1,6 +1,25 @@
 {
-  "version": 11,
+  "version": 12,
   "movies": [
+    {
+      "id": 7421892,
+      "ru": "Шрэк 5",
+      "en": "Shrek 5",
+      "year": "2027",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "фэнтези",
+        "приключения"
+      ]
+    },
     {
       "id": 8289147,
       "ru": "灵魂摆渡·十年",
@@ -484,6 +503,23 @@
       ]
     },
     {
+      "id": 8295509,
+      "ru": "Военный повар становится легендой",
+      "en": "취사병 전설이 되다",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.778,
+      "poster": "https://image.tmdb.org/t/p/w342/cJySJ78G5iJ2yrvdLO7e5PIBnUZ.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8419406,
       "ru": "Охота за тенью",
       "en": "捕风追影",
@@ -863,6 +899,22 @@
       ]
     },
     {
+      "id": 7912378,
+      "ru": "ദൃഢം",
+      "en": "ദൃഢം",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/fXSdAujfiRRW6LqekN4FvFQidh3.jpg",
+      "genres": [
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
       "id": 8280525,
       "ru": "Школа магических зверей. Хранители чуда",
       "en": "Die Schule der magischen Tiere 4",
@@ -1041,6 +1093,22 @@
         "боевик",
         "фэнтези",
         "приключения"
+      ]
+    },
+    {
+      "id": 8127384,
+      "ru": "Глубокие воды",
+      "en": "Deep Water",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.667,
+      "poster": "https://image.tmdb.org/t/p/w342/ySc7DcmVWzdAOwCrIo3RdRdepLN.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
       ]
     },
     {
@@ -1935,6 +2003,22 @@
       ]
     },
     {
+      "id": 8226293,
+      "ru": "Salitan",
+      "en": "Salitan",
+      "year": "2024",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.714,
+      "poster": "https://image.tmdb.org/t/p/w342/rMgG7cWuq9O6zhhLs2CbqIKVA8V.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8223911,
       "ru": "Противостояние святого",
       "en": "仙逆",
@@ -2272,6 +2356,23 @@
       "genres": [
         "мультфильм",
         "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8066732,
+      "ru": "Очень странные дела",
+      "en": "Stranger Things",
+      "year": "2016",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.564,
+      "poster": "https://image.tmdb.org/t/p/w342/nW3cral1e2r3xfLySPE1U9bailS.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "детектив",
         "НФ и Фэнтези"
       ]
     },
