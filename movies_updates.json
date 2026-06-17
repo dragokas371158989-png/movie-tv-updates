@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "movies": [
     {
       "id": 7421892,
@@ -402,6 +402,24 @@
       ]
     },
     {
+      "id": 8461201,
+      "ru": "Хранитель камфорного дерева",
+      "en": "クスノキの番人",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2nHuvIyZyDiiebg0XPl7qQLz2R3.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "детектив",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8318413,
       "ru": "Давление",
       "en": "Pressure",
@@ -416,6 +434,21 @@
         "триллер",
         "история",
         "военный"
+      ]
+    },
+    {
+      "id": 8288603,
+      "ru": "炽夏",
+      "en": "炽夏",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -583,6 +616,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/AsPFMI3PhgCsraMq7RmMJwFQh2b.jpg",
       "genres": [
         "музыка",
+        "драма"
+      ]
+    },
+    {
+      "id": 8477317,
+      "ru": "Твоя вина: Лондон",
+      "en": "Your Fault: London",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+      "genres": [
+        "мелодрама",
         "драма"
       ]
     },
@@ -915,6 +964,23 @@
       ]
     },
     {
+      "id": 8166170,
+      "ru": "Любовь с того света",
+      "en": "L’Âme Idéale",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.968,
+      "poster": "https://image.tmdb.org/t/p/w342/pMtH3uRBwBTu86ZQNj2CaUvEjcp.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8280525,
       "ru": "Школа магических зверей. Хранители чуда",
       "en": "Die Schule der magischen Tiere 4",
@@ -1076,6 +1142,22 @@
         "боевик",
         "триллер",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8305715,
+      "ru": "Легенда навсегда",
+      "en": "过家家",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/rwdLcQeV9TB6Qc1JU0EC387bUQi.jpg",
+      "genres": [
+        "комедия",
+        "драма"
       ]
     },
     {
@@ -1306,6 +1388,22 @@
       "genres": [
         "криминал",
         "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8304517,
+      "ru": "Pembantaian Dukun Santet",
+      "en": "Pembantaian Dukun Santet",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/x1mSlLW4pkfPGcya9xXYGLFhrXZ.jpg",
+      "genres": [
+        "ужасы",
         "триллер"
       ]
     },
@@ -1615,6 +1713,22 @@
       ]
     },
     {
+      "id": 8020047,
+      "ru": "Кодекс Данте",
+      "en": "In the Hand of Dante",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/i85r5XToa1qC8jyjoo4BbyMmdPT.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8664119,
       "ru": "Малыш-каратист",
       "en": "Малыш-каратист",
@@ -1629,6 +1743,23 @@
         "боевик",
         "драма",
         "семейный"
+      ]
+    },
+    {
+      "id": 8645599,
+      "ru": "Трасса «Море — море»",
+      "en": "Трасса «Море — море»",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/guaZxhqW8LXknd2BzD6JKTFG3OM.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама",
+        "приключения"
       ]
     },
     {
@@ -1851,6 +1982,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/etcR0lFrEBEmcgi9n80uUee2ejf.jpg",
       "genres": [
         "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8249208,
+      "ru": "Пасть",
+      "en": "Hungry",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ehxl8DygBVPQFy6pOXirASD6HpQ.jpg",
+      "genres": [
         "драма"
       ]
     },
