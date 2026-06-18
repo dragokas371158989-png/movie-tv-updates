@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "movies": [
     {
       "id": 7421892,
@@ -34,6 +34,23 @@
       "genres": [
         "Боевик и Приключения",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8278178,
+      "ru": "Я тебя отыщу",
+      "en": "I Will Find You",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.429,
+      "poster": "https://image.tmdb.org/t/p/w342/tz1msIMyN5IAl2W4C0JBsjIadPj.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "криминал"
       ]
     },
     {
@@ -197,6 +214,22 @@
       ]
     },
     {
+      "id": 8300054,
+      "ru": "Путь Баки: непобедимый самурай",
+      "en": "刃牙道",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.9,
+      "poster": "https://image.tmdb.org/t/p/w342/1mbqWrW4nhItd17iWVj4AWqLvHT.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8220102,
       "ru": "Паук-Нуар",
       "en": "Spider-Noir",
@@ -211,6 +244,23 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8303143,
+      "ru": "Дивный новый мир",
+      "en": "멋진 신세계",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w342/u2cX3CVzUZLIGVwd9HB7bUhE7OP.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -1890,6 +1940,25 @@
       ]
     },
     {
+      "id": 8315772,
+      "ru": "Миньоны и монстры",
+      "en": "Minions & Monsters",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/kuVqoYoUnlL9OLhGfobqMRYxVIT.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8312493,
       "ru": "喧嘩独学",
       "en": "喧嘩独学",
@@ -2326,6 +2395,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8604143,
+      "ru": "나는 신혼 너는 재혼",
+      "en": "나는 신혼 너는 재혼",
+      "year": "2021",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wTFF1SFTDYL7M1yWjY0K8Ga5pZS.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -3026,6 +3110,19 @@
         "Новости",
         "комедия"
       ]
+    },
+    {
+      "id": 8110075,
+      "ru": "一夫三妻",
+      "en": "一夫三妻",
+      "year": "1994",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/rZan9uyHoK5jY0DtN5w4XgwN362.jpg",
+      "genres": []
     },
     {
       "id": 7001089,
