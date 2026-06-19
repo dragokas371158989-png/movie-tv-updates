@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "movies": [
     {
       "id": 7421892,
@@ -718,6 +718,21 @@
       ]
     },
     {
+      "id": 8365378,
+      "ru": "Мечтать не вредно",
+      "en": "Le rêve américain",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.474,
+      "poster": "https://image.tmdb.org/t/p/w342/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8397364,
       "ru": "Грация",
       "en": "La grazia",
@@ -1257,6 +1272,22 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 7614945,
+      "ru": "Сообщения для Изабель",
+      "en": "Voicemails for Isabelle",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.625,
+      "poster": "https://image.tmdb.org/t/p/w342/canZTWSxACSnAluir3dCtMxKpA1.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
       ]
     },
     {
@@ -1876,6 +1907,22 @@
       ]
     },
     {
+      "id": 8451344,
+      "ru": "Мужья в действии",
+      "en": "남편들",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+      "genres": [
+        "комедия",
+        "боевик"
+      ]
+    },
+    {
       "id": 8430698,
       "ru": "Кровавая бухта",
       "en": "The Bay",
@@ -1972,6 +2019,23 @@
       "genres": [
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8296285,
+      "ru": "Оазис",
+      "en": "Oasis",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+      "genres": [
+        "криминал",
+        "детектив",
+        "драма"
       ]
     },
     {
@@ -2218,6 +2282,22 @@
       ]
     },
     {
+      "id": 8203744,
+      "ru": "Шугар",
+      "en": "Sugar",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.261,
+      "poster": "https://image.tmdb.org/t/p/w342/ePhxZ1PY0A8JnOGNL6L2FXAbM00.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8226293,
       "ru": "Salitan",
       "en": "Salitan",
@@ -2395,6 +2475,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8107447,
+      "ru": "Клиника счастья",
+      "en": "Клиника счастья",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/xentLF59TVB91jQCKYNQU5onbg.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -3185,6 +3281,22 @@
       "genres": [
         "драма",
         "мелодрама"
+      ]
+    },
+    {
+      "id": 8013945,
+      "ru": "Хорошие времена, плохие времена",
+      "en": "Gute Zeiten, schlechte Zeiten",
+      "year": "1992",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.458,
+      "poster": "https://image.tmdb.org/t/p/w342/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+      "genres": [
+        "драма",
+        "Мыльная опера"
       ]
     },
     {
