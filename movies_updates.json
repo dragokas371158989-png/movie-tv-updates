@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "movies": [
     {
       "id": 7421892,
@@ -637,6 +637,23 @@
       ]
     },
     {
+      "id": 8288659,
+      "ru": "Агенты четырёх сезонов: Весенний танец",
+      "en": "春夏秋冬代行者 春の舞",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/afEr8Eha1qKTy41uXEOWHkiH5jj.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 7454639,
       "ru": "Властелины вселенной",
       "en": "Masters of the Universe",
@@ -960,6 +977,22 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8564614,
+      "ru": "Левит",
+      "en": "Leviticus",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.091,
+      "poster": "https://image.tmdb.org/t/p/w342/luuJMXVR2nAgI51TScvUmPfrAOM.jpg",
+      "genres": [
+        "ужасы",
+        "мелодрама"
       ]
     },
     {
@@ -1441,6 +1474,22 @@
       ]
     },
     {
+      "id": 8284465,
+      "ru": "Смерть Робин Гуда",
+      "en": "The Death of Robin Hood",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.118,
+      "poster": "https://image.tmdb.org/t/p/w342/bv3ResPWfXVEOeDUwTW7XoC04Yh.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 8517069,
       "ru": "Марк глазами Софии",
       "en": "Marc by Sofia",
@@ -1711,6 +1760,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/ljVL5zbS9qOHLwnb3cfvb7xAWlg.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8392469,
+      "ru": "कॉकटेल २",
+      "en": "कॉकटेल २",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/sJB5guRMyS6jLo0cLsY8cYBAjzQ.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
       ]
     },
     {
@@ -2023,6 +2088,22 @@
       ]
     },
     {
+      "id": 8315038,
+      "ru": "ரிசார்ட்",
+      "en": "ரிசார்ட்",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/cL7iOwqapRRb7eKKlXI4FDaP6rh.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8312493,
       "ru": "喧嘩独学",
       "en": "喧嘩独学",
@@ -2052,6 +2133,22 @@
       "genres": [
         "криминал",
         "детектив",
+        "драма"
+      ]
+    },
+    {
+      "id": 8289763,
+      "ru": "내일도 출근!",
+      "en": "내일도 출근!",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/8elsOXGUKIJ9CCnjHSh8j2fQxjP.jpg",
+      "genres": [
+        "комедия",
         "драма"
       ]
     },
@@ -2610,6 +2707,22 @@
       ]
     },
     {
+      "id": 8096316,
+      "ru": "Девушка на час",
+      "en": "彼女、お借りします",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/wyOT9KGEZLHzPFVB0N8PWV1c043.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
       "id": 8102904,
       "ru": "Сладкие магнолии",
       "en": "Sweet Magnolias",
@@ -2999,6 +3112,21 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8003172,
+      "ru": "Частная практика",
+      "en": "Private Practice",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.533,
+      "poster": "https://image.tmdb.org/t/p/w342/pW20ANAGdrgreYJExduUVaWos6H.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
