@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "movies": [
     {
       "id": 7421892,
@@ -1011,6 +1011,22 @@
         "детектив",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8340206,
+      "ru": "Настройщик",
+      "en": "Tuner",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wLdcMUsKepVXXxFVZYTEc5JGc21.jpg",
+      "genres": [
+        "триллер",
+        "криминал"
       ]
     },
     {
