@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "movies": [
     {
       "id": 7421892,
@@ -18,6 +18,21 @@
         "семейный",
         "фэнтези",
         "приключения"
+      ]
+    },
+    {
+      "id": 8322427,
+      "ru": "The American Experiment",
+      "en": "The American Experiment",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
@@ -452,6 +467,23 @@
       ]
     },
     {
+      "id": 8470334,
+      "ru": "Колючая и ушастый",
+      "en": "Allez Hëpp Hopp Hopp!",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2Nws6O9FUN0LbeR3PBqsmJKVQRy.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "приключения"
+      ]
+    },
+    {
       "id": 8461201,
       "ru": "Хранитель камфорного дерева",
       "en": "クスノキの番人",
@@ -637,6 +669,23 @@
       ]
     },
     {
+      "id": 8301421,
+      "ru": "Следствие ведут овечки",
+      "en": "The Sheep Detectives",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/JHRxN92OgTixFDR1T8FdZfrPvn.jpg",
+      "genres": [
+        "комедия",
+        "семейный",
+        "детектив"
+      ]
+    },
+    {
       "id": 8288659,
       "ru": "Агенты четырёх сезонов: Весенний танец",
       "en": "春夏秋冬代行者 春の舞",
@@ -747,6 +796,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8284016,
+      "ru": "Это хит!",
+      "en": "Power Ballad",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.438,
+      "poster": "https://image.tmdb.org/t/p/w342/duWKGefwLVN34Dfd3Nx4NkFrIf7.jpg",
+      "genres": [
+        "комедия",
+        "музыка",
+        "драма"
       ]
     },
     {
@@ -1506,6 +1572,22 @@
       ]
     },
     {
+      "id": 8134682,
+      "ru": "Астрал. Власть тьмы",
+      "en": "Kuasa Gelap",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/iKO0T68wGUll6GwfGWQ7BGbrqyj.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8517069,
       "ru": "Марк глазами Софии",
       "en": "Marc by Sofia",
@@ -1678,6 +1760,23 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8255674,
+      "ru": "Безумная старуха",
+      "en": "Vieja loca",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/669MUVWVctgxCDBpeaiorOgDjjI.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "комедия"
       ]
     },
     {
@@ -1922,6 +2021,21 @@
         "боевик",
         "драма",
         "семейный"
+      ]
+    },
+    {
+      "id": 8648388,
+      "ru": "Отпуск на всю голову",
+      "en": "Отпуск на всю голову",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -2530,6 +2644,22 @@
       ]
     },
     {
+      "id": 8218613,
+      "ru": "Храм: Никто не может жить в одиночестве",
+      "en": "てんぷる",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/nJLNwxIrKFr2H2mPrR4kHQSCBOI.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
       "id": 8124364,
       "ru": "Извне",
       "en": "FROM",
@@ -3030,6 +3160,23 @@
         "комедия",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8046952,
+      "ru": "Чёрный список",
+      "en": "The Blacklist",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.631,
+      "poster": "https://image.tmdb.org/t/p/w342/i8NA7TqNgnXuAtDeQOF5baX0jI6.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив"
       ]
     },
     {
