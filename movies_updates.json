@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "movies": [
     {
       "id": 7421892,
@@ -1667,6 +1667,23 @@
       ]
     },
     {
+      "id": 8081003,
+      "ru": "Супергёрл",
+      "en": "Supergirl",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gcAZ5f6Y40koGYcfPUqb2tmnVd.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8413976,
       "ru": "Citizen Vigilante",
       "en": "Citizen Vigilante",
@@ -2727,6 +2744,22 @@
       ]
     },
     {
+      "id": 8136315,
+      "ru": "Медведь",
+      "en": "The Bear",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/moFSxli4RPhKtCU26WyW6tJj0Vm.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8154770,
       "ru": "你好，星期六",
       "en": "你好，星期六",
@@ -2755,6 +2788,23 @@
       "genres": [
         "Реалити-шоу",
         "комедия"
+      ]
+    },
+    {
+      "id": 8232393,
+      "ru": "6 LOVERS",
+      "en": "6 LOVERS",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "драма"
       ]
     },
     {
@@ -3721,6 +3771,22 @@
         "семейный",
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8001021,
+      "ru": "Катастрофа ",
+      "en": "Casualty",
+      "year": "1986",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/oPPClLJtWzeHMojXsGsV09QOTSB.jpg",
+      "genres": [
+        "драма",
+        "Мыльная опера"
       ]
     },
     {
