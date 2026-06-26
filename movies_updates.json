@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "movies": [
     {
       "id": 7421892,
@@ -33,6 +33,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 8286360,
+      "ru": "맨 끝줄 소년",
+      "en": "맨 끝줄 소년",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
+      "genres": [
+        "детектив",
+        "драма"
       ]
     },
     {
@@ -1457,6 +1473,21 @@
       ]
     },
     {
+      "id": 8474226,
+      "ru": "Омен. Обличие дьявола",
+      "en": "El vestido",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 7824003,
       "ru": "Фантом. Кто ты?",
       "en": "Diabolik - Chi sei?",
@@ -2136,6 +2167,24 @@
       ]
     },
     {
+      "id": 8455670,
+      "ru": "Кай и Герда: Путешествие к Снежной королеве",
+      "en": "Reisen mot Nord",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/uL67I1J5NxxXzQqLWLBfTHOfhL4.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8451344,
       "ru": "Мужья в действии",
       "en": "남편들",
@@ -2395,6 +2444,22 @@
       ]
     },
     {
+      "id": 8212763,
+      "ru": "Зловещие мертвецы: Пекло",
+      "en": "Evil Dead Burn",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/nbQgIssZPp1WsX1BF1OK7rBKe98.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8180894,
       "ru": "Оно приходит снизу",
       "en": "Bajo tus pies",
@@ -2556,6 +2621,24 @@
       "genres": [
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8082452,
+      "ru": "Аватар: Легенда об Аанге",
+      "en": "Avatar: The Last Airbender",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/EdUABIsxRsYCousbtWeia8gVzD.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "семейный",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -2931,6 +3014,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/fhBvB92Z1Rp8tcPYogDI5wYsG7d.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8086031,
+      "ru": "Доктор Стоун",
+      "en": "Dr.STONE",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.541,
+      "poster": "https://image.tmdb.org/t/p/w342/sv5t4C0Nj6aJYS1N3K2AvHmnw67.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "комедия",
+        "НФ и Фэнтези"
       ]
     },
     {
