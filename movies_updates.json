@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "movies": [
     {
       "id": 7421892,
@@ -324,6 +324,23 @@
       "genres": [
         "боевик",
         "криминал"
+      ]
+    },
+    {
+      "id": 8296206,
+      "ru": "Агент Ким возобновил свою деятельность.",
+      "en": "김부장",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -1715,6 +1732,21 @@
       ]
     },
     {
+      "id": 8397385,
+      "ru": "Братик",
+      "en": "Little Brother",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.919,
+      "poster": "https://image.tmdb.org/t/p/w342/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8413976,
       "ru": "Citizen Vigilante",
       "en": "Citizen Vigilante",
@@ -2004,6 +2036,21 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8295780,
+      "ru": "Life, Larry and the Pursuit of Unhappiness",
+      "en": "Life, Larry and the Pursuit of Unhappiness",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -2624,6 +2671,38 @@
       ]
     },
     {
+      "id": 8290138,
+      "ru": "ग्राम चिकित्सालय",
+      "en": "ग्राम चिकित्सालय",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/peRHZYhvuA6MLTJkpf5nIjgsWx5.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8259231,
+      "ru": "Палач богов: между смертным и божественным царством",
+      "en": "斩神之凡尘神域",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/xcfyh502MKduGlz2qCzR2xvti2j.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8082452,
       "ru": "Аватар: Легенда об Аанге",
       "en": "Avatar: The Last Airbender",
@@ -2687,6 +2766,24 @@
       "genres": [
         "драма",
         "мелодрама"
+      ]
+    },
+    {
+      "id": 8220150,
+      "ru": "Покемон: Отправление Лико и Роя",
+      "en": "ポケットモンスター",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w342/3yxoF57XE5oAG71FcPOXWxHKv89.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "Детский"
       ]
     },
     {
@@ -3682,6 +3779,25 @@
         "Боевик и Приключения",
         "комедия",
         "мультфильм"
+      ]
+    },
+    {
+      "id": 8045952,
+      "ru": "Охотник х охотник",
+      "en": "HUNTER×HUNTER",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/mnt2sAemjxeHNJLJMcNzooA2HPU.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "Боевик и Приключения",
+        "мультфильм",
+        "комедия",
+        "драма"
       ]
     },
     {
