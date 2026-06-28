@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "movies": [
     {
       "id": 7421892,
@@ -864,6 +864,24 @@
       ]
     },
     {
+      "id": 8175842,
+      "ru": "Момо",
+      "en": "Momo",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/t3igABxx2wkslwdlTBDYHzyNfL6.jpg",
+      "genres": [
+        "семейный",
+        "фэнтези",
+        "приключения",
+        "драма"
+      ]
+    },
+    {
       "id": 8323411,
       "ru": "Вампир Лестат",
       "en": "The Vampire Lestat",
@@ -877,6 +895,24 @@
       "genres": [
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8515729,
+      "ru": "Blast",
+      "en": "Blast",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.235,
+      "poster": "https://image.tmdb.org/t/p/w342/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "genres": [
+        "драма",
+        "боевик",
+        "семейный",
+        "триллер"
       ]
     },
     {
@@ -2522,6 +2558,24 @@
       ]
     },
     {
+      "id": 8169516,
+      "ru": "Welcome to the Jungle",
+      "en": "Welcome to the Jungle",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "приключения",
+        "криминал"
+      ]
+    },
+    {
       "id": 8128204,
       "ru": "Feed",
       "en": "Feed",
@@ -2671,6 +2725,22 @@
       ]
     },
     {
+      "id": 8246461,
+      "ru": "Шерлок и дочь",
+      "en": "Sherlock & Daughter",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.638,
+      "poster": "https://image.tmdb.org/t/p/w342/gEO7oNI0QlydOjpLrTuh0bMXRCC.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8290138,
       "ru": "ग्राम चिकित्सालय",
       "en": "ग्राम चिकित्सालय",
@@ -2699,6 +2769,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/xcfyh502MKduGlz2qCzR2xvti2j.jpg",
       "genres": [
         "мультфильм",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8245842,
+      "ru": "Меч и жезл Вистории",
+      "en": "杖と剣のウィストリア",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/pNw4oqYjjbGmnAe1sp1Eddu4VQg.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
         "НФ и Фэнтези"
       ]
     },
@@ -2750,6 +2837,21 @@
       "genres": [
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8241002,
+      "ru": "Мучайся, Адам",
+      "en": "悶えてよ、アダムくん",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/i4iZttWVjGQZaJzB8Wmess2T6C3.jpg",
+      "genres": [
+        "мультфильм"
       ]
     },
     {
@@ -2952,6 +3054,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8094664,
+      "ru": "Реинкарнация безработного: История о приключениях в другом мире",
+      "en": "無職転生 ～異世界行ったら本気だす～",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/bC2DRV5S6BDtW0DmAqN3g3xtLoP.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "НФ и Фэнтези"
       ]
     },
     {
