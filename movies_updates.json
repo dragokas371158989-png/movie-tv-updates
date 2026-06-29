@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "movies": [
     {
       "id": 7421892,
@@ -33,6 +33,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 8316407,
+      "ru": "沦陷",
+      "en": "沦陷",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/9XJksKK7BWVUfr9vUIYd3AdA1Vl.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -781,6 +796,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/nLxu237EJAisFCYKK48hN9Plobx.jpg",
       "genres": [
         "мелодрама",
+        "драма"
+      ]
+    },
+    {
+      "id": 8314402,
+      "ru": "พี่ฟากชอบเธอมู่",
+      "en": "พี่ฟากชอบเธอมู่",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/nhhfvJRIXC5a7d5eOZOhu1vrTWG.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -2332,6 +2362,23 @@
       ]
     },
     {
+      "id": 8322055,
+      "ru": "검사실의 제안",
+      "en": "검사실의 제안",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fxEfx2Tt98l4oW2KI0GU3Q0qgnB.jpg",
+      "genres": [
+        "детектив",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8321008,
       "ru": "Рейс 298",
       "en": "Black Box (Flight 298)",
@@ -3785,6 +3832,19 @@
       "genres": [
         "Мыльная опера"
       ]
+    },
+    {
+      "id": 8004304,
+      "ru": "Xplay",
+      "en": "Xplay",
+      "year": "2003",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+      "genres": []
     },
     {
       "id": 8004614,
