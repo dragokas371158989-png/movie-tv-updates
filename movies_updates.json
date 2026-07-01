@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "movies": [
     {
       "id": 7421892,
@@ -208,6 +208,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/1uuVhAwTRvileHfXdO46dYTiJef.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8303493,
+      "ru": "Любовный контракт",
+      "en": "ซีรีส์",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/8MdbW6O2wF3BwmfgSxlHi1E2xwK.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -680,6 +696,24 @@
         "НФ и Фэнтези",
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8202033,
+      "ru": "Энола Холмс 3",
+      "en": "Enola Holmes 3",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.731,
+      "poster": "https://image.tmdb.org/t/p/w342/eTjUnXaWpkQbuDcBQV8oI1IeC9r.jpg",
+      "genres": [
+        "детектив",
+        "триллер",
+        "приключения",
+        "криминал"
       ]
     },
     {
@@ -1179,6 +1213,22 @@
       ]
     },
     {
+      "id": 8355213,
+      "ru": "Сладкая сказка",
+      "en": "Cukrkandl",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/g1kRWwNOq52UBKFv1NMAnl7iAIT.jpg",
+      "genres": [
+        "семейный",
+        "приключения"
+      ]
+    },
+    {
       "id": 8340206,
       "ru": "Настройщик",
       "en": "Tuner",
@@ -1421,6 +1471,24 @@
         "боевик",
         "триллер",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8559535,
+      "ru": "Патруль времени",
+      "en": "Time Hoppers: The Silk Road",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/4kvhX5E9qiBCreNVIGSp7gikD5j.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "фантастика",
+        "приключения"
       ]
     },
     {
@@ -1830,6 +1898,23 @@
       ]
     },
     {
+      "id": 8391149,
+      "ru": "Орудия. Новая глава",
+      "en": "Waktu Maghrib 2",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/dTbDKuvr20EiyZxGDzBSMagonB1.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
       "id": 8187294,
       "ru": "Кто есть кто?",
       "en": "¿Quién es quién?",
@@ -2233,6 +2318,22 @@
       ]
     },
     {
+      "id": 8597659,
+      "ru": "На деревню дедушке 2",
+      "en": "На деревню дедушке 2",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8596259,
       "ru": "Дед Фомич",
       "en": "Дед Фомич",
@@ -2249,6 +2350,22 @@
       ]
     },
     {
+      "id": 8590177,
+      "ru": "Мой дикий друг. Возвращение домой",
+      "en": "Мой дикий друг. Возвращение домой",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/134gXePEHqlOYivSUTzi9nubBgU.jpg",
+      "genres": [
+        "семейный",
+        "приключения"
+      ]
+    },
+    {
       "id": 8488184,
       "ru": "Касса невест",
       "en": "Касса невест",
@@ -2262,6 +2379,23 @@
       "genres": [
         "комедия",
         "приключения"
+      ]
+    },
+    {
+      "id": 8469342,
+      "ru": "Её личный ад",
+      "en": "Her Private Hell",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/kncKYCe4stYQ1YPAmIcvtjpF1Bc.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика",
+        "триллер"
       ]
     },
     {
@@ -2559,6 +2693,22 @@
       ]
     },
     {
+      "id": 8254420,
+      "ru": "Эль",
+      "en": "Elle",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/eTVGx3hI4bmiut14oaHYDg9zjP3.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8249208,
       "ru": "Пасть",
       "en": "Hungry",
@@ -2638,6 +2788,22 @@
       ]
     },
     {
+      "id": 8122030,
+      "ru": "ऐल्फा",
+      "en": "ऐल्फा",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/icc9FNUr4jSv80QpoxGLQhxGu0q.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
       "id": 8108427,
       "ru": "Моана",
       "en": "Moana",
@@ -2688,6 +2854,22 @@
         "фантастика",
         "боевик",
         "приключения"
+      ]
+    },
+    {
+      "id": 7890216,
+      "ru": "Чужой. Остров проклятых",
+      "en": "Pacífico",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/nB1Hq2Gz8Q5lUQAGDHNdXbyfoIF.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика"
       ]
     },
     {
@@ -2801,6 +2983,23 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8138502,
+      "ru": "Люди Икс '97",
+      "en": "X-Men '97",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/dboSanhToCuyjNHYvJLCRc39Koe.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -3736,6 +3935,21 @@
         "комедия",
         "драма",
         "мелодрама"
+      ]
+    },
+    {
+      "id": 8013805,
+      "ru": "A Girl's Guide to 21st Century Sex",
+      "en": "A Girl's Guide to 21st Century Sex",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.2,
+      "poster": "https://image.tmdb.org/t/p/w342/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
