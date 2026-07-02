@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "movies": [
     {
       "id": 7421892,
@@ -223,6 +223,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/8MdbW6O2wF3BwmfgSxlHi1E2xwK.jpg",
       "genres": [
         "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8298994,
+      "ru": "Крестьянин 999 уровня",
+      "en": "LV999の村人",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
         "НФ и Фэнтези"
       ]
     },
@@ -717,6 +734,23 @@
       ]
     },
     {
+      "id": 8266127,
+      "ru": "Я иду искать 2",
+      "en": "Ready or Not: Here I Come",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.688,
+      "poster": "https://image.tmdb.org/t/p/w342/tlqqwUXe4uK3hqmghtYSir1i80O.jpg",
+      "genres": [
+        "триллер",
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
       "id": 8419406,
       "ru": "Охота за тенью",
       "en": "捕风追影",
@@ -1160,6 +1194,21 @@
       "genres": [
         "мелодрама",
         "комедия"
+      ]
+    },
+    {
+      "id": 8287976,
+      "ru": "Лето 36",
+      "en": "L'Été 36",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/yaHpzaMzWoqbZWNehAmaRhPI0J7.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -2629,6 +2678,21 @@
       ]
     },
     {
+      "id": 8283609,
+      "ru": "Super Subbu",
+      "en": "Super Subbu",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8279865,
       "ru": "И наступит рассвет",
       "en": "花緑青が明ける日に",
@@ -2706,6 +2770,22 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8253960,
+      "ru": "Газовый человек",
+      "en": "ガス人間",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/b9K6fvpHqDJFcLn1OOjbLi1VEgn.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "криминал"
       ]
     },
     {
@@ -3168,6 +3248,22 @@
         "мультфильм",
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8125988,
+      "ru": "Укрытие",
+      "en": "Silo",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.165,
+      "poster": "https://image.tmdb.org/t/p/w342/hjbi9TfsJ9kENZOZqVNJa5IRMM2.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма"
       ]
     },
     {
@@ -3806,6 +3902,23 @@
       "genres": [
         "мультфильм",
         "Детский"
+      ]
+    },
+    {
+      "id": 8062245,
+      "ru": "Club Friday",
+      "en": "Club Friday",
+      "year": "2012",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/zPrnYxh7uaUdPQ3EGMxgcTrcG59.jpg",
+      "genres": [
+        "драма",
+        "семейный",
+        "комедия"
       ]
     },
     {
