@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "movies": [
     {
       "id": 7421892,
@@ -2610,6 +2610,23 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8312949,
+      "ru": "Табакошка",
+      "en": "ヤニねこ",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/hnaknaMGgZimRXrCX8KwL2LlPsJ.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "НФ и Фэнтези"
       ]
     },
     {
