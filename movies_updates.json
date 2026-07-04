@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "movies": [
     {
       "id": 7421892,
@@ -1915,6 +1915,25 @@
       ]
     },
     {
+      "id": 8061794,
+      "ru": "Шевели перьями!",
+      "en": "Orzełek Iggy",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2Di0JzlJ8Y1ateyEfu8Ch4WHil5.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "приключения",
+        "фантастика",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8397385,
       "ru": "Братик",
       "en": "Little Brother",
@@ -2299,6 +2318,21 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8705729,
+      "ru": "Man of War",
+      "en": "Man of War",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "genres": [
+        "боевик"
       ]
     },
     {
@@ -3592,6 +3626,22 @@
       ]
     },
     {
+      "id": 7000278,
+      "ru": "Побег из Шоушенка",
+      "en": "The Shawshank Redemption",
+      "year": "2019",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.723,
+      "poster": "https://image.tmdb.org/t/p/w342/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8086031,
       "ru": "Доктор Стоун",
       "en": "Dr.STONE",
@@ -3717,6 +3767,22 @@
       "rating": 6.6,
       "poster": "https://image.tmdb.org/t/p/w342/eK1D7S3yfBDtx92bwSwC3Gvt8On.jpg",
       "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8317270,
+      "ru": "Minnale",
+      "en": "Minnale",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wACr0ARXdPXZeakkw2ecg4PrDId.jpg",
+      "genres": [
+        "драма",
         "Мыльная опера"
       ]
     },
@@ -4607,6 +4673,37 @@
         "Боевик и Приключения",
         "НФ и Фэнтези",
         "драма"
+      ]
+    },
+    {
+      "id": 7140638,
+      "ru": "Кошечка, кошечка, я люблю тебя",
+      "en": "Pussycat, Pussycat, I Love You",
+      "year": "1970",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.32,
+      "poster": "https://image.tmdb.org/t/p/w342/5NG3iF6mli8QMJYNsbzWxzW04t4.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 8000502,
+      "ru": "Улица Сезам",
+      "en": "Sesame Street",
+      "year": "1969",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.107,
+      "poster": "https://image.tmdb.org/t/p/w342/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+      "genres": [
+        "Детский",
+        "комедия"
       ]
     },
     {
