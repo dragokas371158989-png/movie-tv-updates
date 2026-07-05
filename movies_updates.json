@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "movies": [
     {
       "id": 7421892,
@@ -407,6 +407,22 @@
         "детектив",
         "комедия",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8278043,
+      "ru": "Ты и я — полные противоположности",
+      "en": "正反対な君と僕",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/oaRAGQTP67a22yDBXoA4hZBb6v6.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
       ]
     },
     {
@@ -2693,6 +2709,21 @@
       "genres": [
         "криминал",
         "детектив",
+        "драма"
+      ]
+    },
+    {
+      "id": 8291392,
+      "ru": "野狗骨头",
+      "en": "野狗骨头",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ixwG1ECra9rSTuRCql81mkMoLVO.jpg",
+      "genres": [
         "драма"
       ]
     },
