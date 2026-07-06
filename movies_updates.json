@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "movies": [
     {
       "id": 7421892,
@@ -392,6 +392,24 @@
       ]
     },
     {
+      "id": 8243206,
+      "ru": "प्रीतम और पेड्रो",
+      "en": "प्रीतम और पेड्रो",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/ajkBXNt5tcNsc0cVpTSZW24oyUg.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив",
+        "комедия"
+      ]
+    },
+    {
       "id": 8229544,
       "ru": "Среди нас",
       "en": "Among Us",
@@ -628,6 +646,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8153217,
+      "ru": "Искры завтрашнего дня",
+      "en": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -1419,6 +1454,23 @@
       "genres": [
         "мелодрама",
         "комедия"
+      ]
+    },
+    {
+      "id": 7080741,
+      "ru": "Инициал Ди: Стадия третья",
+      "en": "劇場版 頭文字D Third Stage",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/gywSZeEkyLcHwxECjqzFJ3Qlu6G.jpg",
+      "genres": [
+        "боевик",
+        "мультфильм",
+        "мелодрама"
       ]
     },
     {
@@ -2628,6 +2680,21 @@
       ]
     },
     {
+      "id": 8316540,
+      "ru": "嫁入高门",
+      "en": "嫁入高门",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/8cp0T45VlImvWqnuJXxTEoDwKjG.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8315772,
       "ru": "Миньоны и монстры",
       "en": "Minions & Monsters",
@@ -2693,6 +2760,22 @@
       "genres": [
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8309974,
+      "ru": "Я влюбился в тебя, когда ты бежала в лунной ночи",
+      "en": "透明な夜に駆ける君と、目に見えない恋をした。",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/u9TxOS0USLgYlX9xc436jYzEk4r.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
       ]
     },
     {
@@ -3349,6 +3432,22 @@
       ]
     },
     {
+      "id": 8223564,
+      "ru": "100 девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+      "en": "君のことが大大大大大好きな100人の彼女",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.125,
+      "poster": "https://image.tmdb.org/t/p/w342/ztTCciRqfx8XsezhBM0fA3xIjjL.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
       "id": 8228429,
       "ru": "斗罗大陆Ⅱ绝世唐门",
       "en": "斗罗大陆Ⅱ绝世唐门",
@@ -3736,6 +3835,24 @@
         "комедия",
         "драма",
         "семейный"
+      ]
+    },
+    {
+      "id": 7301528,
+      "ru": "История игрушек 4",
+      "en": "Toy Story 4",
+      "year": "2019",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/flLgw8DJKbjSblWnZvTvvYL2pRr.jpg",
+      "genres": [
+        "семейный",
+        "комедия",
+        "мультфильм",
+        "приключения"
       ]
     },
     {
@@ -4272,6 +4389,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/AlNWXugy5a9Qhw9pWDGMBtIlNB0.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8030984,
+      "ru": "Блич",
+      "en": "BLEACH",
+      "year": "2004",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/6SS5c54CQUZBuUbgvrgRozvxV4v.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "НФ и Фэнтези"
       ]
     },
     {
