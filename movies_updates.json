@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "movies": [
     {
       "id": 7421892,
@@ -684,6 +684,25 @@
       ]
     },
     {
+      "id": 8167307,
+      "ru": "Храбрый Давид",
+      "en": "David",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.991,
+      "poster": "https://image.tmdb.org/t/p/w342/A7GhmADCd1H2Nqin5dIXIuOaHC5.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "семейный",
+        "история",
+        "музыка"
+      ]
+    },
+    {
       "id": 8393326,
       "ru": "Призрак в клетке",
       "en": "Ghost in the Cell",
@@ -900,6 +919,22 @@
       "genres": [
         "музыка",
         "драма"
+      ]
+    },
+    {
+      "id": 8497463,
+      "ru": "Всё, что мы потеряли",
+      "en": "Todo lo que nunca fuimos",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/5Yu8AOubBNcMVLStjy1TBqkxfXf.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
@@ -2421,6 +2456,21 @@
       ]
     },
     {
+      "id": 8653771,
+      "ru": "Старый орёл",
+      "en": "Старый орёл",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8648388,
       "ru": "Отпуск на всю голову",
       "en": "Отпуск на всю голову",
@@ -2514,6 +2564,22 @@
       "genres": [
         "семейный",
         "приключения"
+      ]
+    },
+    {
+      "id": 8516456,
+      "ru": "Школа призраков",
+      "en": "گوسٹ اسکول",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fbHKVWmFEwQ5LbxYvNJsG7l6TUX.jpg",
+      "genres": [
+        "драма",
+        "фэнтези"
       ]
     },
     {
@@ -2969,6 +3035,23 @@
       ]
     },
     {
+      "id": 8232569,
+      "ru": "Пиноккио: Раскрепощённый",
+      "en": "Pinocchio: Unstrung",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/Ai7VesRDerUCvER1tnsPnfR3iHg.jpg",
+      "genres": [
+        "ужасы",
+        "фэнтези",
+        "детектив"
+      ]
+    },
+    {
       "id": 8212763,
       "ru": "Зловещие мертвецы: Пекло",
       "en": "Evil Dead Burn",
@@ -3115,6 +3198,21 @@
       "genres": [
         "ужасы",
         "фантастика"
+      ]
+    },
+    {
+      "id": 7832676,
+      "ru": "Ветер",
+      "en": "Ветер",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/gP1oFJegJ9Jl68aNYTvM0wDfzzj.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -4617,6 +4715,21 @@
       "genres": [
         "Новости",
         "комедия"
+      ]
+    },
+    {
+      "id": 8017892,
+      "ru": "Unter uns",
+      "en": "Unter uns",
+      "year": "1994",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/aD1QIba9mohAsdPHCjpWtrlumyp.jpg",
+      "genres": [
+        "Мыльная опера"
       ]
     },
     {
