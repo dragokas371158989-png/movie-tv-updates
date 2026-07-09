@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "movies": [
     {
       "id": 7421892,
@@ -2408,6 +2408,22 @@
       ]
     },
     {
+      "id": 8710008,
+      "ru": "Jusqu'au bout",
+      "en": "Jusqu'au bout",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aBPP2BQUT2mE5mmlbIRZx3ggdp0.jpg",
+      "genres": [
+        "драма",
+        "боевик"
+      ]
+    },
+    {
       "id": 8020047,
       "ru": "Кодекс Данте",
       "en": "In the Hand of Dante",
@@ -3080,6 +3096,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8170608,
+      "ru": "Дюна: Часть третья",
+      "en": "Dune: Part Three",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/x50ig6nAMNCP3ihDXKfUjnKM4Ud.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фантастика"
       ]
     },
     {
@@ -3854,6 +3887,21 @@
       ]
     },
     {
+      "id": 8095897,
+      "ru": "Переполнение",
+      "en": "おーばーふろぉ",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.408,
+      "poster": "https://image.tmdb.org/t/p/w342/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
       "id": 7000278,
       "ru": "Побег из Шоушенка",
       "en": "The Shawshank Redemption",
@@ -3986,6 +4034,24 @@
       ]
     },
     {
+      "id": 8082684,
+      "ru": "О моём перерождении в слизь",
+      "en": "転生したらスライムだった件",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.428,
+      "poster": "https://image.tmdb.org/t/p/w342/dyvUkf3bFFd0tC2yJCJ6rUgeZRO.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "НФ и Фэнтези",
+        "комедия"
+      ]
+    },
+    {
       "id": 8073586,
       "ru": "Йеллоустоун",
       "en": "Yellowstone",
@@ -4047,6 +4113,24 @@
         "мультфильм",
         "Боевик и Приключения",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8069346,
+      "ru": "Военная хроника маленькой девочки",
+      "en": "幼女戦記",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/y0NcqaEx6Md4MPcDWHAr8e5CQfF.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "НФ и Фэнтези",
+        "Война и Политика"
       ]
     },
     {
