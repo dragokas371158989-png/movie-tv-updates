@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "movies": [
     {
       "id": 7421892,
@@ -752,6 +752,22 @@
       ]
     },
     {
+      "id": 7950028,
+      "ru": "Приглашение",
+      "en": "The Invite",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/7CrrtqCpZmJsosektfOsakY2fMz.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8628448,
       "ru": "माँ बहन",
       "en": "माँ बहन",
@@ -1473,6 +1489,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/zt5cQrDQG12EeaoebhdQV94ZgFi.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8325734,
+      "ru": "Вот это драма!",
+      "en": "The Drama",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.94,
+      "poster": "https://image.tmdb.org/t/p/w342/mayjUmmXGM1n5E5AJnOfylig10W.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "драма"
       ]
     },
     {
@@ -2361,6 +2394,22 @@
       ]
     },
     {
+      "id": 8432306,
+      "ru": "Оно. Ночной кошмар",
+      "en": "Sleepwalker",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.6,
+      "poster": "https://image.tmdb.org/t/p/w342/760SP4VsZagpyB9WLfeZykE3DFg.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
+      ]
+    },
+    {
       "id": 8295780,
       "ru": "Life, Larry and the Pursuit of Unhappiness",
       "en": "Life, Larry and the Pursuit of Unhappiness",
@@ -2405,6 +2454,23 @@
       "genres": [
         "ужасы",
         "триллер"
+      ]
+    },
+    {
+      "id": 8283304,
+      "ru": "Маленький домик в прерии",
+      "en": "Little House on the Prairie",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.2,
+      "poster": "https://image.tmdb.org/t/p/w342/pIFeifHQoidioBCo10dEAuzyf2v.jpg",
+      "genres": [
+        "драма",
+        "вестерн",
+        "семейный"
       ]
     },
     {
@@ -2612,6 +2678,21 @@
       "genres": [
         "комедия",
         "приключения"
+      ]
+    },
+    {
+      "id": 8476994,
+      "ru": "Распаковка",
+      "en": "Распаковка",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/apAoGjfSXuV7Pj4DUw8Tpsx1ksS.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -5066,6 +5147,21 @@
       "genres": [
         "Детский",
         "комедия"
+      ]
+    },
+    {
+      "id": 7005721,
+      "ru": "Мегера",
+      "en": "Vixen!",
+      "year": "1968",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.524,
+      "poster": "https://image.tmdb.org/t/p/w342/5MmdpcvqNThMOP4PZ4e3p2jvZNz.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
