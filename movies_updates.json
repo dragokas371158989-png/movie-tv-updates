@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "movies": [
     {
       "id": 7421892,
@@ -528,6 +528,21 @@
         "комедия",
         "семейный",
         "фантастика"
+      ]
+    },
+    {
+      "id": 8290232,
+      "ru": "No tengo miedo",
+      "en": "No tengo miedo",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.167,
+      "poster": "https://image.tmdb.org/t/p/w342/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -1622,6 +1637,23 @@
         "приключения",
         "детектив",
         "комедия"
+      ]
+    },
+    {
+      "id": 8471224,
+      "ru": "Преступление на третьем этаже",
+      "en": "Le Crime du 3e étage",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.78,
+      "poster": "https://image.tmdb.org/t/p/w342/3fEsnO0iNsVpPPsJDu48gOpqhNw.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "криминал"
       ]
     },
     {
@@ -3346,6 +3378,23 @@
       ]
     },
     {
+      "id": 8258348,
+      "ru": "Клеватесс: Король демонических зверей, младенец и герой-нежить",
+      "en": "クレバテス-魔獣の王と赤子と屍の勇者",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/mxlN2PJhojIucvCJjFK8vV25yE9.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8241609,
       "ru": "Друзья и соседи",
       "en": "Your Friends & Neighbors",
@@ -4149,6 +4198,22 @@
       ]
     },
     {
+      "id": 8079166,
+      "ru": "Необъятный океан",
+      "en": "ぐらんぶる",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.694,
+      "poster": "https://image.tmdb.org/t/p/w342/fENU1OcPCSXlMTexTahzGbLf9LW.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
       "id": 8081329,
       "ru": "Место под солнцем",
       "en": "Un si grand soleil",
@@ -4430,6 +4495,22 @@
         "НФ и Фэнтези",
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8045247,
+      "ru": "Яркая Тихая",
+      "en": "ちはやふる",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/w1oIhPunv4HIMPvMW8SJB04RNTS.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
       ]
     },
     {
