@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "movies": [
     {
       "id": 7421892,
@@ -271,6 +271,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/vcU56Dw1aKxTTlhrVr0qvPnljDV.jpg",
       "genres": [
         "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8255358,
+      "ru": "Призрак в доспехах",
+      "en": "攻殻機動隊 THE GHOST IN THE SHELL",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/m2LRtI323kUEt2SkBi0LSdS4wUt.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
         "НФ и Фэнтези"
       ]
     },
@@ -1971,6 +1988,22 @@
       ]
     },
     {
+      "id": 8484913,
+      "ru": "Ikka",
+      "en": "Ikka",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 8134682,
       "ru": "Астрал. Власть тьмы",
       "en": "Kuasa Gelap",
@@ -3314,6 +3347,23 @@
       ]
     },
     {
+      "id": 8003596,
+      "ru": "Мстители: Судный день",
+      "en": "Avengers: Doomsday",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bvi2OKA1g9FUeu6gHJNsyVv2TVH.jpg",
+      "genres": [
+        "фантастика",
+        "боевик",
+        "приключения"
+      ]
+    },
+    {
       "id": 7969681,
       "ru": "Человек-паук: Новый день",
       "en": "Spider-Man: Brand New Day",
@@ -3838,6 +3888,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8324186,
+      "ru": "Majhi Manasa",
+      "en": "Majhi Manasa",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/6bk8ShS9yZnO7do6uy0Lfej7KUY.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
