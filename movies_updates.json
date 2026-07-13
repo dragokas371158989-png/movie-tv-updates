@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "movies": [
     {
       "id": 7421892,
@@ -2363,6 +2363,39 @@
       ]
     },
     {
+      "id": 8300727,
+      "ru": "아파트",
+      "en": "아파트",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8286709,
+      "ru": "The Westies",
+      "en": "The Westies",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.167,
+      "poster": "https://image.tmdb.org/t/p/w342/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8309735,
       "ru": "Однажды в Газе",
       "en": "كان ياما كان في غزة",
@@ -3131,6 +3164,21 @@
       "genres": [
         "Боевик и Приключения",
         "детектив"
+      ]
+    },
+    {
+      "id": 8276567,
+      "ru": "夫妻的博弈",
+      "en": "夫妻的博弈",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bwiGIDkZ6K8vbRcskAEcK1iWIC0.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -4703,6 +4751,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 8027181,
+      "ru": "Красные розы",
+      "en": "Rote Rosen",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/swL2qUjGrChFyj14ExwA0pwWtzv.jpg",
+      "genres": [
+        "Мыльная опера",
+        "драма"
       ]
     },
     {
