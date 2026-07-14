@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "movies": [
     {
       "id": 7421892,
@@ -64,6 +64,21 @@
       "genres": [
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8325828,
+      "ru": "Демон 10 лет спустя: Воссоединение",
+      "en": "도깨비 10주년 여행",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.5,
+      "poster": "https://image.tmdb.org/t/p/w342/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
@@ -3088,6 +3103,21 @@
       ]
     },
     {
+      "id": 8286506,
+      "ru": "百花杀",
+      "en": "百花杀",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8284631,
       "ru": "राख",
       "en": "राख",
@@ -4082,6 +4112,23 @@
       ]
     },
     {
+      "id": 8095479,
+      "ru": "МАГИЧЕСКАЯ БИТВА",
+      "en": "呪術廻戦",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.581,
+      "poster": "https://image.tmdb.org/t/p/w342/gsBwgwaW1YWHrQYbVymarruw1yN.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8106449,
       "ru": "Путешествие к бессмертию",
       "en": "凡人修仙传",
@@ -4393,6 +4440,23 @@
       ]
     },
     {
+      "id": 8091759,
+      "ru": "Вернись домой, любовь моя: Люби и держись",
+      "en": "愛·回家之開心速遞",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+      "genres": [
+        "семейный",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8066732,
       "ru": "Очень странные дела",
       "en": "Stranger Things",
@@ -4445,6 +4509,21 @@
       ]
     },
     {
+      "id": 8235484,
+      "ru": "Suidooster",
+      "en": "Suidooster",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/naCgSiacvV685kait6fBvhVhdce.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 8059941,
       "ru": "Ночное шоу с Джимми Фэллоном",
       "en": "The Tonight Show Starring Jimmy Fallon",
@@ -4490,6 +4569,22 @@
       "genres": [
         "драма",
         "семейный",
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8100780,
+      "ru": "Jamai Raja",
+      "en": "Jamai Raja",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/7TDfSot51AFRK8aFs2kO3snM4um.jpg",
+      "genres": [
+        "драма",
         "Мыльная опера"
       ]
     },
@@ -4831,6 +4926,26 @@
       "poster": "https://image.tmdb.org/t/p/w342/9LIuxUjJ2Cc4DMXFRN2ReCMBKDD.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8065733,
+      "ru": "Дораэмон",
+      "en": "ドラえもん",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "комедия",
+        "НФ и Фэнтези",
+        "Детский",
+        "семейный"
       ]
     },
     {
@@ -5249,6 +5364,23 @@
       ]
     },
     {
+      "id": 8001871,
+      "ru": "Жители Ист-Энда",
+      "en": "EastEnders",
+      "year": "1985",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.2,
+      "poster": "https://image.tmdb.org/t/p/w342/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+      "genres": [
+        "Мыльная опера",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8001526,
       "ru": "Brookside",
       "en": "Brookside",
@@ -5372,6 +5504,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/5MmdpcvqNThMOP4PZ4e3p2jvZNz.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8001636,
+      "ru": "Top of the Pops",
+      "en": "Top of the Pops",
+      "year": "1964",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.651,
+      "poster": "https://image.tmdb.org/t/p/w342/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
