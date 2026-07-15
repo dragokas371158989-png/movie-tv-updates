@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "movies": [
     {
       "id": 7421892,
@@ -2199,6 +2199,22 @@
       ]
     },
     {
+      "id": 8440050,
+      "ru": "The Breadwinner",
+      "en": "The Breadwinner",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8187294,
       "ru": "Кто есть кто?",
       "en": "¿Quién es quién?",
@@ -2395,6 +2411,22 @@
       ]
     },
     {
+      "id": 8278624,
+      "ru": "Лаки",
+      "en": "Lucky",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.2,
+      "poster": "https://image.tmdb.org/t/p/w342/kfdtVs9mWwU7XssjOyb3e3fCHuv.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8286709,
       "ru": "The Westies",
       "en": "The Westies",
@@ -2488,6 +2520,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/7Rsd29587fax35rVh0DeICwUFie.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8281425,
+      "ru": "Лабиринт чудовищ",
+      "en": "Cisza nocna",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.7,
+      "poster": "https://image.tmdb.org/t/p/w342/87BRahBwTFYJAOo38fkDQEi0lMK.jpg",
+      "genres": [
+        "ужасы",
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -2762,6 +2811,23 @@
       ]
     },
     {
+      "id": 8530393,
+      "ru": "За любовь",
+      "en": "За любовь",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/h6RnYE3nAfWyy5QTMyMmg9Zhwo9.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8516456,
       "ru": "Школа призраков",
       "en": "گوسٹ اسکول",
@@ -2887,6 +2953,24 @@
       "poster": "",
       "genres": [
         "триллер"
+      ]
+    },
+    {
+      "id": 8427128,
+      "ru": "Смешарики: Сквозь вселенные",
+      "en": "Смешарики: Сквозь вселенные",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ewlHTioaExcrODbgz0IC7eZUuwj.jpg",
+      "genres": [
+        "фантастика",
+        "приключения",
+        "комедия",
+        "семейный"
       ]
     },
     {
@@ -3087,6 +3171,24 @@
       ]
     },
     {
+      "id": 8290773,
+      "ru": "Пингвинёнок Пороро: Подводные приключения",
+      "en": "뽀로로 극장판 바닷속 대모험",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/zVHVR7MYrbEjdzgWIeeqfeAMXCB.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8289763,
       "ru": "내일도 출근!",
       "en": "내일도 출근!",
@@ -3224,6 +3326,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/etcR0lFrEBEmcgi9n80uUee2ejf.jpg",
       "genres": [
         "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8254812,
+      "ru": "Непокой",
+      "en": "Непокой",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/gfOg4LiiG9tweV83CRSWKnunCof.jpg",
+      "genres": [
+        "мультфильм",
         "драма"
       ]
     },
@@ -3442,6 +3560,24 @@
       ]
     },
     {
+      "id": 7980431,
+      "ru": "Легенда об Аанге: Последний маг воздуха",
+      "en": "Avatar Aang: The Last Airbender",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/cypsdXImFEVN3NOlckf9ZVrBY6M.jpg",
+      "genres": [
+        "мультфильм",
+        "боевик",
+        "приключения",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 7969681,
       "ru": "Человек-паук: Новый день",
       "en": "Spider-Man: Brand New Day",
@@ -3487,6 +3623,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/gP1oFJegJ9Jl68aNYTvM0wDfzzj.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 7650058,
+      "ru": "Огниво против Волшебной скважины",
+      "en": "Огниво против Волшебной скважины",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7IaRGOQi1djNBCFEI8oiLsd1lyW.jpg",
+      "genres": [
+        "фэнтези",
+        "музыка"
       ]
     },
     {
@@ -3617,6 +3769,22 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8257723,
+      "ru": "Maddie + Triggs",
+      "en": "Maddie + Triggs",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
+      "genres": [
+        "мультфильм",
+        "Детский"
       ]
     },
     {
@@ -5075,6 +5243,22 @@
       ]
     },
     {
+      "id": 8237020,
+      "ru": "百家讲坛：专题集",
+      "en": "百家讲坛：专题集",
+      "year": "2001",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+      "genres": [
+        "Ток-шоу",
+        "документальный"
+      ]
+    },
+    {
       "id": 8001431,
       "ru": "C.S.I. Место преступления",
       "en": "CSI: Crime Scene Investigation",
@@ -5103,6 +5287,23 @@
       "rating": 5.4,
       "poster": "https://image.tmdb.org/t/p/w342/xQ83cJA8AxoQMZe8ADApWrRZB1v.jpg",
       "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8006060,
+      "ru": "क्योंकि सास भी कभी बहू थी",
+      "en": "क्योंकि सास भी कभी बहू थी",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 3.4,
+      "poster": "https://image.tmdb.org/t/p/w342/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+      "genres": [
+        "драма",
+        "семейный",
         "Мыльная опера"
       ]
     },
@@ -5312,6 +5513,22 @@
       "genres": [
         "драма",
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8057775,
+      "ru": "ちびまる子ちゃん",
+      "en": "ちびまる子ちゃん",
+      "year": "1990",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/auruoMM9a9c4diotHvI5v7dKFbF.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
       ]
     },
     {
