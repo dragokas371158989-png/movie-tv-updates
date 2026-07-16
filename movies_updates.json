@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "movies": [
     {
       "id": 7421892,
@@ -79,6 +79,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8301412,
+      "ru": "그대에게 드림",
+      "en": "그대에게 드림",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.5,
+      "poster": "https://image.tmdb.org/t/p/w342/6Xo53LDGp8QYc8gqEFyoAvnwciX.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -524,6 +540,23 @@
         "драма",
         "детектив",
         "комедия"
+      ]
+    },
+    {
+      "id": 8058424,
+      "ru": "Надежда",
+      "en": "호프",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.25,
+      "poster": "https://image.tmdb.org/t/p/w342/f7nlJfSBuev6yhgJWBKBrQDRZpP.jpg",
+      "genres": [
+        "фантастика",
+        "детектив",
+        "боевик"
       ]
     },
     {
@@ -3900,6 +3933,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/i4iZttWVjGQZaJzB8Wmess2T6C3.jpg",
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 8285366,
+      "ru": "愛のぬくもり",
+      "en": "愛のぬくもり",
+      "year": "2024",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
+      "genres": [
+        "мелодрама"
       ]
     },
     {
