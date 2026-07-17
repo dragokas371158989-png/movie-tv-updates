@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "movies": [
     {
       "id": 7421892,
@@ -95,6 +95,23 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8297826,
+      "ru": "Великий расхититель гробниц",
+      "en": "도굴왕",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.5,
+      "poster": "https://image.tmdb.org/t/p/w342/4RKgYOJiUcQMaUbKIQ6dqkUWWIV.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -224,6 +241,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8318621,
+      "ru": "Descendants: Wicked Wonderland",
+      "en": "Descendants: Wicked Wonderland",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+      "genres": [
+        "фэнтези",
+        "семейный",
+        "телевизионный фильм"
       ]
     },
     {
@@ -2669,6 +2703,36 @@
       ]
     },
     {
+      "id": 8616674,
+      "ru": "Aku Sebelum Aku",
+      "en": "Aku Sebelum Aku",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 3.5,
+      "poster": "https://image.tmdb.org/t/p/w342/xmwPr0YOFS6vC3aydnE85gxp36t.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8254528,
+      "ru": "The Hawk",
+      "en": "The Hawk",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yxnQQH2E1hfrW4vKOFTAOyFRlpj.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8710008,
       "ru": "Jusqu'au bout",
       "en": "Jusqu'au bout",
@@ -4888,6 +4952,21 @@
       ]
     },
     {
+      "id": 8065701,
+      "ru": "С добрым мифическим утром",
+      "en": "Good Mythical Morning",
+      "year": "2012",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/loeBGTlYv2ZIsGgGCk4ThZpcbZX.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8062245,
       "ru": "Club Friday",
       "en": "Club Friday",
@@ -5196,6 +5275,21 @@
       ]
     },
     {
+      "id": 8093120,
+      "ru": "凤凰大视野",
+      "en": "凤凰大视野",
+      "year": "2004",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/xKhGbQg0pjgrsLE8octAdB31026.jpg",
+      "genres": [
+        "Новости"
+      ]
+    },
+    {
       "id": 8030984,
       "ru": "Блич",
       "en": "BLEACH",
@@ -5210,6 +5304,23 @@
         "Боевик и Приключения",
         "мультфильм",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8008590,
+      "ru": "Жизнь прекрасна",
+      "en": "Plus belle la vie",
+      "year": "2004",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.395,
+      "poster": "https://image.tmdb.org/t/p/w342/jmU8HlTDn87xmRqXagcL2swDr8I.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "криминал"
       ]
     },
     {
@@ -5304,6 +5415,21 @@
       "genres": [
         "Ток-шоу",
         "документальный"
+      ]
+    },
+    {
+      "id": 8017887,
+      "ru": "7de Laan",
+      "en": "7de Laan",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.333,
+      "poster": "https://image.tmdb.org/t/p/w342/vQcC4Kcx0ZEXxmj0gUrfkFR14LU.jpg",
+      "genres": [
+        "Мыльная опера"
       ]
     },
     {
@@ -5438,6 +5564,24 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8015226,
+      "ru": "सीआईडी",
+      "en": "सीआईडी",
+      "year": "1998",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zNCpkoHN3LSK9yi1C2M0Z1rOv6J.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -5643,6 +5787,22 @@
         "Мыльная опера",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8002912,
+      "ru": "Риск!",
+      "en": "Jeopardy!",
+      "year": "1984",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+      "genres": [
+        "Реалити-шоу",
+        "семейный"
       ]
     },
     {
