@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "movies": [
     {
       "id": 7421892,
@@ -574,6 +574,23 @@
         "драма",
         "детектив",
         "комедия"
+      ]
+    },
+    {
+      "id": 8279323,
+      "ru": "Восточный дворец",
+      "en": "동궁",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.25,
+      "poster": "https://image.tmdb.org/t/p/w342/4aaOQjuuMGJYRN9bSpoGGWRFWBT.jpg",
+      "genres": [
+        "детектив",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -1460,6 +1477,23 @@
       ]
     },
     {
+      "id": 8242332,
+      "ru": "Нормал",
+      "en": "Normal",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.078,
+      "poster": "https://image.tmdb.org/t/p/w342/1GXYen1mBGlNeIVes6sJHvgLeLC.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
       "id": 8560681,
       "ru": "Kolory zła: Czerń",
       "en": "Kolory zła: Czerń",
@@ -2298,6 +2332,22 @@
       ]
     },
     {
+      "id": 8668364,
+      "ru": "Deseo",
+      "en": "Deseo",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+      "genres": [
+        "детектив",
+        "драма"
+      ]
+    },
+    {
       "id": 8510745,
       "ru": "Оно. Дом зла",
       "en": "Bodycam",
@@ -2326,6 +2376,22 @@
       "genres": [
         "комедия",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8468683,
+      "ru": "Трепет сердца навсегда",
+      "en": "Heartstopper Forever",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.556,
+      "poster": "https://image.tmdb.org/t/p/w342/zfxBwBKY5JdTsr16fpwN2BjOpf3.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
       ]
     },
     {
@@ -2667,6 +2733,21 @@
       "genres": [
         "триллер",
         "криминал"
+      ]
+    },
+    {
+      "id": 8656220,
+      "ru": "23.000 Leben",
+      "en": "23.000 Leben",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8ZPoxkREjC92rGIOm2jwWMugl3g.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -5551,6 +5632,23 @@
       ]
     },
     {
+      "id": 8000387,
+      "ru": "Губка Боб Квадратные Штаны",
+      "en": "SpongeBob SquarePants",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.712,
+      "poster": "https://image.tmdb.org/t/p/w342/nm6f8EP0IUqGPEnDxacTAnoW6hC.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8001434,
       "ru": "Гриффины",
       "en": "Family Guy",
@@ -5658,6 +5756,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8000498,
+      "ru": "Вечернее шоу с Дэвидом Леттерманом",
+      "en": "Late Show with David Letterman",
+      "year": "1993",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/fTBC5EpsgKmli9VQcJMtqQ08Qj4.jpg",
+      "genres": [
+        "Ток-шоу",
+        "комедия"
       ]
     },
     {
@@ -5944,6 +6058,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/jjfTTjVYWyD6rGHVbnC44IrsJ7P.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8002261,
+      "ru": "Вечернее шоу Джонни Карсона",
+      "en": "The Tonight Show Starring Johnny Carson",
+      "year": "1962",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.538,
+      "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+      "genres": [
+        "Ток-шоу"
       ]
     },
     {
