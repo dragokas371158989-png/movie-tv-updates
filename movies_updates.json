@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "movies": [
     {
       "id": 7421892,
@@ -2251,6 +2251,21 @@
       ]
     },
     {
+      "id": 8285404,
+      "ru": "Удовольствие гарантировано",
+      "en": "Maximum Pleasure Guaranteed",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.987,
+      "poster": "https://image.tmdb.org/t/p/w342/7j0cgdxMmRgqmG701wcuFa5vjnK.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8397385,
       "ru": "Братик",
       "en": "Little Brother",
@@ -4216,6 +4231,21 @@
       ]
     },
     {
+      "id": 8233643,
+      "ru": "Секретная миссия: Секс - часть работы агента под прикрытием!",
+      "en": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.154,
+      "poster": "https://image.tmdb.org/t/p/w342/ipqu76qqHiVB2vlK2gGZNwF9SwX.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
       "id": 8218613,
       "ru": "Храм: Никто не может жить в одиночестве",
       "en": "てんぷる",
@@ -4315,6 +4345,22 @@
       ]
     },
     {
+      "id": 8199318,
+      "ru": "Заговор сестер Гарви",
+      "en": "Bad Sisters",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/hZIQeRjZCdhd7uBxhu8TYfQqe3G.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8154770,
       "ru": "你好，星期六",
       "en": "你好，星期六",
@@ -4327,6 +4373,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/wsTjWy6NE2s3h0neChr0D92ddwI.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8204269,
+      "ru": "森のくまさん、冬眠中。",
+      "en": "森のくまさん、冬眠中。",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
+      "genres": [
+        "мультфильм"
       ]
     },
     {
@@ -4668,6 +4729,21 @@
       ]
     },
     {
+      "id": 8082873,
+      "ru": "Шоу Келли Кларксон",
+      "en": "The Kelly Clarkson Show",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/2krVHLVIUu2EE9I81OkaS503Jwn.jpg",
+      "genres": [
+        "Ток-шоу"
+      ]
+    },
+    {
       "id": 8079744,
       "ru": "Новичок",
       "en": "The Rookie",
@@ -4997,6 +5073,23 @@
         "комедия",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8044953,
+      "ru": "Повелитель небес",
+      "en": "El señor de los cielos",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.966,
+      "poster": "https://image.tmdb.org/t/p/w342/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "Мыльная опера"
       ]
     },
     {
