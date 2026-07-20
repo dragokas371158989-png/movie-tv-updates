@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "movies": [
     {
       "id": 7421892,
@@ -46,6 +46,21 @@
       "studio": "",
       "rating": 10.0,
       "poster": "https://image.tmdb.org/t/p/w342/9XJksKK7BWVUfr9vUIYd3AdA1Vl.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8289139,
+      "ru": "这一秒过火",
+      "en": "这一秒过火",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4e1ycw3hY6aAtUGIsLOk80gTobn.jpg",
       "genres": [
         "драма"
       ]
@@ -557,6 +572,23 @@
         "боевик",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8298610,
+      "ru": "오싹한 연애",
+      "en": "오싹한 연애",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/zyK5BHhUl9NtAUFaKOpgCQWW9My.jpg",
+      "genres": [
+        "комедия",
+        "НФ и Фэнтези",
+        "драма"
       ]
     },
     {
@@ -2701,6 +2733,21 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8241882,
+      "ru": "Вместе до конца",
+      "en": "Ride or Die",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.7,
+      "poster": "https://image.tmdb.org/t/p/w342/lR04SJN0ftCIg1Tj2F3Sc1YP7fu.jpg",
+      "genres": [
+        "Боевик и Приключения"
       ]
     },
     {
@@ -4911,6 +4958,22 @@
       ]
     },
     {
+      "id": 8063247,
+      "ru": "Мир Дикого Запада",
+      "en": "Westworld",
+      "year": "2016",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.023,
+      "poster": "https://image.tmdb.org/t/p/w342/j6fldQaouy30RJRfKbp4GRCQfle.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "вестерн"
+      ]
+    },
+    {
       "id": 8065942,
       "ru": "Re: Жизнь в другом мире с нуля",
       "en": "Re:ゼロから始める異世界生活",
@@ -4927,6 +4990,23 @@
         "НФ и Фэнтези",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8065334,
+      "ru": "Леди Баг и Супер-кот",
+      "en": "Miraculous, les aventures de Ladybug et Chat Noir",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.058,
+      "poster": "https://image.tmdb.org/t/p/w342/pJKWBSVPebRcyLe3pM5awvMioy8.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "Детский"
       ]
     },
     {
@@ -4958,6 +5038,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/naCgSiacvV685kait6fBvhVhdce.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8063770,
+      "ru": "Вечернее шоу со Стивеном Колбертом",
+      "en": "The Late Show with Stephen Colbert",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+      "genres": [
+        "комедия",
+        "Ток-шоу"
       ]
     },
     {
@@ -5774,6 +5870,19 @@
         "драма",
         "детектив"
       ]
+    },
+    {
+      "id": 7261639,
+      "ru": "尼寺の情事　極楽ＳＥＸ",
+      "en": "尼寺の情事　極楽ＳＥＸ",
+      "year": "1998",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/nth8G0m835nk1xWsV6Ga95FT2na.jpg",
+      "genres": []
     },
     {
       "id": 8002224,
