@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "movies": [
     {
       "id": 7421892,
@@ -4273,6 +4273,22 @@
       "genres": [
         "мультфильм",
         "НФ и Фэнтези",
+        "Боевик и Приключения",
+        "драма"
+      ]
+    },
+    {
+      "id": 8226687,
+      "ru": "All Elite Wrestling: Collision",
+      "en": "All Elite Wrestling: Collision",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/85ZKXqPiZHjPPxeoR26dyodqHVZ.jpg",
+      "genres": [
         "Боевик и Приключения",
         "драма"
       ]
