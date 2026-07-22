@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "movies": [
     {
       "id": 7421892,
@@ -525,6 +525,22 @@
       ]
     },
     {
+      "id": 8620313,
+      "ru": "Самурай и пленник",
+      "en": "黒牢城",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/q0CWp4udY4AxuxlmebuIRNT3lyW.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8278043,
       "ru": "Ты и я — полные противоположности",
       "en": "正反対な君と僕",
@@ -572,6 +588,21 @@
         "боевик",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8321564,
+      "ru": "Star Wars: The Mandalorian and Grogu | A Special Look",
+      "en": "Star Wars: The Mandalorian and Grogu | A Special Look",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/2YI9C4Ynr952BQj0e9qe6V5P6p8.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
@@ -1722,6 +1753,21 @@
       ]
     },
     {
+      "id": 8288671,
+      "ru": "Маршрут желаний",
+      "en": "El mapa de los anhelos",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.875,
+      "poster": "https://image.tmdb.org/t/p/w342/sRLTQMRwh3WsxI4v82Cf7PwKHN2.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8390300,
       "ru": "Опасные отношения",
       "en": "Over Your Dead Body",
@@ -1853,6 +1899,22 @@
         "боевик",
         "триллер",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8594914,
+      "ru": "Последний рубеж",
+      "en": "Lucky Strike",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+      "genres": [
+        "боевик",
+        "военный"
       ]
     },
     {
@@ -2055,6 +2117,23 @@
       ]
     },
     {
+      "id": 8398486,
+      "ru": "Мегрэ и убийство в высшем обществе",
+      "en": "Maigret et le mort amoureux",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/yfFRDEWHalKnNnBisirTaBeLLPM.jpg",
+      "genres": [
+        "детектив",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8140521,
       "ru": "Вверх по волшебному дереву",
       "en": "The Magic Faraway Tree",
@@ -2104,6 +2183,21 @@
       ]
     },
     {
+      "id": 8363387,
+      "ru": "Ешь. Молись. Худей",
+      "en": "Saccharine",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/uRUCL96wOEBaa8ex3ekgXChPYZJ.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8368314,
       "ru": "Пассажир",
       "en": "Passenger",
@@ -2133,6 +2227,22 @@
       "genres": [
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8431804,
+      "ru": "40 свиданий, 40 ночей",
+      "en": "40 Dates and 40 Nights",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.107,
+      "poster": "https://image.tmdb.org/t/p/w342/lWEhjO801M52CY5Gx6OAwZZ6m7o.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
       ]
     },
     {
@@ -2343,6 +2453,23 @@
       "genres": [
         "ужасы",
         "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 7434853,
+      "ru": "Материя времени",
+      "en": "Space/Time",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/7A0sSZCJbrZfYjmsUn5aiNSaY6v.jpg",
+      "genres": [
+        "фантастика",
+        "боевик",
         "триллер"
       ]
     },
@@ -3084,6 +3211,41 @@
       ]
     },
     {
+      "id": 8514682,
+      "ru": "Во власти страха",
+      "en": "Above & Below",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/6AHnijQqg3f5KYDkhuSzBdyuExG.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "ужасы",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8513703,
+      "ru": "Последний богатырь. Колобок",
+      "en": "Последний богатырь. Колобок",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/jPKQThX15zNRaYdbEhmnJEjGjWT.jpg",
+      "genres": [
+        "комедия",
+        "приключения",
+        "семейный"
+      ]
+    },
+    {
       "id": 8488184,
       "ru": "Касса невест",
       "en": "Касса невест",
@@ -3488,6 +3650,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8280015,
+      "ru": "Sunny Dancer",
+      "en": "Sunny Dancer",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/d7yOPcBc099HHhmZGS9eMzMruAL.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -4042,6 +4219,23 @@
         "мультфильм",
         "Боевик и Приключения",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8215072,
+      "ru": "Магазин для киллеров",
+      "en": "킬러들의 쇼핑몰",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.335,
+      "poster": "https://image.tmdb.org/t/p/w342/wc4cAuvF4JsbIElRkYAhjk91NNg.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения",
+        "детектив"
       ]
     },
     {
@@ -4940,6 +5134,23 @@
       ]
     },
     {
+      "id": 8072879,
+      "ru": "Завтра принадлежит нам",
+      "en": "Demain nous appartient",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/g7O0gMpaxBppYayjEGd7nzzryVN.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 8091759,
       "ru": "Вернись домой, любовь моя: Люби и держись",
       "en": "愛·回家之開心速遞",
@@ -5319,6 +5530,23 @@
       ]
     },
     {
+      "id": 7037797,
+      "ru": "Шёпот сердца",
+      "en": "耳をすませば",
+      "year": "2009",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/dSMeyxHd9Sglt1UvwCjqcYs4dXA.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8022980,
       "ru": "Смотрите, что происходит: Прямой эфир",
       "en": "Watch What Happens Live with Andy Cohen",
@@ -5561,6 +5789,22 @@
       ]
     },
     {
+      "id": 8036361,
+      "ru": "Ulice",
+      "en": "Ulice",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.6,
+      "poster": "https://image.tmdb.org/t/p/w342/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8093120,
       "ru": "凤凰大视野",
       "en": "凤凰大视野",
@@ -5701,6 +5945,22 @@
       "genres": [
         "Ток-шоу",
         "документальный"
+      ]
+    },
+    {
+      "id": 8080318,
+      "ru": "Тысяча витрин",
+      "en": "CentoVetrine",
+      "year": "2001",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.667,
+      "poster": "https://image.tmdb.org/t/p/w342/25v6iDGmIpyG3zndfYdt4KfQgQ9.jpg",
+      "genres": [
+        "Мыльная опера",
+        "драма"
       ]
     },
     {
@@ -6289,6 +6549,21 @@
       "studio": "",
       "rating": 7.538,
       "poster": "https://image.tmdb.org/t/p/w342/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+      "genres": [
+        "Ток-шоу"
+      ]
+    },
+    {
+      "id": 8005266,
+      "ru": "University Challenge",
+      "en": "University Challenge",
+      "year": "1962",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/cqczsSUFFOlAYQ2QOsrDo9tkhWi.jpg",
       "genres": [
         "Ток-шоу"
       ]
