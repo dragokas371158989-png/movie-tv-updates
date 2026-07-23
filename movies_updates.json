@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "movies": [
     {
       "id": 7421892,
@@ -1720,6 +1720,23 @@
       ]
     },
     {
+      "id": 8281281,
+      "ru": "GIGN",
+      "en": "GIGN",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.938,
+      "poster": "https://image.tmdb.org/t/p/w342/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8358005,
       "ru": "Роман на работе",
       "en": "Office Romance",
@@ -3032,6 +3049,21 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8727780,
+      "ru": "Borderline",
+      "en": "Borderline",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+      "genres": [
+        "триллер"
       ]
     },
     {
@@ -6159,6 +6191,23 @@
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/nth8G0m835nk1xWsV6Ga95FT2na.jpg",
       "genres": []
+    },
+    {
+      "id": 8002122,
+      "ru": "Царь горы",
+      "en": "King of the Hill",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.408,
+      "poster": "https://image.tmdb.org/t/p/w342/yNl7Em98p11KQfSo2EPP2vitz5H.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "семейный"
+      ]
     },
     {
       "id": 8002224,
