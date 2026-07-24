@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "movies": [
     {
       "id": 7421892,
@@ -351,6 +351,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/vcU56Dw1aKxTTlhrVr0qvPnljDV.jpg",
       "genres": [
         "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8287620,
+      "ru": "Стюарт Блум не смог спасти вселенную",
+      "en": "Stuart Fails to Save the Universe",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/q85riCL9XVJgL0bNigtVnY75G3n.jpg",
+      "genres": [
+        "комедия",
         "НФ и Фэнтези"
       ]
     },
@@ -4634,6 +4650,22 @@
       ]
     },
     {
+      "id": 8103516,
+      "ru": "Звёздный путь: Странные новые миры",
+      "en": "Star Trek: Strange New Worlds",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/57kdiCEk9k3LmNjXKn97g87c3Qp.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма"
+      ]
+    },
+    {
       "id": 8199318,
       "ru": "Заговор сестер Гарви",
       "en": "Bad Sisters",
@@ -5465,6 +5497,23 @@
       ]
     },
     {
+      "id": 8079917,
+      "ru": "Bares für Rares",
+      "en": "Bares für Rares",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+      "genres": [
+        "Ток-шоу",
+        "Реалити-шоу",
+        "документальный"
+      ]
+    },
+    {
       "id": 8057532,
       "ru": "Щенячий патруль",
       "en": "PAW Patrol",
@@ -5655,6 +5704,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8046271,
+      "ru": "Secret Story",
+      "en": "Secret Story",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 3.55,
+      "poster": "https://image.tmdb.org/t/p/w342/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
@@ -5996,6 +6060,23 @@
       ]
     },
     {
+      "id": 8121513,
+      "ru": "外来媳妇本地郎",
+      "en": "外来媳妇本地郎",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yubXCrUPIc83Nk53gYARF49rOYV.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8017887,
       "ru": "7de Laan",
       "en": "7de Laan",
@@ -6226,6 +6307,23 @@
       ]
     },
     {
+      "id": 8014424,
+      "ru": "Новый Геркулес",
+      "en": "Malhação",
+      "year": "1995",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.284,
+      "poster": "https://image.tmdb.org/t/p/w342/bF24r2FxsjzgkJcrbBU8RC9JVoU.jpg",
+      "genres": [
+        "Мыльная опера",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8017892,
       "ru": "Unter uns",
       "en": "Unter uns",
@@ -6395,6 +6493,22 @@
         "семейный",
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 7200066,
+      "ru": "Шелест воробьиных крыльев",
+      "en": "Il frullo del passero",
+      "year": "1988",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.167,
+      "poster": "https://image.tmdb.org/t/p/w342/8Q5INiyhPf7QxCIcXFWF8QXLPuN.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
