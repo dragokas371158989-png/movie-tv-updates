@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "movies": [
     {
       "id": 7421892,
@@ -78,6 +78,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/xSSp3JHoZFxc69aeFtc9JTgVMeu.jpg",
       "genres": [
         "детектив",
+        "драма"
+      ]
+    },
+    {
+      "id": 8303084,
+      "ru": "入戏",
+      "en": "入戏",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.6,
+      "poster": "https://image.tmdb.org/t/p/w342/9HH3S9jjN8mQsvrC6wpS4xiCEcR.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -2083,6 +2098,21 @@
       ]
     },
     {
+      "id": 8361774,
+      "ru": "Динк",
+      "en": "The Dink",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/qzro574xelekqSTESEL09qpO2qh.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8242265,
       "ru": "Ограбить Лондон",
       "en": "Fuze",
@@ -3990,6 +4020,22 @@
       ]
     },
     {
+      "id": 8095350,
+      "ru": "Фонари",
+      "en": "Lanterns",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/15AkiRpjuBLyS385ycDM5vvB7oI.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "детектив"
+      ]
+    },
+    {
       "id": 8084244,
       "ru": "История игрушек 5",
       "en": "Toy Story 5",
@@ -4186,6 +4232,22 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8240993,
+      "ru": "Рансом-Каньон",
+      "en": "Ransom Canyon",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.216,
+      "poster": "https://image.tmdb.org/t/p/w342/1efzyMfIe3WauOCWk7Gn56gj7sL.jpg",
+      "genres": [
+        "драма",
+        "вестерн"
       ]
     },
     {
