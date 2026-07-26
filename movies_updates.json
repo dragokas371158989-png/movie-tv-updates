@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "movies": [
     {
       "id": 7421892,
@@ -1354,6 +1354,23 @@
       "genres": [
         "НФ и Фэнтези",
         "детектив"
+      ]
+    },
+    {
+      "id": 8630409,
+      "ru": "คนเดือดทวงแค้น",
+      "en": "คนเดือดทวงแค้น",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/2h4ikWt6TddvIAhMdS3WGVXhaRf.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
       ]
     },
     {
@@ -4997,6 +5014,22 @@
       ]
     },
     {
+      "id": 8113266,
+      "ru": "Kaatelal & Sons",
+      "en": "Kaatelal & Sons",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/cIHvYSONXUF17lUlschDDiw1Trz.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 7000278,
       "ru": "Побег из Шоушенка",
       "en": "The Shawshank Redemption",
@@ -5932,6 +5965,21 @@
       ]
     },
     {
+      "id": 8051025,
+      "ru": "Paradise Hotel",
+      "en": "Paradise Hotel",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
       "id": 8206559,
       "ru": "Биннеландеры",
       "en": "Binnelanders",
@@ -6350,6 +6398,24 @@
         "мультфильм",
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8030983,
+      "ru": "Детектив Конан",
+      "en": "名探偵コナン",
+      "year": "1996",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.015,
+      "poster": "https://image.tmdb.org/t/p/w342/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+      "genres": [
+        "мультфильм",
+        "криминал",
+        "детектив",
+        "комедия"
       ]
     },
     {
@@ -6821,6 +6887,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
       "genres": [
         "Новости"
+      ]
+    },
+    {
+      "id": 8023393,
+      "ru": "BBC Proms",
+      "en": "BBC Proms",
+      "year": "1947",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
