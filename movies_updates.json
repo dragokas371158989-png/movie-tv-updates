@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "movies": [
     {
       "id": 7421892,
@@ -1163,6 +1163,23 @@
       ]
     },
     {
+      "id": 8324434,
+      "ru": "Я Луна: Снова на роликах",
+      "en": "Soy Luna: Volver a rodar",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.519,
+      "poster": "https://image.tmdb.org/t/p/w342/3gzwiyE7jHHvjWS8WBEqztCqxD9.jpg",
+      "genres": [
+        "семейный",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8497463,
       "ru": "Всё, что мы потеряли",
       "en": "Todo lo que nunca fuimos",
@@ -2066,6 +2083,22 @@
       ]
     },
     {
+      "id": 7949838,
+      "ru": "72 часа",
+      "en": "72 HOURS",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.632,
+      "poster": "https://image.tmdb.org/t/p/w342/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+      "genres": [
+        "комедия",
+        "криминал"
+      ]
+    },
+    {
       "id": 7614945,
       "ru": "Сообщения для Изабель",
       "en": "Voicemails for Isabelle",
@@ -2551,6 +2584,23 @@
         "фантастика",
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8659155,
+      "ru": "Los creyentes",
+      "en": "Los creyentes",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.857,
+      "poster": "https://image.tmdb.org/t/p/w342/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -4599,6 +4649,23 @@
       ]
     },
     {
+      "id": 8194583,
+      "ru": "Ходячие мертвецы: Мертвый город",
+      "en": "The Walking Dead: Dead City",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zNg0WpDHk9V0YoUD4BGAVDNVViz.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8226687,
       "ru": "All Elite Wrestling: Collision",
       "en": "All Elite Wrestling: Collision",
@@ -5091,6 +5158,22 @@
       "rating": 8.3,
       "poster": "https://image.tmdb.org/t/p/w342/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8091555,
+      "ru": "All Elite Wrestling: Dynamite",
+      "en": "All Elite Wrestling: Dynamite",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.959,
+      "poster": "https://image.tmdb.org/t/p/w342/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+      "genres": [
+        "Боевик и Приключения",
         "драма"
       ]
     },
@@ -5622,6 +5705,25 @@
       "genres": [
         "мультфильм",
         "Детский"
+      ]
+    },
+    {
+      "id": 8045140,
+      "ru": "Юные Титаны, вперёд!",
+      "en": "Teen Titans Go!",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/2oPjTXvXLqyXSU6aJxWmB3tCuHY.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "комедия",
+        "семейный",
+        "НФ и Фэнтези"
       ]
     },
     {
