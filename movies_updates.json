@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "movies": [
     {
       "id": 7421892,
@@ -2196,6 +2196,23 @@
       ]
     },
     {
+      "id": 8110034,
+      "ru": "Кракен",
+      "en": "Kraken",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/5urGX2S92NNfC7dJGw8E2k7YTlw.jpg",
+      "genres": [
+        "ужасы",
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
       "id": 7824003,
       "ru": "Фантом. Кто ты?",
       "en": "Diabolik - Chi sei?",
@@ -2845,6 +2862,22 @@
         "драма",
         "комедия",
         "криминал"
+      ]
+    },
+    {
+      "id": 8296756,
+      "ru": "Президент Кертис",
+      "en": "President Curtis",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/4YwQKEfizLXKemWYv5G4FAvQcTA.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
       ]
     },
     {
@@ -6503,6 +6536,21 @@
       ]
     },
     {
+      "id": 8006489,
+      "ru": "Klan",
+      "en": "Klan",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.455,
+      "poster": "https://image.tmdb.org/t/p/w342/vuSKqHmKLrKG2AYFOyQ4Ci9wTAj.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 8030983,
       "ru": "Детектив Конан",
       "en": "名探偵コナン",
@@ -6899,6 +6947,21 @@
       "genres": [
         "Детский",
         "комедия"
+      ]
+    },
+    {
+      "id": 8016807,
+      "ru": "Jornal Nacional",
+      "en": "Jornal Nacional",
+      "year": "1969",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+      "genres": [
+        "Новости"
       ]
     },
     {
