@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "movies": [
     {
       "id": 7421892,
@@ -1408,6 +1408,23 @@
       ]
     },
     {
+      "id": 8442669,
+      "ru": "Электрический поцелуй",
+      "en": "La Vénus électrique",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/bpaCAvxvqCNQdoRAjr88MA42YfI.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "история"
+      ]
+    },
+    {
       "id": 8382513,
       "ru": "Курочка. Пух и прах",
       "en": "Κότα",
@@ -1815,6 +1832,22 @@
       "genres": [
         "мелодрама",
         "комедия"
+      ]
+    },
+    {
+      "id": 8290424,
+      "ru": "Большая арка",
+      "en": "L'Inconnu de la Grande Arche",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/xELGpgIWqjUppWwBS7CTnogcDaw.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -2604,6 +2637,23 @@
       ]
     },
     {
+      "id": 7087513,
+      "ru": "Мотор Сити",
+      "en": "Motor City",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/x21v9cId3pKCXartiirH3Rp7rlI.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
       "id": 8659155,
       "ru": "Los creyentes",
       "en": "Los creyentes",
@@ -3136,6 +3186,22 @@
       ]
     },
     {
+      "id": 8594694,
+      "ru": "Лидия и Всадник Тумана",
+      "en": "Lydia et le vaisseau des tempêtes",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/zRK1GjEq5bfdugSiqkJsDL3WSUw.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
       "id": 8616674,
       "ru": "Aku Sebelum Aku",
       "en": "Aku Sebelum Aku",
@@ -3196,6 +3262,19 @@
         "криминал",
         "драма"
       ]
+    },
+    {
+      "id": 8731556,
+      "ru": "I’m smiling)",
+      "en": "Я улыбаюсь)",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/83SkBDtbclgyw0hNfHIq3BfOSh.jpg",
+      "genres": []
     },
     {
       "id": 8727780,
@@ -3305,6 +3384,22 @@
       "genres": [
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8620584,
+      "ru": "Kuncen",
+      "en": "Kuncen",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/6meIPeqCZkVUmMfGLC1rkulmde.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -3437,6 +3532,21 @@
       "genres": [
         "комедия",
         "приключения"
+      ]
+    },
+    {
+      "id": 8480574,
+      "ru": "Сыграть в ящик",
+      "en": "Just Play Dead",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "триллер"
       ]
     },
     {
@@ -3813,6 +3923,23 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8284186,
+      "ru": "Sacrifice",
+      "en": "Sacrifice",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/o4iceiahzncK2yMnG6lnb4JSheq.jpg",
+      "genres": [
+        "приключения",
+        "комедия",
+        "боевик"
       ]
     },
     {
@@ -4266,6 +4393,23 @@
       "genres": [
         "Боевик",
         "Фантастика"
+      ]
+    },
+    {
+      "id": 8311031,
+      "ru": "Истребитель демонов: Бесконечный замок",
+      "en": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "year": "2025",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.077,
+      "poster": "https://image.tmdb.org/t/p/w342/rz1jMKpu4rq2wiKMyILF06aiSwP.jpg",
+      "genres": [
+        "мультфильм",
+        "боевик",
+        "фэнтези"
       ]
     },
     {
@@ -4826,6 +4970,23 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8108978,
+      "ru": "Ричер",
+      "en": "Reacher",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.078,
+      "poster": "https://image.tmdb.org/t/p/w342/zLqlW0rXmHwOZRhmOjeod14sGiT.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "криминал"
       ]
     },
     {
