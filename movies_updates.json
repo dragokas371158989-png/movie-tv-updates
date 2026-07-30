@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "movies": [
     {
       "id": 7421892,
@@ -2214,6 +2214,22 @@
       ]
     },
     {
+      "id": 8481343,
+      "ru": "Пасть дьявола",
+      "en": "The Devil's Mouth",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.441,
+      "poster": "https://image.tmdb.org/t/p/w342/g8f3Sfh0Ytc7rr6rOXm2woH87sA.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8474226,
       "ru": "Омен. Обличие дьявола",
       "en": "El vestido",
@@ -4247,6 +4263,23 @@
       ]
     },
     {
+      "id": 8101383,
+      "ru": "На краю Оук-стрит",
+      "en": "The End of Oak Street",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/5jhArZFrQIqEuh4ZNuBaQsnEy7s.jpg",
+      "genres": [
+        "фантастика",
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
       "id": 8095350,
       "ru": "Фонари",
       "en": "Lanterns",
@@ -5229,6 +5262,22 @@
       ]
     },
     {
+      "id": 8097546,
+      "ru": "Тед Лассо",
+      "en": "Ted Lasso",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.341,
+      "poster": "https://image.tmdb.org/t/p/w342/htV1GTyatTXJB589hjiqUQPegjd.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8096316,
       "ru": "Девушка на час",
       "en": "彼女、お借りします",
@@ -5604,6 +5653,22 @@
       ]
     },
     {
+      "id": 8070998,
+      "ru": "Жаркая ночка с монахом",
+      "en": "僧侶と交わる色欲の夜に…",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
+      ]
+    },
+    {
       "id": 8066732,
       "ru": "Очень странные дела",
       "en": "Stranger Things",
@@ -5970,6 +6035,23 @@
       ]
     },
     {
+      "id": 8039351,
+      "ru": "Гримм",
+      "en": "Grimm",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.266,
+      "poster": "https://image.tmdb.org/t/p/w342/fimEW83gd7rr8tT1HavcA0b86m6.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8045247,
       "ru": "Яркая Тихая",
       "en": "ちはやふる",
@@ -6110,6 +6192,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/jDFFyXE04vv9pvHzJESgbJnNRc2.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8001405,
+      "ru": "Декстер",
+      "en": "Dexter",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.241,
+      "poster": "https://image.tmdb.org/t/p/w342/93dEzWiupRP0Rq8S87MzfzSHS1x.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
