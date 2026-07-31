@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "movies": [
     {
       "id": 7421892,
@@ -4068,6 +4068,22 @@
       ]
     },
     {
+      "id": 8271016,
+      "ru": "九门",
+      "en": "九门",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bkyBY4EYv1htCkgmgVNfVrJ7qqW.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8254812,
       "ru": "Непокой",
       "en": "Непокой",
@@ -4693,6 +4709,24 @@
       ]
     },
     {
+      "id": 8125909,
+      "ru": "Бэтмен: Крестоносец в плаще",
+      "en": "Batman: Caped Crusader",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/wFsL9p4aXx8EbYLMsL0ZZcC7jZx.jpg",
+      "genres": [
+        "мультфильм",
+        "криминал",
+        "Боевик и Приключения",
+        "детектив"
+      ]
+    },
+    {
       "id": 8219971,
       "ru": "Агентство",
       "en": "The Agency",
@@ -4838,6 +4872,22 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8113962,
+      "ru": "Спецназ: Львица",
+      "en": "Lioness",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.991,
+      "poster": "https://image.tmdb.org/t/p/w342/yWOwT5xlwdIsboOa3f20jpfxaQK.jpg",
+      "genres": [
+        "драма",
+        "Война и Политика"
       ]
     },
     {
@@ -5177,6 +5227,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/A3C6crK4GQPNt2f43Vq6l2c845Y.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 7634649,
+      "ru": "Человек-паук: Нет пути домой",
+      "en": "Spider-Man: No Way Home",
+      "year": "2021",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.934,
+      "poster": "https://image.tmdb.org/t/p/w342/qad0kyRLHG1Qccp2A0YCCUbvhiD.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фантастика"
       ]
     },
     {
