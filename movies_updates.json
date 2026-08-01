@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "movies": [
     {
       "id": 7421892,
@@ -4528,6 +4528,22 @@
       ]
     },
     {
+      "id": 8299989,
+      "ru": "제발 조용히 좀 해!",
+      "en": "제발 조용히 좀 해!",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+      "genres": [
+        "комедия",
+        "мультфильм"
+      ]
+    },
+    {
       "id": 8240993,
       "ru": "Рансом-Каньон",
       "en": "Ransom Canyon",
@@ -6746,6 +6762,23 @@
         "мультфильм",
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8000615,
+      "ru": "Футурама",
+      "en": "Futurama",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.362,
+      "poster": "https://image.tmdb.org/t/p/w342/sbjCH9Ed1G97Z0ESawKbOamJi5y.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "НФ и Фэнтези"
       ]
     },
     {
