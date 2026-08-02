@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "movies": [
     {
       "id": 7421892,
@@ -2014,6 +2014,22 @@
         "боевик",
         "триллер",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8287238,
+      "ru": "Яростная",
+      "en": "Furious",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.704,
+      "poster": "https://image.tmdb.org/t/p/w342/zbvDdanjK5JFJBLRuhZ1uNTDAfI.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
@@ -6848,6 +6864,22 @@
       ]
     },
     {
+      "id": 8014610,
+      "ru": "Запретные истории",
+      "en": "Salatut elämät",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.217,
+      "poster": "https://image.tmdb.org/t/p/w342/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+      "genres": [
+        "Мыльная опера",
+        "драма"
+      ]
+    },
+    {
       "id": 8015226,
       "ru": "सीआईडी",
       "en": "सीआईडी",
@@ -6863,6 +6895,22 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8050821,
+      "ru": "Среди друзей",
+      "en": "Barátok közt",
+      "year": "1998",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 3.775,
+      "poster": "https://image.tmdb.org/t/p/w342/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+      "genres": [
+        "драма",
+        "семейный"
       ]
     },
     {
