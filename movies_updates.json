@@ -1,5 +1,5 @@
 {
-  "version": 57,
+  "version": 58,
   "movies": [
     {
       "id": 7421892,
@@ -2257,6 +2257,23 @@
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg",
       "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8307118,
+      "ru": "СОУЛМ8ЙТ",
+      "en": "Soulm8te",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/rEZECujbTWvIKAfiSgHSiKYuRAH.jpg",
+      "genres": [
+        "триллер",
+        "фантастика",
         "ужасы"
       ]
     },
@@ -6456,6 +6473,21 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8127163,
+      "ru": "Das perfekte Dinner",
+      "en": "Das perfekte Dinner",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
