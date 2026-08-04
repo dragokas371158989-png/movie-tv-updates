@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "movies": [
     {
       "id": 7421892,
@@ -856,6 +856,24 @@
         "триллер",
         "история",
         "военный"
+      ]
+    },
+    {
+      "id": 8294095,
+      "ru": "Замужняя убийца",
+      "en": "유부녀 킬러",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/snVma1wanEn9p4hWgQxZ211vQdG.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения",
+        "детектив",
+        "криминал"
       ]
     },
     {
@@ -2749,6 +2767,23 @@
       "genres": [
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8698863,
+      "ru": "The Odyssey",
+      "en": "The Odyssey",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.75,
+      "poster": "https://image.tmdb.org/t/p/w342/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "боевик"
       ]
     },
     {
@@ -4991,6 +5026,21 @@
       ]
     },
     {
+      "id": 8220118,
+      "ru": "漣蒼士に純潔を捧ぐ",
+      "en": "漣蒼士に純潔を捧ぐ",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/9hyTDPS9uo70QJwvBsVGtaLAANB.jpg",
+      "genres": [
+        "мультфильм"
+      ]
+    },
+    {
       "id": 8233643,
       "ru": "Секретная миссия: Секс - часть работы агента под прикрытием!",
       "en": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
@@ -6644,6 +6694,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 7000557,
+      "ru": "Человек-паук",
+      "en": "Spider-Man",
+      "year": "2002",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.339,
+      "poster": "https://image.tmdb.org/t/p/w342/uxNYgyfM9zeIQevvLON8zlPLocS.jpg",
+      "genres": [
+        "боевик",
+        "фантастика"
       ]
     },
     {
