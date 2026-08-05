@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "movies": [
     {
       "id": 7421892,
@@ -2540,6 +2540,22 @@
       ]
     },
     {
+      "id": 8396749,
+      "ru": "Дикая штучка",
+      "en": "와일드 씽",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/s4IUDzLZJb4CosgEXcmouY32Jfg.jpg",
+      "genres": [
+        "комедия",
+        "музыка"
+      ]
+    },
+    {
       "id": 8304517,
       "ru": "Pembantaian Dukun Santet",
       "en": "Pembantaian Dukun Santet",
@@ -3191,6 +3207,24 @@
       ]
     },
     {
+      "id": 8407885,
+      "ru": "Марсианка",
+      "en": "Pelangi di Mars",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/d4ZfuAnI471a70JdgB0ML7vVpgt.jpg",
+      "genres": [
+        "приключения",
+        "драма",
+        "семейный",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8295780,
       "ru": "Life, Larry and the Pursuit of Unhappiness",
       "en": "Life, Larry and the Pursuit of Unhappiness",
@@ -3634,6 +3668,22 @@
       ]
     },
     {
+      "id": 8479846,
+      "ru": "Детские игры. Кошмар Корал Гроув",
+      "en": "Hive",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/aFGoHyaTPERCyuAhEvonS8xlk9Y.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8476994,
       "ru": "Распаковка",
       "en": "Распаковка",
@@ -3976,6 +4026,22 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8288445,
+      "ru": "Мятеж",
+      "en": "Mutiny",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/opOHbNmV0VPOugSBxrRQKmPgfZL.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -4839,6 +4905,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/i4iZttWVjGQZaJzB8Wmess2T6C3.jpg",
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 8261471,
+      "ru": "脱口秀和Ta的朋友们",
+      "en": "脱口秀和Ta的朋友们",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/j0HNHpQzWZPVUjjmBULIvG6oCWq.jpg",
+      "genres": [
+        "Ток-шоу",
+        "комедия"
       ]
     },
     {
@@ -5782,6 +5864,23 @@
         "драма",
         "НФ и Фэнтези",
         "Война и Политика"
+      ]
+    },
+    {
+      "id": 7315635,
+      "ru": "Человек-паук: Возвращение домой",
+      "en": "Spider-Man: Homecoming",
+      "year": "2017",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/gBCq5vt7XXUMjfxi2OguArduUKP.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "фантастика"
       ]
     },
     {
