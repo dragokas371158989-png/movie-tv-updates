@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "movies": [
     {
       "id": 7421892,
@@ -48,6 +48,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/9XJksKK7BWVUfr9vUIYd3AdA1Vl.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8298168,
+      "ru": "Осколки",
+      "en": "The Shards",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/5Oiwj8CXnfXGXqN0ufH4dAXr2t0.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -1722,6 +1738,23 @@
       ]
     },
     {
+      "id": 8289324,
+      "ru": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
+      "en": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/eebJOli5IJtneDrqM85tSVZ9uTA.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8092936,
       "ru": "Долина улыбок",
       "en": "La valle dei sorrisi",
@@ -2425,6 +2458,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/uRUCL96wOEBaa8ex3ekgXChPYZJ.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8283297,
+      "ru": "Стерлинг Поинт",
+      "en": "Sterling Point",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "genres": [
+        "детектив",
+        "драма"
       ]
     },
     {
@@ -4821,6 +4870,22 @@
       "genres": [
         "мультфильм",
         "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8207333,
+      "ru": "Сто лет одиночества",
+      "en": "Cien años de soledad",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.946,
+      "poster": "https://image.tmdb.org/t/p/w342/f6Tsj7T0sd8NmUylTrgVkYdOXtA.jpg",
+      "genres": [
+        "драма",
         "НФ и Фэнтези"
       ]
     },
@@ -7672,6 +7737,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
       "genres": [
         "документальный"
+      ]
+    },
+    {
+      "id": 7047612,
+      "ru": "Дамское счастье",
+      "en": "Au Bonheur des Dames",
+      "year": "1930",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/sVFvFFEMRJ1eUzD6nbYLSqwHi0d.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
