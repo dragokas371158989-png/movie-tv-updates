@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "movies": [
     {
       "id": 7421892,
@@ -5157,6 +5157,21 @@
       ]
     },
     {
+      "id": 8199001,
+      "ru": "Моя жизнь с мальчиками Уолтер",
+      "en": "My Life with the Walter Boys",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/2RsE6bh5ejmHRyb4BMupziiRlnL.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8226687,
       "ru": "All Elite Wrestling: Collision",
       "en": "All Elite Wrestling: Collision",
@@ -6344,6 +6359,23 @@
       "genres": [
         "драма",
         "семейный",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8121651,
+      "ru": "スターダム・ワールドのスターダム",
+      "en": "スターダム・ワールドのスターダム",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w342/liGgY9uimx9jmv89x49jHtb8Ndl.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
         "комедия"
       ]
     },
@@ -7585,6 +7617,22 @@
       "genres": [
         "Боевик и Приключения",
         "НФ и Фэнтези",
+        "драма"
+      ]
+    },
+    {
+      "id": 7082976,
+      "ru": "Послушницы",
+      "en": "Les Novices",
+      "year": "1970",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.769,
+      "poster": "https://image.tmdb.org/t/p/w342/dEMuFsVz9dlEFw6RPlkDtKDEeIG.jpg",
+      "genres": [
+        "комедия",
         "драма"
       ]
     },
