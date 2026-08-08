@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 63,
   "movies": [
     {
       "id": 7421892,
@@ -670,6 +670,22 @@
       ]
     },
     {
+      "id": 8291496,
+      "ru": "Липкая любовь",
+      "en": "이런 엿같은 사랑",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8270476,
       "ru": "Уидоус-Бэй",
       "en": "Widow's Bay",
@@ -1076,6 +1092,22 @@
         "триллер",
         "приключения",
         "криминал"
+      ]
+    },
+    {
+      "id": 8300480,
+      "ru": "Рики Джервейс: уличные коты",
+      "en": "Ricky Gervais Alley Cats",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/pToSbUkvFyuE597zkK1WHyCam2k.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
       ]
     },
     {
@@ -2703,6 +2735,23 @@
       ]
     },
     {
+      "id": 8284041,
+      "ru": "Последний дом",
+      "en": "The Last House",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.985,
+      "poster": "https://image.tmdb.org/t/p/w342/o31KZEt6ubk1RaaipRGKvCnLdVT.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
       "id": 8397385,
       "ru": "Братик",
       "en": "Little Brother",
@@ -2803,6 +2852,23 @@
       ]
     },
     {
+      "id": 8263532,
+      "ru": "Corrida dos Bichos",
+      "en": "Corrida dos Bichos",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.825,
+      "poster": "https://image.tmdb.org/t/p/w342/2bzIygGnua4tlLo7qTyMSUsME3d.jpg",
+      "genres": [
+        "боевик",
+        "фантастика",
+        "триллер"
+      ]
+    },
+    {
       "id": 8440050,
       "ru": "The Breadwinner",
       "en": "The Breadwinner",
@@ -2896,6 +2962,23 @@
       "genres": [
         "комедия",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8477712,
+      "ru": "Мороженщик",
+      "en": "Ice Cream Man",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.688,
+      "poster": "https://image.tmdb.org/t/p/w342/c987gxFjXqYOxZEZKcTkS1ONTWH.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "комедия"
       ]
     },
     {
@@ -3844,6 +3927,23 @@
         "приключения",
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8384216,
+      "ru": "Созвездие Пса",
+      "en": "The Dog Stars",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+      "genres": [
+        "приключения",
+        "фантастика",
+        "триллер"
       ]
     },
     {
@@ -4887,6 +4987,24 @@
       "genres": [
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8220074,
+      "ru": "Чеболь против детектива",
+      "en": "재벌X형사",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.814,
+      "poster": "https://image.tmdb.org/t/p/w342/aLrGyfe2nbfM9PvtSYoKy5jEOJu.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив",
+        "Боевик и Приключения"
       ]
     },
     {
@@ -7316,6 +7434,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/aD1QIba9mohAsdPHCjpWtrlumyp.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8134764,
+      "ru": "Мир студии Хаммер",
+      "en": "The World of Hammer",
+      "year": "1994",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.75,
+      "poster": "https://image.tmdb.org/t/p/w342/hXuCwrKNsOfPzrDoSl8dj3eYw5i.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
