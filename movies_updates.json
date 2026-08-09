@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "movies": [
     {
       "id": 7421892,
@@ -2180,6 +2180,24 @@
         "боевик",
         "фэнтези",
         "приключения"
+      ]
+    },
+    {
+      "id": 8679730,
+      "ru": "Герой ленты",
+      "en": "THE RIBBON HERO リボンヒーロー",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.667,
+      "poster": "https://image.tmdb.org/t/p/w342/d1nx0zBp0c513iJbhKj5VhpO76C.jpg",
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "драма",
+        "боевик"
       ]
     },
     {
@@ -6578,6 +6596,21 @@
         "мультфильм",
         "драма",
         "семейный"
+      ]
+    },
+    {
+      "id": 8036109,
+      "ru": "Paradise Hotel",
+      "en": "Paradise Hotel",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.2,
+      "poster": "https://image.tmdb.org/t/p/w342/3GMScGXDZHiqoYnm715Oo9NASqi.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
