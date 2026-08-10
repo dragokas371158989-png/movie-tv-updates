@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "movies": [
     {
       "id": 7421892,
@@ -2000,6 +2000,23 @@
       ]
     },
     {
+      "id": 8612018,
+      "ru": "Чудаки: Лучшее и последнее",
+      "en": "Jackass: Best and Last",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "документальный"
+      ]
+    },
+    {
       "id": 8523145,
       "ru": "Твоё сердце будет разбито",
       "en": "Твоё сердце будет разбито",
@@ -3557,6 +3574,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
       "genres": [
         "триллер"
+      ]
+    },
+    {
+      "id": 8719380,
+      "ru": "No Way Home",
+      "en": "No Way Home",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/dQuIUweJVXCqUOOizctGRfgy2Ty.jpg",
+      "genres": [
+        "ужасы",
+        "приключения",
+        "боевик"
       ]
     },
     {
