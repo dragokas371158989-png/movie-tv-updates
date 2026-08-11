@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "movies": [
     {
       "id": 7421892,
@@ -3949,6 +3949,22 @@
       ]
     },
     {
+      "id": 8433055,
+      "ru": "Паранормальные явления. Удушье",
+      "en": "晚窒息",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wkmeS9wF46R5SN45Z4QK63TxngC.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8430698,
       "ru": "Кровавая бухта",
       "en": "The Bay",
@@ -5709,6 +5725,19 @@
       ]
     },
     {
+      "id": 8310518,
+      "ru": "Hockey Psychology",
+      "en": "Hockey Psychology",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": []
+    },
+    {
       "id": 8285479,
       "ru": "凡人修仙传",
       "en": "凡人修仙传",
@@ -6146,6 +6175,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/g7O0gMpaxBppYayjEGd7nzzryVN.jpg",
       "genres": [
         "криминал",
+        "драма",
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8260609,
+      "ru": "Com si fos ahir",
+      "en": "Com si fos ahir",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/fCc6tIeV0yOCZq1DoWmFGQX2tOM.jpg",
+      "genres": [
         "драма",
         "Мыльная опера"
       ]
@@ -8002,6 +8047,19 @@
         "драма",
         "мелодрама"
       ]
+    },
+    {
+      "id": 8599191,
+      "ru": "仙逆剧场版 弑仙之战",
+      "en": "仙逆剧场版 弑仙之战",
+      "year": "",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/m1dXI1997D7lj6Sh0Z2DI26o2nI.jpg",
+      "genres": []
     },
     {
       "id": 8321942,
