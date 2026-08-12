@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "movies": [
     {
       "id": 7421892,
@@ -1010,6 +1010,23 @@
       ]
     },
     {
+      "id": 8308767,
+      "ru": "Молодой Вашингтон",
+      "en": "Young Washington",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/awPGfes46oGvGncyaW4iKbAM2Ej.jpg",
+      "genres": [
+        "история",
+        "военный",
+        "драма"
+      ]
+    },
+    {
       "id": 8275779,
       "ru": "День разоблачения",
       "en": "Disclosure Day",
@@ -1159,6 +1176,22 @@
       "genres": [
         "боевик",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 8329016,
+      "ru": "Тони",
+      "en": "Tony",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/gB7mAm5WLxp4iIwQs3dj3OOgN2m.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -2315,6 +2348,21 @@
       ]
     },
     {
+      "id": 8409925,
+      "ru": "Изгой",
+      "en": "Molt lluny",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.51,
+      "poster": "https://image.tmdb.org/t/p/w342/qpeQ4WdcFfNhlnXNu7tv7rygqys.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8361774,
       "ru": "Динк",
       "en": "The Dink",
@@ -2327,6 +2375,25 @@
       "poster": "https://image.tmdb.org/t/p/w342/qzro574xelekqSTESEL09qpO2qh.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8401778,
+      "ru": "Турбулентность",
+      "en": "Turbulence",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.479,
+      "poster": "https://image.tmdb.org/t/p/w342/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg",
+      "genres": [
+        "триллер",
+        "боевик",
+        "приключения",
+        "драма",
+        "фэнтези"
       ]
     },
     {
@@ -2653,6 +2720,22 @@
         "криминал",
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8401542,
+      "ru": "Проект Y",
+      "en": "프로젝트 Y",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/cLMyZPaBRAQkQnmvD2douFTEnoi.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -3549,6 +3632,23 @@
       ]
     },
     {
+      "id": 8740925,
+      "ru": "Почтальон победы",
+      "en": "Почтальон победы",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/9qlYvb122FLYKHSNacWFLqtxjIG.jpg",
+      "genres": [
+        "драма",
+        "военный",
+        "история"
+      ]
+    },
+    {
       "id": 8731556,
       "ru": "I’m smiling)",
       "en": "Я улыбаюсь)",
@@ -3750,6 +3850,21 @@
       "genres": [
         "семейный",
         "приключения"
+      ]
+    },
+    {
+      "id": 8582302,
+      "ru": "Лунтик. Обратная сторона Луны",
+      "en": "Лунтик. Обратная сторона Луны",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/10IbmfdFwmwbcVG82dKD4poFWhI.jpg",
+      "genres": [
+        "мультфильм"
       ]
     },
     {
@@ -3995,6 +4110,22 @@
         "приключения",
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8386315,
+      "ru": "Бегущая",
+      "en": "The Runner",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -4596,6 +4727,23 @@
       ]
     },
     {
+      "id": 8127861,
+      "ru": "Тайная жизнь вещей",
+      "en": "I, Object",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/xZblxKLzgXameNgEdcE8o37Ch8I.jpg",
+      "genres": [
+        "семейный",
+        "фэнтези",
+        "драма"
+      ]
+    },
+    {
       "id": 8122030,
       "ru": "ऐल्फा",
       "en": "ऐल्फा",
@@ -4777,6 +4925,22 @@
       "genres": [
         "фэнтези",
         "музыка"
+      ]
+    },
+    {
+      "id": 7445466,
+      "ru": "Придурки",
+      "en": "Idiots",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+      "genres": [
+        "комедия",
+        "криминал"
       ]
     },
     {
@@ -7185,6 +7349,21 @@
       "genres": [
         "Мыльная опера",
         "драма"
+      ]
+    },
+    {
+      "id": 8037528,
+      "ru": "Gran hermano",
+      "en": "Gran hermano",
+      "year": "2001",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
