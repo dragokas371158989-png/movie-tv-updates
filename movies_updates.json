@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "movies": [
     {
       "id": 7421892,
@@ -3582,6 +3582,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/xmwPr0YOFS6vC3aydnE85gxp36t.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8487864,
+      "ru": "Nando Entre Dois Mundos: Um Filme Sintonia",
+      "en": "Nando Entre Dois Mundos: Um Filme Sintonia",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg",
+      "genres": [
+        "драма",
+        "триллер",
+        "криминал"
       ]
     },
     {
@@ -7206,6 +7223,21 @@
         "Боевик и Приключения",
         "мультфильм",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8006836,
+      "ru": "康熙來了",
+      "en": "康熙來了",
+      "year": "2004",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/bVWEPDZHRSdd7voVled6CLLq1zB.jpg",
+      "genres": [
+        "Ток-шоу"
       ]
     },
     {
