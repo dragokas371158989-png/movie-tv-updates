@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "movies": [
     {
       "id": 7421892,
@@ -3067,6 +3067,22 @@
       ]
     },
     {
+      "id": 8309798,
+      "ru": "Моя блестящая карьера",
+      "en": "My Brilliant Career",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8273221,
       "ru": "Очень страшное кино",
       "en": "Scary Movie",
@@ -3567,6 +3583,23 @@
       "genres": [
         "мультфильм",
         "семейный"
+      ]
+    },
+    {
+      "id": 8323244,
+      "ru": "Катастрофа. Удар из космоса",
+      "en": "Rage of Stars",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "genres": [
+        "боевик",
+        "фантастика",
+        "триллер"
       ]
     },
     {
@@ -5828,6 +5861,24 @@
       ]
     },
     {
+      "id": 8123542,
+      "ru": "Агенты времени",
+      "en": "时光代理人",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/egjHKvKjCdgua5n4cyxmq9qMFaW.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези",
+        "детектив",
+        "драма"
+      ]
+    },
+    {
       "id": 7879945,
       "ru": "Незнакомец",
       "en": "L'homme inconnu",
@@ -6887,6 +6938,22 @@
       "genres": [
         "Ток-шоу",
         "комедия"
+      ]
+    },
+    {
+      "id": 8319191,
+      "ru": "NSFW Show",
+      "en": "NSFW Show",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/rHmiOepMQlicX2DqQ7YJK1hltrz.jpg",
+      "genres": [
+        "комедия",
+        "Ток-шоу"
       ]
     },
     {
