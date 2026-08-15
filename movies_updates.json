@@ -1,5 +1,5 @@
 {
-  "version": 69,
+  "version": 70,
   "movies": [
     {
       "id": 7421892,
@@ -1756,6 +1756,23 @@
       ]
     },
     {
+      "id": 8504358,
+      "ru": "Не желай удачи",
+      "en": "Don't Say Good Luck",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vydMBwJfkpfbVbD9muq906tJ7Hw.jpg",
+      "genres": [
+        "комедия",
+        "музыка",
+        "драма"
+      ]
+    },
+    {
       "id": 8355213,
       "ru": "Сладкая сказка",
       "en": "Cukrkandl",
@@ -2511,6 +2528,24 @@
       "genres": [
         "триллер",
         "детектив"
+      ]
+    },
+    {
+      "id": 8493400,
+      "ru": "Кэмп Рок 3",
+      "en": "Camp Rock 3",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
+      "genres": [
+        "музыка",
+        "комедия",
+        "драма",
+        "телевизионный фильм"
       ]
     },
     {
@@ -3470,6 +3505,21 @@
       "genres": [
         "триллер",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8589248,
+      "ru": "Мой лучший друг, его девушка и я",
+      "en": "Mein bester Freund, seine Freundin und ich",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/sWFzFNvqpas8y0BFSx0o7dURG8H.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
