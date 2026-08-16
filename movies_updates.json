@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "movies": [
     {
       "id": 7421892,
@@ -4746,6 +4746,21 @@
       ]
     },
     {
+      "id": 8213375,
+      "ru": "КвестВижна",
+      "en": "VisionQuest",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "genres": [
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8212763,
       "ru": "Зловещие мертвецы: Пекло",
       "en": "Evil Dead Burn",
@@ -8268,6 +8283,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/5MmdpcvqNThMOP4PZ4e3p2jvZNz.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8227292,
+      "ru": "Capitão Furacão",
+      "en": "Capitão Furacão",
+      "year": "1965",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+      "genres": [
+        "Детский"
       ]
     },
     {
