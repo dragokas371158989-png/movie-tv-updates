@@ -1,5 +1,5 @@
 {
-  "version": 71,
+  "version": 72,
   "movies": [
     {
       "id": 7421892,
@@ -4428,6 +4428,22 @@
       ]
     },
     {
+      "id": 8291595,
+      "ru": "Астрал 6: Они уже здесь",
+      "en": "Insidious: Out of the Further",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/2hfvVae4Jjbfe4yIc2ygGfqI1Mt.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8291392,
       "ru": "野狗骨头",
       "en": "野狗骨头",
@@ -6942,6 +6958,22 @@
       ]
     },
     {
+      "id": 7082023,
+      "ru": "Отель Желание",
+      "en": "Hotel Desire",
+      "year": "2011",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.172,
+      "poster": "https://image.tmdb.org/t/p/w342/dpzcQfE0mNxq0pxx8gt8ooZmwky.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8033238,
       "ru": "Бегущий человек",
       "en": "런닝맨",
@@ -7211,6 +7243,21 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8002710,
+      "ru": "В Филадельфии всегда солнечно",
+      "en": "It's Always Sunny in Philadelphia",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.257,
+      "poster": "https://image.tmdb.org/t/p/w342/4UdSBWmizXJAAtlbiYw24i5TNgW.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
