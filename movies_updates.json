@@ -1,5 +1,5 @@
 {
-  "version": 72,
+  "version": 73,
   "movies": [
     {
       "id": 7421892,
@@ -1621,6 +1621,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/dfJ9PqicF0cswNDsostHrGVueiq.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8319522,
+      "ru": "Мой бродячий пес",
+      "en": "โกฮัง..หัวใจโกโฮม",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -3379,6 +3394,21 @@
       ]
     },
     {
+      "id": 8536233,
+      "ru": "Крипипаста: Синий малыш",
+      "en": "The Summoning of Baby Blue",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.1,
+      "poster": "https://image.tmdb.org/t/p/w342/fDyjVv5ryBYDiE1sN9mbBbZycBL.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8392469,
       "ru": "कॉकटेल २",
       "en": "कॉकटेल २",
@@ -3749,6 +3779,22 @@
       ]
     },
     {
+      "id": 8740335,
+      "ru": "Позывной «Аскет»",
+      "en": "Позывной «Аскет»",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/4Bado85mp1fvW39cStgSmb9cV6w.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
       "id": 8731556,
       "ru": "I’m smiling)",
       "en": "Я улыбаюсь)",
@@ -3937,6 +3983,21 @@
       ]
     },
     {
+      "id": 8592105,
+      "ru": "Между нами, девочками",
+      "en": "Между нами, девочками",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/jjE7phwdMGZY8Wu1BOCqHK1u5Qs.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8590177,
       "ru": "Мой дикий друг. Возвращение домой",
       "en": "Мой дикий друг. Возвращение домой",
@@ -3982,6 +4043,37 @@
         "мелодрама",
         "комедия",
         "фантастика"
+      ]
+    },
+    {
+      "id": 8530379,
+      "ru": "Чужой звонок",
+      "en": "Чужой звонок",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ab3O6QEuHsNWnHCGAikzauBQBpA.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8523426,
+      "ru": "Соавторы",
+      "en": "Соавторы",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/oTG2mOUPt2Dx8uk3nDfCM4khd0R.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -4793,6 +4885,23 @@
       ]
     },
     {
+      "id": 8204680,
+      "ru": "Хитрый койот",
+      "en": "Coyote vs. Acme",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sco6rWMD6p9N8JVOZPWOIBO2T9i.jpg",
+      "genres": [
+        "комедия",
+        "приключения",
+        "семейный"
+      ]
+    },
+    {
       "id": 8180894,
       "ru": "Оно приходит снизу",
       "en": "Bajo tus pies",
@@ -4992,6 +5101,23 @@
         "боевик",
         "приключения",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 7977942,
+      "ru": "Восставший",
+      "en": "The Uprising",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "genres": [
+        "драма",
+        "история",
+        "военный"
       ]
     },
     {
@@ -6242,6 +6368,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8091768,
+      "ru": "Власть книжного червя",
+      "en": "本好きの下剋上 司書になるためには手段を選んでいられません",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.078,
+      "poster": "https://image.tmdb.org/t/p/w342/1uUj5vE8in3jhH30qZxHV4tnyr7.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
