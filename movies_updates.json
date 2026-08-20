@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "movies": [
     {
       "id": 7421892,
@@ -1964,6 +1964,22 @@
         "Боевик и Приключения",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8418582,
+      "ru": "Неидеальные мы",
+      "en": "Quinze Dias",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
       ]
     },
     {
@@ -4305,6 +4321,23 @@
       ]
     },
     {
+      "id": 8403676,
+      "ru": "Код сна",
+      "en": "April X",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/c58kfRCUXtd0VymrXwmnEWPD6QQ.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8386315,
       "ru": "Бегущая",
       "en": "The Runner",
@@ -4739,6 +4772,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/bwiGIDkZ6K8vbRcskAEcK1iWIC0.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8276470,
+      "ru": "그래, 이혼하자",
+      "en": "그래, 이혼하자",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/gq3vToNS3KyeCRYywgopPAso7Qc.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "семейный"
       ]
     },
     {
@@ -6257,6 +6307,22 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8100757,
+      "ru": "Внешние отмели",
+      "en": "Outer Banks",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.259,
+      "poster": "https://image.tmdb.org/t/p/w342/tk6WSOTOcZLt9z8KS50E7cAmioA.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "детектив"
       ]
     },
     {
