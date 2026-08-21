@@ -1,5 +1,5 @@
 {
-  "version": 74,
+  "version": 75,
   "movies": [
     {
       "id": 7421892,
@@ -4501,6 +4501,21 @@
         "мультфильм",
         "комедия",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8312523,
+      "ru": "SとX﻿",
+      "en": "SとX﻿",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
