@@ -1,5 +1,5 @@
 {
-  "version": 75,
+  "version": 76,
   "movies": [
     {
       "id": 7421892,
@@ -536,6 +536,23 @@
       ]
     },
     {
+      "id": 8272938,
+      "ru": "师兄太稳健",
+      "en": "师兄太稳健",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/2YCpWCqn1V5EzT3PORIcgzFPblg.jpg",
+      "genres": [
+        "комедия",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8243206,
       "ru": "प्रीतम और पेड्रो",
       "en": "प्रीतम और पेड्रो",
@@ -906,6 +923,21 @@
         "Боевик и Приключения",
         "детектив",
         "криминал"
+      ]
+    },
+    {
+      "id": 8291856,
+      "ru": "重器",
+      "en": "重器",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/43iXOUo8dw7KfllwOnuu8JSyqFt.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -1964,6 +1996,23 @@
         "Боевик и Приключения",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8621552,
+      "ru": "La captura",
+      "en": "La captura",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+      "genres": [
+        "криминал",
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -3262,6 +3311,23 @@
         "НФ и Фэнтези",
         "семейный",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8303351,
+      "ru": "Кровавая жертва",
+      "en": "Blodsoffer",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.429,
+      "poster": "https://image.tmdb.org/t/p/w342/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив"
       ]
     },
     {
@@ -8430,6 +8496,22 @@
         "триллер",
         "боевик",
         "криминал"
+      ]
+    },
+    {
+      "id": 8310751,
+      "ru": "哆啦A梦TV版",
+      "en": "哆啦A梦TV版",
+      "year": "1979",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wmydskWjF621H31lF8RVQeRZavf.jpg",
+      "genres": [
+        "Детский",
+        "мультфильм"
       ]
     },
     {
