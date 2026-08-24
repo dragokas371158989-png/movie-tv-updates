@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 77,
   "movies": [
     {
       "id": 7421892,
@@ -2313,6 +2313,23 @@
       ]
     },
     {
+      "id": 8240889,
+      "ru": "Подростковый секс и смерть в лагере «Миазма»",
+      "en": "Teenage Sex and Death at Camp Miasma",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/auJRaXce7WVZFGpaFR54tCFr74J.jpg",
+      "genres": [
+        "комедия",
+        "ужасы",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 7931285,
       "ru": "Мортал Комбат 2",
       "en": "Mortal Kombat II",
@@ -3981,6 +3998,23 @@
       "poster": "",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8647785,
+      "ru": "Алмаз «Сердце Персии»",
+      "en": "Алмаз «Сердце Персии»",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/jdzxDl6Yiw7jCcsPQqeTA8tbq8m.jpg",
+      "genres": [
+        "комедия",
+        "семейный",
+        "приключения"
       ]
     },
     {
