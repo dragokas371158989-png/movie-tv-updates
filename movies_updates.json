@@ -1,5 +1,5 @@
 {
-  "version": 77,
+  "version": 78,
   "movies": [
     {
       "id": 7421892,
@@ -8415,6 +8415,21 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8011890,
+      "ru": "Хорошие времена, плохие времена",
+      "en": "Goede Tijden, Slechte Tijden",
+      "year": "1990",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+      "genres": [
+        "Мыльная опера"
       ]
     },
     {
