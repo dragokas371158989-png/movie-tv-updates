@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "movies": [
     {
       "id": 7421892,
@@ -768,6 +768,23 @@
         "мультфильм",
         "фантастика",
         "ужасы"
+      ]
+    },
+    {
+      "id": 8560520,
+      "ru": "Бэтмен: Падение рыцаря. Часть первая",
+      "en": "Batman: Knightfall Part 1: Knightfall",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+      "genres": [
+        "мультфильм",
+        "боевик",
+        "приключения"
       ]
     },
     {
@@ -3861,6 +3878,22 @@
       ]
     },
     {
+      "id": 8740934,
+      "ru": "Мой Север",
+      "en": "Мой Север",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wDbWVyIaw4dVOctKt6fAfoiibEw.jpg",
+      "genres": [
+        "драма",
+        "фэнтези"
+      ]
+    },
+    {
       "id": 8740925,
       "ru": "Почтальон победы",
       "en": "Почтальон победы",
@@ -4372,6 +4405,21 @@
       ]
     },
     {
+      "id": 8449970,
+      "ru": "死亡之握：鬼牽手",
+      "en": "死亡之握：鬼牽手",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/dOXzlJeEXGNMkxiLOfmujY136zP.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8433055,
       "ru": "Паранормальные явления. Удушье",
       "en": "晚窒息",
@@ -4467,6 +4515,23 @@
       "genres": [
         "приключения",
         "фантастика",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8377237,
+      "ru": "Курьер",
+      "en": "Runner",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/vnrrZCe2sDMdEY7xyGSZMpSsZyG.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
         "триллер"
       ]
     },
@@ -4794,6 +4859,23 @@
         "приключения",
         "комедия",
         "боевик"
+      ]
+    },
+    {
+      "id": 8284046,
+      "ru": "Натиск",
+      "en": "Onslaught",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fPNLwXvZvBR0gPailvasgqNRVEh.jpg",
+      "genres": [
+        "боевик",
+        "ужасы",
+        "триллер"
       ]
     },
     {
@@ -5659,6 +5741,24 @@
         "криминал",
         "детектив",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8243360,
+      "ru": "Людвиг",
+      "en": "Ludwig",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/fG2vv2Adc1zdAHHHPpCWV9yefQO.jpg",
+      "genres": [
+        "детектив",
+        "криминал",
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -7436,6 +7536,21 @@
       "studio": "",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8053270,
+      "ru": "Цвет счастья",
+      "en": "Barwy szczęścia",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yPAk9l2KMfMXZKuoGLZMadCZRF3.jpg",
       "genres": [
         "Мыльная опера"
       ]
