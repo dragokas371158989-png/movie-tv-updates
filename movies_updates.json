@@ -1,5 +1,5 @@
 {
-  "version": 79,
+  "version": 80,
   "movies": [
     {
       "id": 7421892,
@@ -873,6 +873,22 @@
       ]
     },
     {
+      "id": 8516698,
+      "ru": "Последний рассвет",
+      "en": "The Last Sunrise",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/3H0QOFqjbqqMDcSqRVt2QK31uqR.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
       "id": 8470334,
       "ru": "Колючая и ушастый",
       "en": "Allez Hëpp Hopp Hopp!",
@@ -922,6 +938,21 @@
         "триллер",
         "история",
         "военный"
+      ]
+    },
+    {
+      "id": 8299952,
+      "ru": "Ранняя весна",
+      "en": "早春晴朗",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/o4I2aVl0KsXKZt5djqUE0Z5YWhH.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -2776,6 +2807,23 @@
       ]
     },
     {
+      "id": 8130948,
+      "ru": "Обрезка розовых кустов",
+      "en": "Rosebush Pruning",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.12,
+      "poster": "https://image.tmdb.org/t/p/w342/tXsTtSgguTsk5J115jokwK55awF.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 8284465,
       "ru": "Смерть Робин Гуда",
       "en": "The Death of Robin Hood",
@@ -3969,6 +4017,22 @@
         "ужасы",
         "приключения",
         "боевик"
+      ]
+    },
+    {
+      "id": 8707444,
+      "ru": "Не по-детски",
+      "en": "Не по-детски",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/gYsrIRrLRkTBFOB4ofZbs97mijo.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
       ]
     },
     {
@@ -5690,6 +5754,21 @@
       "genres": [
         "мультфильм",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8246246,
+      "ru": "Красота в тёмных тонах",
+      "en": "Beauty in Black",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.191,
+      "poster": "https://image.tmdb.org/t/p/w342/fpsqN05UInbVMGZF0fC39Pg6CDh.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -8017,6 +8096,22 @@
       ]
     },
     {
+      "id": 7391312,
+      "ru": "喪服の女　崩れる",
+      "en": "喪服の女　崩れる",
+      "year": "2001",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/4cfd33evWkw8TPq95WkHeU82m8O.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8121513,
       "ru": "外来媳妇本地郎",
       "en": "外来媳妇本地郎",
@@ -8815,6 +8910,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
       "genres": [
         "Детский"
+      ]
+    },
+    {
+      "id": 8000224,
+      "ru": "Match of the Day",
+      "en": "Match of the Day",
+      "year": "1964",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
+      "genres": [
+        "Ток-шоу",
+        "Новости"
       ]
     },
     {
