@@ -1,5 +1,5 @@
 {
-  "version": 80,
+  "version": 81,
   "movies": [
     {
       "id": 7421892,
@@ -370,6 +370,23 @@
       ]
     },
     {
+      "id": 8290193,
+      "ru": "들쥐",
+      "en": "들쥐",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+      "genres": [
+        "детектив",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8289271,
       "ru": "翘楚",
       "en": "翘楚",
@@ -416,6 +433,24 @@
         "мультфильм",
         "Боевик и Приключения",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8744462,
+      "ru": "Grand Theft Auto VI: Расширенный показ",
+      "en": "Grand Theft Auto VI: An Extended Look",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.995,
+      "poster": "https://image.tmdb.org/t/p/w342/xTZuh9ziUjIyHBWO9OvqNIPqVWe.jpg",
+      "genres": [
+        "боевик",
+        "приключения",
+        "мультфильм",
+        "криминал"
       ]
     },
     {
@@ -2968,6 +3003,23 @@
       ]
     },
     {
+      "id": 8292558,
+      "ru": "Toda la verdad de mis mentiras",
+      "en": "Toda la verdad de mis mentiras",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2RxRHm05SdtM7vu2Be4FkkkLow3.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8288341,
       "ru": "Семь снайперов",
       "en": "Seven Snipers",
@@ -3116,6 +3168,23 @@
       ]
     },
     {
+      "id": 8213243,
+      "ru": "Яд: Сказка для взрослых",
+      "en": "ಟಾಕ್ಸಿಕ್",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ehfnmRgcyTnQwEfXYmmRa5rpluj.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 7434853,
       "ru": "Материя времени",
       "en": "Space/Time",
@@ -3181,6 +3250,24 @@
         "боевик",
         "фантастика",
         "триллер"
+      ]
+    },
+    {
+      "id": 8631807,
+      "ru": "Den hemmelige kvinde",
+      "en": "Den hemmelige kvinde",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/wy83YWkOsBixidMRFBh0qxqLxel.jpg",
+      "genres": [
+        "детектив",
+        "триллер",
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -3310,6 +3397,23 @@
         "ужасы",
         "триллер",
         "комедия"
+      ]
+    },
+    {
+      "id": 7860508,
+      "ru": "Шепот за окном",
+      "en": "The Whisper Man",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.571,
+      "poster": "https://image.tmdb.org/t/p/w342/1hnX64v6HWSnAFAjG4GPL03DxKb.jpg",
+      "genres": [
+        "триллер",
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -5691,6 +5795,21 @@
       ]
     },
     {
+      "id": 8260458,
+      "ru": "Взрослые",
+      "en": "Adults",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/vazL5zGQUUKBMahfiGV91bc1ynf.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8257723,
       "ru": "Maddie + Triggs",
       "en": "Maddie + Triggs",
@@ -5838,6 +5957,22 @@
         "криминал",
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8196322,
+      "ru": "Темная материя",
+      "en": "Dark Matter",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kAMxdVzNTy6mM1hMxlliiiqtSE4.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма"
       ]
     },
     {
@@ -7324,6 +7459,21 @@
         "Ток-шоу",
         "Реалити-шоу",
         "документальный"
+      ]
+    },
+    {
+      "id": 8065282,
+      "ru": "Я живу один",
+      "en": "나 혼자 산다",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
