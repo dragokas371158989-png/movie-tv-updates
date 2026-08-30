@@ -1,5 +1,5 @@
 {
-  "version": 81,
+  "version": 82,
   "movies": [
     {
       "id": 7421892,
@@ -4884,6 +4884,21 @@
       ]
     },
     {
+      "id": 8305644,
+      "ru": "포핸즈",
+      "en": "포핸즈",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8296285,
       "ru": "Оазис",
       "en": "Oasis",
@@ -7990,6 +8005,21 @@
       "studio": "",
       "rating": 6.0,
       "poster": "https://image.tmdb.org/t/p/w342/1DTwcRiOMmn20hHLxKeiNoI0ux2.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8117217,
+      "ru": "El conquistador",
+      "en": "El conquistador",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/AaOxyfJdXcb1FnKeoj87FiHUs0w.jpg",
       "genres": [
         "Реалити-шоу"
       ]
