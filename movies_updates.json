@@ -1,5 +1,5 @@
 {
-  "version": 82,
+  "version": 83,
   "movies": [
     {
       "id": 7421892,
@@ -416,6 +416,21 @@
       "genres": [
         "комедия",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8284825,
+      "ru": "รักสุดใจนายแฟนบอย",
+      "en": "รักสุดใจนายแฟนบอย",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/m0bMTgWSDNwaZiz9TKTNqkCCDUX.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -1036,6 +1051,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8286988,
+      "ru": "飞到我心上",
+      "en": "飞到我心上",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/3C1GeXISPpbTZopJCKZ3a5WduTh.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -3268,6 +3299,22 @@
         "триллер",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8477642,
+      "ru": "Дом мёртвых",
+      "en": "ข้างบ้าน",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/s6ky97AXTRn8vqzHja1Rlozu53R.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
@@ -8338,6 +8385,23 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8025406,
+      "ru": "Ясон и аргонавты",
+      "en": "Jason and the Argonauts",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.494,
+      "poster": "https://image.tmdb.org/t/p/w342/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
+      "genres": [
+        "семейный",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
