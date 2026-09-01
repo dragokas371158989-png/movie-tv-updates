@@ -1,5 +1,5 @@
 {
-  "version": 83,
+  "version": 84,
   "movies": [
     {
       "id": 7421892,
@@ -287,6 +287,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/qA7FX4vp2qWfkMd2R3JrbGP6vbu.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8572116,
+      "ru": "Миа и монстры",
+      "en": "Monster Mia",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wgYZL3ltYDn5Bhi7XFjTOpfQIln.jpg",
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "семейный"
       ]
     },
     {
@@ -2938,6 +2955,21 @@
       ]
     },
     {
+      "id": 8288059,
+      "ru": "Я хочу с тобой секса",
+      "en": "I Want Your Sex",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8134682,
       "ru": "Астрал. Власть тьмы",
       "en": "Kuasa Gelap",
@@ -3774,6 +3806,23 @@
       ]
     },
     {
+      "id": 8226699,
+      "ru": "Не те девчонки",
+      "en": "The Wrong Girls",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.8,
+      "poster": "https://image.tmdb.org/t/p/w342/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8284725,
       "ru": "Вы нам не подходите",
       "en": "Not Suitable for Work",
@@ -4073,6 +4122,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/i85r5XToa1qC8jyjoo4BbyMmdPT.jpg",
       "genres": [
         "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 8754721,
+      "ru": "Кроткая",
+      "en": "Кроткая",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/iBXi9qvUTbaARer97XZakUq41U6.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -6674,6 +6738,23 @@
       ]
     },
     {
+      "id": 7000269,
+      "ru": "На последнем дыхании",
+      "en": "À bout de souffle",
+      "year": "2021",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/3b5uFBKGWwJF36rUlGL5mdtj9AU.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8107447,
       "ru": "Клиника счастья",
       "en": "Клиника счастья",
@@ -7799,6 +7880,22 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8007967,
+      "ru": "The Rachel Maddow Show",
+      "en": "The Rachel Maddow Show",
+      "year": "2008",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/7Jzrp2piY29h8UgA2hEXsxCskt1.jpg",
+      "genres": [
+        "Новости",
+        "Ток-шоу"
       ]
     },
     {
