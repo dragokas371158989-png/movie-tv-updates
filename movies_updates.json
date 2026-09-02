@@ -1,5 +1,5 @@
 {
-  "version": 84,
+  "version": 85,
   "movies": [
     {
       "id": 7421892,
@@ -2378,6 +2378,21 @@
       ]
     },
     {
+      "id": 8500890,
+      "ru": "Уинтроп",
+      "en": "Lockbox",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.706,
+      "poster": "https://image.tmdb.org/t/p/w342/gjirY7H4LdrChrpLVvbDq6RavlG.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8287238,
       "ru": "Яростная",
       "en": "Furious",
@@ -3479,6 +3494,21 @@
       ]
     },
     {
+      "id": 8101412,
+      "ru": "Вышка 2: Мёртвая точка",
+      "en": "Fall 2: Deadpoint",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/6qbRhJWjQBcYdao1sTDsZ78kozJ.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
       "id": 7860508,
       "ru": "Шепот за окном",
       "en": "The Whisper Man",
@@ -4298,6 +4328,24 @@
       ]
     },
     {
+      "id": 8652306,
+      "ru": "Капитан Невельской и земли Чёрного дракона",
+      "en": "Капитан Невельской и земли Чёрного дракона",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/aBLzSHl0x8tH6MHGf6ng7PBHmqW.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "фэнтези",
+        "семейный"
+      ]
+    },
+    {
       "id": 8648388,
       "ru": "Отпуск на всю голову",
       "en": "Отпуск на всю голову",
@@ -4618,6 +4666,22 @@
       ]
     },
     {
+      "id": 8476746,
+      "ru": "Флорист",
+      "en": "The Florist",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/AhvGusLwnCIMp53aTMcVq4nGBnS.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
       "id": 8469342,
       "ru": "Её личный ад",
       "en": "Her Private Hell",
@@ -4762,6 +4826,21 @@
         "боевик",
         "триллер",
         "фантастика"
+      ]
+    },
+    {
+      "id": 8399320,
+      "ru": "На деревню к дедушке. Супермиссия",
+      "en": "Duivinder",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/grJZ7nbjgzc8DhfnWvwjCvLKpIf.jpg",
+      "genres": [
+        "семейный"
       ]
     },
     {
@@ -5120,6 +5199,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8285844,
+      "ru": "Романовы: Преданность и предательство",
+      "en": "Романовы: Преданность и предательство",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
