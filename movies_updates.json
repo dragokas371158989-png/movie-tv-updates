@@ -1,5 +1,5 @@
 {
-  "version": 85,
+  "version": 86,
   "movies": [
     {
       "id": 7421892,
@@ -1056,6 +1056,21 @@
       ]
     },
     {
+      "id": 8290234,
+      "ru": "Любовный недуг",
+      "en": "Mal de amores",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qX1LFh0ZlxQxVGVyKrDxzhPopfU.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8288603,
       "ru": "炽夏",
       "en": "炽夏",
@@ -1406,6 +1421,22 @@
         "боевик",
         "фэнтези",
         "фантастика"
+      ]
+    },
+    {
+      "id": 7192139,
+      "ru": "На грани войны",
+      "en": "The Brink of War",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/iVJMqw9BobE9ojSWt5hELk6E6uA.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -4812,6 +4843,22 @@
       ]
     },
     {
+      "id": 8423191,
+      "ru": "Обитель зла",
+      "en": "Resident Evil",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/vLl5tcuabARqGBefccSsYAYXdgA.jpg",
+      "genres": [
+        "ужасы",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8403676,
       "ru": "Код сна",
       "en": "April X",
@@ -5887,6 +5934,21 @@
       ]
     },
     {
+      "id": 8247168,
+      "ru": "Чед Пауэрс",
+      "en": "Chad Powers",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/f20KYlp9C5oRXqrluId6Hkmxbvk.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8241609,
       "ru": "Друзья и соседи",
       "en": "Your Friends & Neighbors",
@@ -6178,6 +6240,23 @@
         "криминал",
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8236235,
+      "ru": "Джентльмены",
+      "en": "The Gentlemen",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/zRdUl8TxpXD3LTFqH9wiya14ZYS.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "криминал"
       ]
     },
     {
