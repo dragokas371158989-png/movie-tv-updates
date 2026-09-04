@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "movies": [
     {
       "id": 7421892,
@@ -18,6 +18,21 @@
         "семейный",
         "фэнтези",
         "приключения"
+      ]
+    },
+    {
+      "id": 8329471,
+      "ru": "The Grand Tour",
+      "en": "The Grand Tour",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
@@ -719,6 +734,22 @@
         "боевик",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8514026,
+      "ru": "Приятель",
+      "en": "Buddy",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.31,
+      "poster": "https://image.tmdb.org/t/p/w342/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
       ]
     },
     {
@@ -4924,6 +4955,23 @@
       ]
     },
     {
+      "id": 8383233,
+      "ru": "The Penthouse",
+      "en": "The Penthouse",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/AuBdbFZytyvFT6Tw2CRMRNxaoWt.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
       "id": 8377237,
       "ru": "Курьер",
       "en": "Runner",
@@ -5454,6 +5502,24 @@
       "genres": [
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8259230,
+      "ru": "Девятая планета",
+      "en": "Девятая планета",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bPS7LcnnCOS3GkQOqlOTsjeLJep.jpg",
+      "genres": [
+        "драма",
+        "фантастика",
+        "боевик",
+        "приключения"
       ]
     },
     {
@@ -7841,6 +7907,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/loeBGTlYv2ZIsGgGCk4ThZpcbZX.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 7009364,
+      "ru": "Грозовой перевал",
+      "en": "Wuthering Heights",
+      "year": "2012",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/nIDvRXZtUrSdhqIixCTOKB9FBsE.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
