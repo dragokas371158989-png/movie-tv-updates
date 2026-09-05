@@ -1,5 +1,5 @@
 {
-  "version": 87,
+  "version": 88,
   "movies": [
     {
       "id": 7421892,
@@ -1975,6 +1975,22 @@
         "боевик",
         "криминал",
         "триллер"
+      ]
+    },
+    {
+      "id": 8137844,
+      "ru": "Мэйдэй",
+      "en": "Mayday",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.04,
+      "poster": "https://image.tmdb.org/t/p/w342/tUHzcIOt5miEdgDyV6PJdFNTp3N.jpg",
+      "genres": [
+        "боевик",
+        "комедия"
       ]
     },
     {
@@ -8392,6 +8408,21 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8035024,
+      "ru": "쇼! 음악중심",
+      "en": "쇼! 음악중심",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/nEDZnlxvRN6n09ltAnKj9unckCe.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
