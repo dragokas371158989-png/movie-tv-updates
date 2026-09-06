@@ -1,5 +1,5 @@
 {
-  "version": 88,
+  "version": 89,
   "movies": [
     {
       "id": 7421892,
@@ -2369,6 +2369,25 @@
       "genres": [
         "мелодрама",
         "драма"
+      ]
+    },
+    {
+      "id": 8506560,
+      "ru": "Clash of the Thundermans",
+      "en": "Clash of the Thundermans",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+      "genres": [
+        "телевизионный фильм",
+        "семейный",
+        "фантастика",
+        "боевик",
+        "комедия"
       ]
     },
     {
@@ -5200,6 +5219,22 @@
       ]
     },
     {
+      "id": 8301626,
+      "ru": "A Tale of Two Cities",
+      "en": "A Tale of Two Cities",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ht3OVVRBTrTeVtUVQiKSekjIFVH.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8296285,
       "ru": "Оазис",
       "en": "Oasis",
@@ -5214,6 +5249,22 @@
         "криминал",
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8294189,
+      "ru": "The Mongoose",
+      "en": "The Mongoose",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/awpG3pnvPuOcfce76mSpS69NQ3E.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
