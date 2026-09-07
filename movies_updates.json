@@ -1,5 +1,5 @@
 {
-  "version": 89,
+  "version": 90,
   "movies": [
     {
       "id": 7421892,
@@ -1337,6 +1337,22 @@
       ]
     },
     {
+      "id": 7021135,
+      "ru": "Затмение",
+      "en": "L'eclisse",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/n83NynRNxcWOhkciIwctWgAb4r.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8266127,
       "ru": "Я иду искать 2",
       "en": "Ready or Not: Here I Come",
@@ -2553,6 +2569,23 @@
       "genres": [
         "комедия",
         "драма"
+      ]
+    },
+    {
+      "id": 8302904,
+      "ru": "Практическая магия 2",
+      "en": "Practical Magic 2",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/sxusbJzNx21lHnwQ1ssBTs2EGwg.jpg",
+      "genres": [
+        "мелодрама",
+        "фэнтези",
+        "комедия"
       ]
     },
     {
@@ -5249,6 +5282,21 @@
         "криминал",
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8294486,
+      "ru": "交锋",
+      "en": "交锋",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+      "genres": [
+        "детектив"
       ]
     },
     {
@@ -8296,6 +8344,23 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8045857,
+      "ru": "Репетитор-киллер Реборн!",
+      "en": "家庭教師ヒットマン REBORN!",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.133,
+      "poster": "https://image.tmdb.org/t/p/w342/5e0NUQzGymC53OduIXTa4ode9uD.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "Боевик и Приключения"
       ]
     },
     {
