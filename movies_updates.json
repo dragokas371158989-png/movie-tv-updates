@@ -1,5 +1,5 @@
 {
-  "version": 90,
+  "version": 91,
   "movies": [
     {
       "id": 7421892,
@@ -2042,6 +2042,22 @@
         "комедия",
         "музыка",
         "драма"
+      ]
+    },
+    {
+      "id": 8433367,
+      "ru": "Всего одна ночь",
+      "en": "One Night Only",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rGIjFMxPgoVVnTPpAFRAkf8TH9M.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
       ]
     },
     {
@@ -8285,6 +8301,22 @@
       ]
     },
     {
+      "id": 8030801,
+      "ru": "1박 2일",
+      "en": "1박 2일",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/44CeavkZLqW9Z7SkOffxLNJtAv9.jpg",
+      "genres": [
+        "комедия",
+        "Реалити-шоу"
+      ]
+    },
+    {
       "id": 8040879,
       "ru": "Дома есть дома",
       "en": "Dahoam is Dahoam",
@@ -9117,6 +9149,23 @@
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/nth8G0m835nk1xWsV6Ga95FT2na.jpg",
       "genres": []
+    },
+    {
+      "id": 8000764,
+      "ru": "Чисто английские убийства",
+      "en": "Midsomer Murders",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/8dCDCmvNgRdihysgZNAzMRJC9gM.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
     },
     {
       "id": 8002122,
