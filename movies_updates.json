@@ -1,5 +1,5 @@
 {
-  "version": 91,
+  "version": 92,
   "movies": [
     {
       "id": 7421892,
@@ -451,6 +451,22 @@
       ]
     },
     {
+      "id": 8286686,
+      "ru": "生逢其时",
+      "en": "生逢其时",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/q2ulZwiuO9Gg0bVziimr8CXHdpk.jpg",
+      "genres": [
+        "семейный",
+        "драма"
+      ]
+    },
+    {
       "id": 8284825,
       "ru": "รักสุดใจนายแฟนบอย",
       "en": "รักสุดใจนายแฟนบอย",
@@ -463,6 +479,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/m0bMTgWSDNwaZiz9TKTNqkCCDUX.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8258230,
+      "ru": "Пропавшая без вести",
+      "en": "Last Seen",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aT7eZYGOmSE6Oxt8TuoWoQ1P2gR.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -1520,6 +1553,22 @@
       ]
     },
     {
+      "id": 8592203,
+      "ru": "Доктор Глас",
+      "en": "Doktor Glas",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/fwx6lJgMuqSiY0zHHVeoyOnzsEN.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 8497463,
       "ru": "Всё, что мы потеряли",
       "en": "Todo lo que nunca fuimos",
@@ -1828,6 +1877,21 @@
         "ужасы",
         "детектив",
         "фантастика"
+      ]
+    },
+    {
+      "id": 8401459,
+      "ru": "Фьорд",
+      "en": "Fjord",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.138,
+      "poster": "https://image.tmdb.org/t/p/w342/od5PWXCT4KhZ9ekVbnmq8kEWBjO.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -2686,6 +2750,24 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8061771,
+      "ru": "Добро пожаловать в Декорадо",
+      "en": "Decorado",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.632,
+      "poster": "https://image.tmdb.org/t/p/w342/8GNQ9xEhUnMZspXoTqmpmaVUYV5.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "фэнтези",
+        "ужасы"
       ]
     },
     {
@@ -4459,6 +4541,23 @@
       ]
     },
     {
+      "id": 8662293,
+      "ru": "Приключения мамонтенка. В поисках мамы",
+      "en": "Приключения мамонтенка. В поисках мамы",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7PTybWWolc5AZnh35qa1KZVi09Q.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "семейный"
+      ]
+    },
+    {
       "id": 8653771,
       "ru": "Старый орёл",
       "en": "Старый орёл",
@@ -4554,6 +4653,22 @@
       "genres": [
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8628675,
+      "ru": "Край чудес",
+      "en": "Край чудес",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/m5AEUTaTBEOcFq18VdFqVGeumKW.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения"
       ]
     },
     {
@@ -4828,6 +4943,22 @@
       ]
     },
     {
+      "id": 8469518,
+      "ru": "Особый пациент",
+      "en": "Особый пациент",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "драма",
+        "военный"
+      ]
+    },
+    {
       "id": 8469342,
       "ru": "Её личный ад",
       "en": "Her Private Hell",
@@ -4906,6 +5037,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/dOXzlJeEXGNMkxiLOfmujY136zP.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8440098,
+      "ru": "Enfrentados: Marfil",
+      "en": "Enfrentados: Marfil",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+      "genres": [
+        "мелодрама",
+        "драма",
+        "триллер"
       ]
     },
     {
@@ -5073,6 +5221,22 @@
       ]
     },
     {
+      "id": 8376400,
+      "ru": "Арахнид",
+      "en": "Crawlers",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/6SJGt4yjUiT6QwV84XIzBOp9sma.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8368337,
       "ru": "Одиссея",
       "en": "The Odyssey",
@@ -5087,6 +5251,25 @@
         "приключения",
         "боевик",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 8365598,
+      "ru": "Арни и Барни",
+      "en": "Arnie & Barney",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/5fZTa32wRIMFOpiZHiareZDjUIo.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "фэнтези",
+        "приключения",
+        "комедия"
       ]
     },
     {
@@ -5717,6 +5900,21 @@
       ]
     },
     {
+      "id": 8248832,
+      "ru": "Диггер",
+      "en": "Digger",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/biovC0fjDUUSGJiR4joGaGERUS3.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8232569,
       "ru": "Пиноккио: Раскрепощённый",
       "en": "Pinocchio: Unstrung",
@@ -6094,6 +6292,22 @@
       "genres": [
         "Боевик",
         "Фантастика"
+      ]
+    },
+    {
+      "id": 8246473,
+      "ru": "Сделано в Корее",
+      "en": "메이드 인 코리아",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/w0phy4NdYpwAVIP3zsY0u4t66Pw.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -7545,6 +7759,22 @@
       ]
     },
     {
+      "id": 8078648,
+      "ru": "Потрясающая суббота - ДоРеМи Маркет",
+      "en": "놀라운 토요일",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/pnibkuL74C33GoKLTXAmF4nl3a6.jpg",
+      "genres": [
+        "комедия",
+        "Реалити-шоу"
+      ]
+    },
+    {
       "id": 8081329,
       "ru": "Место под солнцем",
       "en": "Un si grand soleil",
@@ -8157,6 +8387,21 @@
       ]
     },
     {
+      "id": 8052910,
+      "ru": "Закон джунглей",
+      "en": "김병만의 정글의 법칙",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/qG2JpIDuYhuQOMSLqmMtHBBbfx5.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
       "id": 8033238,
       "ru": "Бегущий человек",
       "en": "런닝맨",
@@ -8329,6 +8574,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/tGXZEUgSbgufoOpXMImSKPDd5A3.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8065270,
+      "ru": "라디오스타",
+      "en": "라디오스타",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
+      "genres": [
+        "Ток-шоу"
       ]
     },
     {
@@ -9593,6 +9853,22 @@
       "rating": 0,
       "poster": "https://image.tmdb.org/t/p/w342/w5hwoVacFcF6a6YZ8CKHsR2gwH9.jpg",
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8002527,
+      "ru": "Ферма Эммердейл",
+      "en": "Emmerdale",
+      "year": "1972",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.3,
+      "poster": "https://image.tmdb.org/t/p/w342/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+      "genres": [
+        "Мыльная опера",
         "драма"
       ]
     },
