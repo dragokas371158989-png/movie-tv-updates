@@ -1,5 +1,5 @@
 {
-  "version": 92,
+  "version": 93,
   "movies": [
     {
       "id": 7421892,
@@ -2186,6 +2186,25 @@
         "мультфильм",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8185806,
+      "ru": "Щенячий патруль: Динофильм",
+      "en": "PAW Patrol: The Dino Movie",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/eRAMlD2MqqbilyMCpr2SCbgR4HH.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "семейный",
+        "фэнтези",
+        "комедия"
       ]
     },
     {
@@ -4798,6 +4817,24 @@
       ]
     },
     {
+      "id": 8528835,
+      "ru": "Царевна Несмеяна",
+      "en": "Царевна Несмеяна",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sgVQ19HfEhVIfNPNcB7FVheGE4i.jpg",
+      "genres": [
+        "семейный",
+        "приключения",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
       "id": 8523426,
       "ru": "Соавторы",
       "en": "Соавторы",
@@ -5464,6 +5501,21 @@
       "genres": [
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8300507,
+      "ru": "Crew Girl",
+      "en": "Crew Girl",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -8006,6 +8058,23 @@
       "genres": [
         "Реалити-шоу",
         "комедия"
+      ]
+    },
+    {
+      "id": 8069557,
+      "ru": "Фауда",
+      "en": "פאודה",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/taxQfYM8zmy9Gc6qNYUnjr8xwKs.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения",
+        "Война и Политика"
       ]
     },
     {
