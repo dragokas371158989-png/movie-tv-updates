@@ -1,5 +1,5 @@
 {
-  "version": 93,
+  "version": 94,
   "movies": [
     {
       "id": 7421892,
@@ -2437,6 +2437,23 @@
       ]
     },
     {
+      "id": 8522689,
+      "ru": "Зачем мы опять женимся?",
+      "en": "Why Did I Get Married Again?",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.821,
+      "poster": "https://image.tmdb.org/t/p/w342/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
       "id": 8228710,
       "ru": "Мандалорец и Грогу",
       "en": "The Mandalorian and Grogu",
@@ -3117,6 +3134,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/uRUCL96wOEBaa8ex3ekgXChPYZJ.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8325755,
+      "ru": "Идеальная ложь",
+      "en": "De Eetclub",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/kGqVIxC0FH4AbbBXjaVFqXQ3Azz.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -8584,6 +8616,22 @@
       ]
     },
     {
+      "id": 8016322,
+      "ru": "X Factor",
+      "en": "X Factor",
+      "year": "2008",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+      "genres": [
+        "Реалити-шоу",
+        "семейный"
+      ]
+    },
+    {
       "id": 8007967,
       "ru": "The Rachel Maddow Show",
       "en": "The Rachel Maddow Show",
@@ -8597,6 +8645,21 @@
       "genres": [
         "Новости",
         "Ток-шоу"
+      ]
+    },
+    {
+      "id": 8031472,
+      "ru": "Pelotón",
+      "en": "Pelotón",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+      "genres": [
+        "Реалити-шоу"
       ]
     },
     {
