@@ -1,5 +1,5 @@
 {
-  "version": 94,
+  "version": 95,
   "movies": [
     {
       "id": 7421892,
@@ -3476,6 +3476,22 @@
       ]
     },
     {
+      "id": 8365884,
+      "ru": "Позвоните моему агенту! Фильм",
+      "en": "Dix Pour Cent ! Le Film",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.94,
+      "poster": "https://image.tmdb.org/t/p/w342/lJUmTDi1ssxcxkHrzVBlwhaB0v8.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8397385,
       "ru": "Братик",
       "en": "Little Brother",
@@ -5441,6 +5457,22 @@
       ]
     },
     {
+      "id": 8314939,
+      "ru": "너 말고 다른 연애",
+      "en": "너 말고 다른 연애",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/mryeyCsFApnwYDpDcy3I6fYx2Dd.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8312949,
       "ru": "Табакошка",
       "en": "ヤニねこ",
@@ -6614,6 +6646,23 @@
       "studio": "",
       "rating": 8.5,
       "poster": "https://image.tmdb.org/t/p/w342/dboSanhToCuyjNHYvJLCRc39Koe.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8207468,
+      "ru": "Кайдзю № 8",
+      "en": "怪獣８号",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.442,
+      "poster": "https://image.tmdb.org/t/p/w342/ivuYeqpOwjqFwihYKPISaz4vZ5L.jpg",
       "genres": [
         "мультфильм",
         "Боевик и Приключения",
@@ -8317,6 +8366,21 @@
       "studio": "",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8049847,
+      "ru": "House Rules",
+      "en": "House Rules",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/JTzASS9kdvmeIPZgK27dl6DdQw.jpg",
       "genres": [
         "Реалити-шоу"
       ]
