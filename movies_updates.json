@@ -1,5 +1,5 @@
 {
-  "version": 95,
+  "version": 96,
   "movies": [
     {
       "id": 7421892,
@@ -3756,6 +3756,23 @@
       ]
     },
     {
+      "id": 8157869,
+      "ru": "Параллельные истории",
+      "en": "Histoires parallèles",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/bw84eOxjZFGt6I6GOYWLVMiLNCT.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
       "id": 8273221,
       "ru": "Очень страшное кино",
       "en": "Scary Movie",
@@ -4094,6 +4111,22 @@
       "genres": [
         "мелодрама",
         "комедия"
+      ]
+    },
+    {
+      "id": 8282326,
+      "ru": "兰香如故",
+      "en": "兰香如故",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kfurXRMH1ZkUoyT5HN72zLTQxzZ.jpg",
+      "genres": [
+        "драма",
+        "семейный"
       ]
     },
     {
@@ -6919,6 +6952,22 @@
       ]
     },
     {
+      "id": 8243117,
+      "ru": "Plus belle la vie, encore plus belle",
+      "en": "Plus belle la vie, encore plus belle",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/ps0WuyL384MahVCxysxOfF1fhgq.jpg",
+      "genres": [
+        "Мыльная опера",
+        "драма"
+      ]
+    },
+    {
       "id": 8285366,
       "ru": "愛のぬくもり",
       "en": "愛のぬくもり",
@@ -8552,6 +8601,21 @@
       ]
     },
     {
+      "id": 8037678,
+      "ru": "Голос Америки",
+      "en": "The Voice",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.91,
+      "poster": "https://image.tmdb.org/t/p/w342/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+      "genres": [
+        "Реалити-шоу"
+      ]
+    },
+    {
       "id": 8052910,
       "ru": "Закон джунглей",
       "en": "김병만의 정글의 법칙",
@@ -8693,6 +8757,23 @@
       "genres": [
         "Реалити-шоу",
         "семейный"
+      ]
+    },
+    {
+      "id": 7008966,
+      "ru": "Сумерки",
+      "en": "Twilight",
+      "year": "2008",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.274,
+      "poster": "https://image.tmdb.org/t/p/w342/bBfBLyHm8U5KP1Y8nz4H56ou793.jpg",
+      "genres": [
+        "фэнтези",
+        "драма",
+        "мелодрама"
       ]
     },
     {
@@ -10005,6 +10086,19 @@
         "боевик",
         "криминал"
       ]
+    },
+    {
+      "id": 8494843,
+      "ru": "丫丫",
+      "en": "丫丫",
+      "year": "1979",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/yw74ajOTn9SG1wbDao62IVf7VlW.jpg",
+      "genres": []
     },
     {
       "id": 8310751,
