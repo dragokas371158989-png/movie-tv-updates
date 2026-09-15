@@ -1,5 +1,5 @@
 {
-  "version": 96,
+  "version": 97,
   "movies": [
     {
       "id": 7421892,
@@ -1020,6 +1020,22 @@
       ]
     },
     {
+      "id": 8482547,
+      "ru": "Zip Wire",
+      "en": "Zip Wire",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
       "id": 8470334,
       "ru": "Колючая и ушастый",
       "en": "Allez Hëpp Hopp Hopp!",
@@ -1677,6 +1693,23 @@
         "комедия",
         "музыка",
         "драма"
+      ]
+    },
+    {
+      "id": 8408162,
+      "ru": "Вишванатх и сыновья",
+      "en": "விஸ்வநாத் & சன்ஸ்",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.429,
+      "poster": "https://image.tmdb.org/t/p/w342/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+      "genres": [
+        "драма",
+        "мелодрама",
+        "комедия"
       ]
     },
     {
@@ -2853,6 +2886,23 @@
         "драма",
         "НФ и Фэнтези",
         "Война и Политика"
+      ]
+    },
+    {
+      "id": 8124142,
+      "ru": "Соперники Амзиа Кинга",
+      "en": "The Rivals of Amziah King",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "триллер"
       ]
     },
     {
@@ -7050,6 +7100,23 @@
         "мультфильм",
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8206693,
+      "ru": "연인",
+      "en": "연인",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/rrPCrCRyjdQ8igXIVNcIuL5KcIA.jpg",
+      "genres": [
+        "драма",
+        "Война и Политика",
+        "детектив"
       ]
     },
     {
