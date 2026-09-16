@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 98,
   "movies": [
     {
       "id": 7421892,
@@ -1196,6 +1196,23 @@
         "мультфильм",
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8151265,
+      "ru": "Волшебное перо",
+      "en": "La Fille dans les nuages",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/o4V7Kq7KJhbjgPpzIYYBzfie77o.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "фэнтези"
       ]
     },
     {
@@ -3005,6 +3022,22 @@
       ]
     },
     {
+      "id": 8553969,
+      "ru": "Барашек в ящике",
+      "en": "箱の中の羊",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.432,
+      "poster": "https://image.tmdb.org/t/p/w342/aUeOpkCfGJHgQYFy89vTb0OvgWF.jpg",
+      "genres": [
+        "драма",
+        "фантастика"
+      ]
+    },
+    {
       "id": 8474226,
       "ru": "Омен. Обличие дьявола",
       "en": "El vestido",
@@ -3215,6 +3248,23 @@
       "genres": [
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8273207,
+      "ru": "Нили",
+      "en": "Neagley",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "криминал"
       ]
     },
     {
@@ -3917,6 +3967,22 @@
       "genres": [
         "ужасы",
         "комедия"
+      ]
+    },
+    {
+      "id": 8422011,
+      "ru": "Всё закончится",
+      "en": "It Ends",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/zRlTpA3w2AOfnGUrydCltaalR86.jpg",
+      "genres": [
+        "ужасы",
+        "детектив"
       ]
     },
     {
@@ -4913,6 +4979,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/10IbmfdFwmwbcVG82dKD4poFWhI.jpg",
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 8549719,
+      "ru": "Я приду",
+      "en": "Я приду",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/6ugkycQAAfSeaPtPV42edNwcr9T.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -6261,6 +6342,22 @@
       ]
     },
     {
+      "id": 8126097,
+      "ru": "Чарли и Харпер",
+      "en": "Charlie Harper",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/jvAhbwqkbqexBacuu66NSixvAj7.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
       "id": 8122030,
       "ru": "ऐल्फा",
       "en": "ऐल्फा",
@@ -7377,6 +7474,23 @@
         "Боевик и Приключения",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8095480,
+      "ru": "Медленные лошади",
+      "en": "Slow Horses",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/fcXBCozEg3rCc9h8RPypLvnPSzU.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -8731,6 +8845,24 @@
       ]
     },
     {
+      "id": 7018239,
+      "ru": "Сумерки. Сага. Новолуние",
+      "en": "The Twilight Saga: New Moon",
+      "year": "2009",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.984,
+      "poster": "https://image.tmdb.org/t/p/w342/qOkJ1pvQnDTqg0V1HNMZ5IqKyAI.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8036109,
       "ru": "Paradise Hotel",
       "en": "Paradise Hotel",
@@ -9804,6 +9936,21 @@
       ]
     },
     {
+      "id": 8002221,
+      "ru": "Взгляд",
+      "en": "The View",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.345,
+      "poster": "https://image.tmdb.org/t/p/w342/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "genres": [
+        "Ток-шоу"
+      ]
+    },
+    {
       "id": 8030983,
       "ru": "Детектив Конан",
       "en": "名探偵コナン",
@@ -10227,6 +10374,21 @@
       "genres": [
         "Мыльная опера",
         "драма"
+      ]
+    },
+    {
+      "id": 7264980,
+      "ru": "Французская Кошечка",
+      "en": "Das Mädchen mit der heißen Masche",
+      "year": "1972",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.2,
+      "poster": "https://image.tmdb.org/t/p/w342/g3Mqv7hHPcjjmlpJrNSvx1lkZHx.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
