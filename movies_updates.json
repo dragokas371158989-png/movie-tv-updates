@@ -1,5 +1,5 @@
 {
-  "version": 98,
+  "version": 99,
   "movies": [
     {
       "id": 7421892,
@@ -18,6 +18,21 @@
         "семейный",
         "фэнтези",
         "приключения"
+      ]
+    },
+    {
+      "id": 8332401,
+      "ru": "Город крови",
+      "en": "City of Blood",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/5glYfSvWfprXL7SZKXOaxVm5uuV.jpg",
+      "genres": [
+        "детектив"
       ]
     },
     {
@@ -1520,6 +1535,24 @@
       ]
     },
     {
+      "id": 8224263,
+      "ru": "Очень странные дела: байки из 85-го",
+      "en": "Stranger Things: Tales from '85",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mrYnHEkUnOSTgARY7jz4K58n2gz.jpg",
+      "genres": [
+        "мультфильм",
+        "НФ и Фэнтези",
+        "детектив",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 7454639,
       "ru": "Властелины вселенной",
       "en": "Masters of the Universe",
@@ -2203,6 +2236,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/wLdcMUsKepVXXxFVZYTEc5JGc21.jpg",
       "genres": [
         "триллер",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8299939,
+      "ru": "Монстр: История Лиззи Борден",
+      "en": "Monster: The Lizzie Borden Story",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "genres": [
+        "драма",
         "криминал"
       ]
     },
@@ -3118,6 +3167,23 @@
       "genres": [
         "триллер",
         "детектив"
+      ]
+    },
+    {
+      "id": 8318467,
+      "ru": "The Last Kiss",
+      "en": "The Last Kiss",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.333,
+      "poster": "https://image.tmdb.org/t/p/w342/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "триллер"
       ]
     },
     {
@@ -5764,6 +5830,22 @@
       ]
     },
     {
+      "id": 8294990,
+      "ru": "一瓯春",
+      "en": "一瓯春",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7KjVhRaarZ5L3CBirQEmt89ioiz.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8294486,
       "ru": "交锋",
       "en": "交锋",
@@ -6556,6 +6638,23 @@
       "genres": [
         "фэнтези",
         "музыка"
+      ]
+    },
+    {
+      "id": 7634290,
+      "ru": "Это всё она!",
+      "en": "Это всё она!",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/1X6GbzAbrrTpvbM0W0XeydWVup4.jpg",
+      "genres": [
+        "комедия",
+        "фэнтези",
+        "драма"
       ]
     },
     {
@@ -9887,6 +9986,22 @@
       "genres": []
     },
     {
+      "id": 8002190,
+      "ru": "Южный Парк",
+      "en": "South Park",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/69lJGPmFoUplHWoVnCbCcXKRqOl.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
+      ]
+    },
+    {
       "id": 8000764,
       "ru": "Чисто английские убийства",
       "en": "Midsomer Murders",
@@ -10253,6 +10368,21 @@
       ]
     },
     {
+      "id": 7030723,
+      "ru": "Пещерная девушка",
+      "en": "Cavegirl",
+      "year": "1985",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kONbgktPKsm3EMj3MiES0IP8BRr.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8002912,
       "ru": "Риск!",
       "en": "Jeopardy!",
@@ -10468,6 +10598,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
       "genres": [
         "Новости"
+      ]
+    },
+    {
+      "id": 8035007,
+      "ru": "De Fabeltjeskrant",
+      "en": "De Fabeltjeskrant",
+      "year": "1968",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+      "genres": [
+        "Детский"
       ]
     },
     {
