@@ -1,5 +1,5 @@
 {
-  "version": 99,
+  "version": 100,
   "movies": [
     {
       "id": 7421892,
@@ -931,6 +931,22 @@
         "мультфильм",
         "боевик",
         "приключения"
+      ]
+    },
+    {
+      "id": 8228834,
+      "ru": "The Fix",
+      "en": "The Fix",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -4650,6 +4666,22 @@
       ]
     },
     {
+      "id": 8641629,
+      "ru": "Toi+Moi - Seuls contre tous",
+      "en": "Toi+Moi - Seuls contre tous",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/xwzLNsGMh1yDRGOGH58ftPWmfzq.jpg",
+      "genres": [
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
       "id": 8020047,
       "ru": "Кодекс Данте",
       "en": "In the Hand of Dante",
@@ -6149,6 +6181,21 @@
       ]
     },
     {
+      "id": 8275102,
+      "ru": "스캔들",
+      "en": "스캔들",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/8ra17h8Z3NX14qdWaOKn0scURJR.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8273684,
       "ru": "Холоп 3",
       "en": "Холоп 3",
@@ -6181,6 +6228,22 @@
       ]
     },
     {
+      "id": 8263337,
+      "ru": "Сердце зверя",
+      "en": "Heart of the Beast",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fOTKUSfg9C5DngN151Sfre9j6v7.jpg",
+      "genres": [
+        "приключения",
+        "триллер"
+      ]
+    },
+    {
       "id": 8259230,
       "ru": "Девятая планета",
       "en": "Девятая планета",
@@ -6196,6 +6259,22 @@
         "фантастика",
         "боевик",
         "приключения"
+      ]
+    },
+    {
+      "id": 8256440,
+      "ru": "Alıkara",
+      "en": "Alıkara",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/3Vp8LSlyJY34q8jnGTNs0FHgnXP.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -6690,6 +6769,22 @@
       ]
     },
     {
+      "id": 8247718,
+      "ru": "Гангстерленд",
+      "en": "MobLand",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/vuKwmIVw6lClfzOtGzakhl47mjA.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8246473,
       "ru": "Сделано в Корее",
       "en": "메이드 인 코리아",
@@ -7164,6 +7259,22 @@
       "genres": [
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8232018,
+      "ru": "Падение Парижа",
+      "en": "Has Fallen",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.025,
+      "poster": "https://image.tmdb.org/t/p/w342/cupmN1Eobtee35jU8HmoHPnKVfm.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "Война и Политика"
       ]
     },
     {
@@ -8750,6 +8861,25 @@
       ]
     },
     {
+      "id": 8051817,
+      "ru": "Черепашки-ниндзя",
+      "en": "Teenage Mutant Ninja Turtles",
+      "year": "2012",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/jenaW74ph9FpotomEDCSJdBIu7X.jpg",
+      "genres": [
+        "Детский",
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "комедия"
+      ]
+    },
+    {
       "id": 8065701,
       "ru": "С добрым мифическим утром",
       "en": "Good Mythical Morning",
@@ -8924,6 +9054,22 @@
       "genres": [
         "комедия",
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8018165,
+      "ru": "Дневники вампира",
+      "en": "The Vampire Diaries",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/y8hcR1R8QmGs8uLHQhIFHgCFWDd.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -10284,6 +10430,21 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8209992,
+      "ru": "N.N.",
+      "en": "N.N.",
+      "year": "1990",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "",
+      "genres": [
+        "комедия"
       ]
     },
     {
