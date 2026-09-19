@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "movies": [
     {
       "id": 7421892,
@@ -2204,6 +2204,22 @@
       "genres": [
         "комедия",
         "музыка",
+        "драма"
+      ]
+    },
+    {
+      "id": 8451944,
+      "ru": "Lust Stories 3",
+      "en": "Lust Stories 3",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1rYl0kaBlxsDNJtkn4msRIidBvM.jpg",
+      "genres": [
+        "мелодрама",
         "драма"
       ]
     },
@@ -6769,6 +6785,21 @@
       ]
     },
     {
+      "id": 8207484,
+      "ru": "Чужестранка: Кровь от крови моей",
+      "en": "Outlander: Blood of My Blood",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/2GAAeJfjHH7QBDVC35cu9RpD8nE.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8247718,
       "ru": "Гангстерленд",
       "en": "MobLand",
@@ -8972,6 +9003,23 @@
       "studio": "",
       "rating": 8.266,
       "poster": "https://image.tmdb.org/t/p/w342/fimEW83gd7rr8tT1HavcA0b86m6.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8001413,
+      "ru": "Американская история ужасов",
+      "en": "American Horror Story",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/gj2dFFgEHdhxqSBpD2oPyo4YmPD.jpg",
       "genres": [
         "драма",
         "детектив",
