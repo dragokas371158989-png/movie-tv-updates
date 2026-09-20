@@ -1,5 +1,5 @@
 {
-  "version": 101,
+  "version": 102,
   "movies": [
     {
       "id": 7421892,
@@ -4711,6 +4711,22 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8239618,
+      "ru": "American Hostage",
+      "en": "American Hostage",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 1.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
@@ -9618,6 +9634,22 @@
       ]
     },
     {
+      "id": 8045789,
+      "ru": "Шторм любви",
+      "en": "Sturm der Liebe",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+      "genres": [
+        "драма",
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 8117217,
       "ru": "El conquistador",
       "en": "El conquistador",
@@ -10697,6 +10729,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/w5hwoVacFcF6a6YZ8CKHsR2gwH9.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8001667,
+      "ru": "Субботним вечером в прямом эфире",
+      "en": "Saturday Night Live",
+      "year": "1975",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.904,
+      "poster": "https://image.tmdb.org/t/p/w342/r9yFdsRSdAZD5pshDT6P2KsTq4P.jpg",
+      "genres": [
+        "комедия",
+        "Новости"
       ]
     },
     {
