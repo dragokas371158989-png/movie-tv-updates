@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "movies": [
     {
       "id": 7421892,
@@ -646,6 +646,25 @@
       "genres": [
         "боевик",
         "криминал"
+      ]
+    },
+    {
+      "id": 8465063,
+      "ru": "Остров забвения",
+      "en": "Forgotten Island",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uhNMNaaovoZiYeaDYZ9BYX7jTAJ.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "фэнтези",
+        "комедия",
+        "семейный"
       ]
     },
     {
@@ -4263,6 +4282,21 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8514863,
+      "ru": "Лучшие из лучших",
+      "en": "Best of the Best",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.167,
+      "poster": "https://image.tmdb.org/t/p/w342/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -8133,6 +8167,22 @@
       ]
     },
     {
+      "id": 8112470,
+      "ru": "Ici tout commence",
+      "en": "Ici tout commence",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+      "genres": [
+        "Мыльная опера",
+        "драма"
+      ]
+    },
+    {
       "id": 8113266,
       "ru": "Kaatelal & Sons",
       "en": "Kaatelal & Sons",
@@ -8673,6 +8723,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
       "genres": [
         "комедия",
+        "Ток-шоу"
+      ]
+    },
+    {
+      "id": 8062223,
+      "ru": "Очень позднее шоу с Джеймсом Корденом",
+      "en": "The Late Late Show with James Corden",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.149,
+      "poster": "https://image.tmdb.org/t/p/w342/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+      "genres": [
         "Ток-шоу"
       ]
     },
@@ -9619,6 +9684,22 @@
       ]
     },
     {
+      "id": 8014981,
+      "ru": "The Late Late Show with Craig Ferguson",
+      "en": "The Late Late Show with Craig Ferguson",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.835,
+      "poster": "https://image.tmdb.org/t/p/w342/gGC7zSDgG0FY0MbM1pjfhTCWQBI.jpg",
+      "genres": [
+        "комедия",
+        "Ток-шоу"
+      ]
+    },
+    {
       "id": 8127163,
       "ru": "Das perfekte Dinner",
       "en": "Das perfekte Dinner",
@@ -10343,6 +10424,22 @@
       ]
     },
     {
+      "id": 7044980,
+      "ru": "Zero WOMAN ＩＩ　警視庁０課の女",
+      "en": "Zero WOMAN ＩＩ　警視庁０課の女",
+      "year": "1995",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/z9XSICETB0XWQRyMWpN2s3bAUlz.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
+      ]
+    },
+    {
       "id": 8017892,
       "ru": "Unter uns",
       "en": "Unter uns",
@@ -10991,6 +11088,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
       "genres": [
         "Новости"
+      ]
+    },
+    {
+      "id": 8026663,
+      "ru": "Чем я занимаюсь?",
+      "en": "What's My Line?",
+      "year": "1950",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/A9T7xSQFnlxFgZkqC4lmHYPXhq4.jpg",
+      "genres": [
+        "семейный",
+        "комедия"
       ]
     },
     {
