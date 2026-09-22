@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "movies": [
     {
       "id": 7421892,
@@ -1453,6 +1453,21 @@
       ]
     },
     {
+      "id": 8049286,
+      "ru": "Твигги",
+      "en": "Twiggy",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/6G6IeQzLrhkmpe2Sr6BLO65biFQ.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 7021135,
       "ru": "Затмение",
       "en": "L'eclisse",
@@ -2189,6 +2204,22 @@
       "genres": [
         "боевик",
         "комедия"
+      ]
+    },
+    {
+      "id": 8607127,
+      "ru": "One Last Shot",
+      "en": "One Last Shot",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -3253,6 +3284,22 @@
         "комедия",
         "драма",
         "телевизионный фильм"
+      ]
+    },
+    {
+      "id": 8418308,
+      "ru": "Джуманджи: Тёмный уровень",
+      "en": "กล่องผีสุ่มวิญญาณ",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/xVjDFOKoZuPOv1m4Z7NJpQ1gbfF.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
