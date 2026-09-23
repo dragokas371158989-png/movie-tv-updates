@@ -1,5 +1,5 @@
 {
-  "version": 104,
+  "version": 105,
   "movies": [
     {
       "id": 7421892,
@@ -125,6 +125,37 @@
       "genres": [
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8250203,
+      "ru": "Братья",
+      "en": "Brothers",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aPgmrBBWIp1HTazq0Q3ej7TmBTy.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 8032863,
+      "ru": "The Love Hypothesis",
+      "en": "The Love Hypothesis",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
       ]
     },
     {
@@ -1437,6 +1468,38 @@
       ]
     },
     {
+      "id": 8616908,
+      "ru": "Вкускилл",
+      "en": "チルド",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/7FJ4jD5R9Y7BgYIvd4RG3N8ZpkX.jpg",
+      "genres": [
+        "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8312557,
+      "ru": "Академия \"Минерва\"",
+      "en": "Minerva - La scuola",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/vSB4aXD3xEy8gcAfDZWFQm9AGwh.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8300480,
       "ru": "Рики Джервейс: уличные коты",
       "en": "Ricky Gervais Alley Cats",
@@ -2586,6 +2649,21 @@
       ]
     },
     {
+      "id": 8074074,
+      "ru": "Любовь моя",
+      "en": "El ser querido",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.876,
+      "poster": "https://image.tmdb.org/t/p/w342/9FwnoA8GfNMjSmp4pTFDWTiSETB.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8288671,
       "ru": "Маршрут желаний",
       "en": "El mapa de los anhelos",
@@ -2853,6 +2931,23 @@
       ]
     },
     {
+      "id": 8433583,
+      "ru": "До последнего грамма",
+      "en": "The Weight",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/HLscOi35NIb0SbaF7JbTzinjRL.jpg",
+      "genres": [
+        "драма",
+        "триллер",
+        "криминал"
+      ]
+    },
+    {
       "id": 8305715,
       "ru": "Легенда навсегда",
       "en": "过家家",
@@ -3097,6 +3192,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/qzro574xelekqSTESEL09qpO2qh.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8351046,
+      "ru": "Непристойное предложение",
+      "en": "El talento",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/r0VO4SFyAPhZ9TKWnXunm4zG4tU.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -4808,6 +4918,22 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8756343,
+      "ru": "Красный экран",
+      "en": "Красный экран",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/9bE4AzXkr5fpGBLgRaLNqb4fl6J.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
