@@ -1,5 +1,5 @@
 {
-  "version": 105,
+  "version": 106,
   "movies": [
     {
       "id": 7421892,
@@ -2676,6 +2676,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/sRLTQMRwh3WsxI4v82Cf7PwKHN2.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8375441,
+      "ru": "Прайм-тайм",
+      "en": "Primetime",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.857,
+      "poster": "https://image.tmdb.org/t/p/w342/rhtD872D5znYiRIEjTLWvd7ZNDz.jpg",
+      "genres": [
+        "драма",
+        "триллер"
       ]
     },
     {
@@ -7776,6 +7792,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/2RsE6bh5ejmHRyb4BMupziiRlnL.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 7000141,
+      "ru": "Донни Дарко",
+      "en": "Donnie Darko",
+      "year": "2023",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.761,
+      "poster": "https://image.tmdb.org/t/p/w342/xIHM3COCyrDjWVoK1j7ELkuMfrh.jpg",
+      "genres": [
+        "фэнтези",
+        "драма",
+        "детектив"
       ]
     },
     {
