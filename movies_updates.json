@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "movies": [
     {
       "id": 7421892,
@@ -18,6 +18,23 @@
         "семейный",
         "фэнтези",
         "приключения"
+      ]
+    },
+    {
+      "id": 8492640,
+      "ru": "Унабомбер",
+      "en": "UNABOMBER",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "genres": [
+        "триллер",
+        "криминал",
+        "история"
       ]
     },
     {
@@ -4439,6 +4456,23 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8751701,
+      "ru": "After Impact",
+      "en": "After Impact",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.214,
+      "poster": "https://image.tmdb.org/t/p/w342/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "genres": [
+        "фантастика",
+        "драма",
+        "триллер"
       ]
     },
     {
@@ -9175,6 +9209,23 @@
         "Боевик и Приключения",
         "комедия",
         "семейный",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8045790,
+      "ru": "Невероятные приключения ДжоДжо",
+      "en": "ジョジョの奇妙な冒険",
+      "year": "2012",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/6kG506PdsyuHWnc5OWGl64Kd6XK.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
         "НФ и Фэнтези"
       ]
     },
