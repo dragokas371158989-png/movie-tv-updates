@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 108,
   "movies": [
     {
       "id": 7421892,
@@ -3243,6 +3243,22 @@
       ]
     },
     {
+      "id": 8290720,
+      "ru": "Последнее дело Холмса",
+      "en": "El problema final",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/p7BqkUqCEMnxC92swfBkZ4GTQCV.jpg",
+      "genres": [
+        "криминал",
+        "детектив"
+      ]
+    },
+    {
       "id": 8401778,
       "ru": "Турбулентность",
       "en": "Turbulence",
@@ -5366,6 +5382,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/10IbmfdFwmwbcVG82dKD4poFWhI.jpg",
       "genres": [
         "мультфильм"
+      ]
+    },
+    {
+      "id": 8580190,
+      "ru": "除暴之路",
+      "en": "除暴之路",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/kgoLu3CCb3pQARy0YWEvijKNSx4.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
