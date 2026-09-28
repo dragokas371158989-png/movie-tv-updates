@@ -1,5 +1,5 @@
 {
-  "version": 108,
+  "version": 109,
   "movies": [
     {
       "id": 7421892,
@@ -6407,6 +6407,22 @@
       ]
     },
     {
+      "id": 8283515,
+      "ru": "Тайный дневник Верити",
+      "en": "Verity",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/tnpEkM7NmsHStbBJxTd6gqPjkv8.jpg",
+      "genres": [
+        "детектив",
+        "триллер"
+      ]
+    },
+    {
       "id": 8280015,
       "ru": "Sunny Dancer",
       "en": "Sunny Dancer",
@@ -8533,6 +8549,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/yJz0VPfztciUt8cYulEOnk7wQhs.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 7299534,
+      "ru": "Мстители: Финал",
+      "en": "Avengers: Endgame",
+      "year": "2019",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dynnf8NGGfHTNMz8Vd3CzFtYjec.jpg",
+      "genres": [
+        "приключения",
+        "фантастика",
+        "боевик"
       ]
     },
     {
