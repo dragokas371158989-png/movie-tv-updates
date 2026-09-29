@@ -1,5 +1,5 @@
 {
-  "version": 109,
+  "version": 110,
   "movies": [
     {
       "id": 7421892,
@@ -381,6 +381,25 @@
       "genres": [
         "мультфильм",
         "фэнтези",
+        "семейный"
+      ]
+    },
+    {
+      "id": 8318918,
+      "ru": "LEGO ONE PIECE",
+      "en": "LEGO ONE PIECE",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/iuPKz4EJacRNYbls3B3n6H6LLlm.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "комедия",
         "семейный"
       ]
     },
@@ -1196,6 +1215,21 @@
       "studio": "",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/o4I2aVl0KsXKZt5djqUE0Z5YWhH.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8297982,
+      "ru": "Незаменимая",
+      "en": "无可替代",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gLbtMLqbN6fgYsTuHFvzJu7Hopi.jpg",
       "genres": [
         "драма"
       ]
@@ -8295,6 +8329,23 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 7460458,
+      "ru": "Обитель зла: Раккун-Сити",
+      "en": "Resident Evil: Welcome to Raccoon City",
+      "year": "2021",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.93,
+      "poster": "https://image.tmdb.org/t/p/w342/nfDd3MgLQoKZr7xOK4DDIF8Snlh.jpg",
+      "genres": [
+        "боевик",
+        "ужасы",
+        "фантастика"
       ]
     },
     {
