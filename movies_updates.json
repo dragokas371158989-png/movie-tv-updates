@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "movies": [
     {
       "id": 7421892,
@@ -481,6 +481,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/pRPDAGXmoUnWlRj34BHQ1Gt05ai.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8290418,
+      "ru": "The Cycle",
+      "en": "The Cycle",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rn8iywziOBFcmi922YZXkbO56vK.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
@@ -5021,6 +5037,38 @@
       ]
     },
     {
+      "id": 8776601,
+      "ru": "Пранкер",
+      "en": "Пранкер",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fL2tzEvIKpcR1DJlvwIkSpjc6PL.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8764968,
+      "ru": "Барбоскины. 15 лет вместе",
+      "en": "Барбоскины. 15 лет вместе",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "мультфильм",
+        "семейный"
+      ]
+    },
+    {
       "id": 8756343,
       "ru": "Красный экран",
       "en": "Красный экран",
@@ -5098,6 +5146,21 @@
       "genres": [
         "боевик",
         "драма"
+      ]
+    },
+    {
+      "id": 8740280,
+      "ru": "4 жизни Петра Мамонова",
+      "en": "4 жизни Петра Мамонова",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/rmIQQN159fzmTZulMjYiEPl9PdA.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
@@ -5290,6 +5353,23 @@
         "комедия",
         "мелодрама",
         "приключения"
+      ]
+    },
+    {
+      "id": 8640261,
+      "ru": "Сказка о потерянном времени",
+      "en": "Сказка о потерянном времени",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/rHIHELSgTGWnDryaoj9Yb15iTkd.jpg",
+      "genres": [
+        "комедия",
+        "семейный",
+        "фантастика"
       ]
     },
     {
@@ -5645,6 +5725,21 @@
       ]
     },
     {
+      "id": 8476405,
+      "ru": "Синтетика",
+      "en": "Синтетика",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8469518,
       "ru": "Особый пациент",
       "en": "Особый пациент",
@@ -5824,6 +5919,22 @@
       ]
     },
     {
+      "id": 8416303,
+      "ru": "Морозко",
+      "en": "Морозко",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fB9B9F38oJufXkT5OCQHCTTNrmY.jpg",
+      "genres": [
+        "фэнтези",
+        "семейный"
+      ]
+    },
+    {
       "id": 8403676,
       "ru": "Код сна",
       "en": "April X",
@@ -5836,6 +5947,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/c58kfRCUXtd0VymrXwmnEWPD6QQ.jpg",
       "genres": [
         "боевик",
+        "триллер",
+        "фантастика"
+      ]
+    },
+    {
+      "id": 8400940,
+      "ru": "Клэйфейс",
+      "en": "Clayface",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/t6Dso7ojC23ztZSZtf6sje9iTPN.jpg",
+      "genres": [
+        "ужасы",
         "триллер",
         "фантастика"
       ]
