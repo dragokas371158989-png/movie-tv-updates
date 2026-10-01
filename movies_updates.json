@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "movies": [
     {
       "id": 7421892,
@@ -1535,6 +1535,21 @@
       ]
     },
     {
+      "id": 8295778,
+      "ru": "Клиника",
+      "en": "Scrubs",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.714,
+      "poster": "https://image.tmdb.org/t/p/w342/5BOu6ytGGOgBnU3epO9mx9Mpxbf.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8616908,
       "ru": "Вкускилл",
       "en": "チルド",
@@ -2089,6 +2104,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/xmHzLoSEguCNj4b0nSiqu0npNHF.jpg",
       "genres": [
         "приключения",
+        "драма"
+      ]
+    },
+    {
+      "id": 8258165,
+      "ru": "К востоку от рая",
+      "en": "East of Eden",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/ap7d2nqdkcls8Kjw7TNL5BTfXkJ.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -6967,6 +6997,22 @@
         "комедия",
         "приключения",
         "криминал"
+      ]
+    },
+    {
+      "id": 8153576,
+      "ru": "Уличный боец",
+      "en": "Street Fighter",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/2qGRXNrhyg3N5KNAZuahmUvf15s.jpg",
+      "genres": [
+        "боевик",
+        "фэнтези"
       ]
     },
     {
