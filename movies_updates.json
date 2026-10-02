@@ -1,5 +1,5 @@
 {
-  "version": 112,
+  "version": 113,
   "movies": [
     {
       "id": 7421892,
@@ -98,6 +98,39 @@
       ]
     },
     {
+      "id": 8298852,
+      "ru": "Война",
+      "en": "WAR",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/9KWRRrN92s44zX5GBfWYeaXzxgV.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8298505,
+      "ru": "Академия ведьм",
+      "en": "Coven Academy",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "genres": [
+        "детектив",
+        "Боевик и Приключения",
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8298168,
       "ru": "Осколки",
       "en": "The Shards",
@@ -142,6 +175,22 @@
       "genres": [
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8284558,
+      "ru": "Убить Джеки",
+      "en": "Kill Jackie",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bEWwDKX2djgGALwAprJwb2ElqqL.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
@@ -713,6 +762,22 @@
       "genres": [
         "фантастика",
         "приключения"
+      ]
+    },
+    {
+      "id": 8283428,
+      "ru": "Ледяная стена",
+      "en": "氷の城壁",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.605,
+      "poster": "https://image.tmdb.org/t/p/w342/rLtwNKvPF4XHiS4ytAtJ5k5V0iL.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
       ]
     },
     {
@@ -4988,6 +5053,22 @@
       ]
     },
     {
+      "id": 8458857,
+      "ru": "Doing Life",
+      "en": "Doing Life",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8254528,
       "ru": "The Hawk",
       "en": "The Hawk",
@@ -5080,6 +5161,23 @@
       "genres": [
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8775291,
+      "ru": "Дочь",
+      "en": "Дочь",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/pcnwJCOraAlKpItzbpT6QJfZzMZ.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "криминал"
       ]
     },
     {
@@ -7835,6 +7933,22 @@
       "genres": [
         "Боевик и Приключения",
         "Война и Политика"
+      ]
+    },
+    {
+      "id": 8203667,
+      "ru": "Красная королева",
+      "en": "Reina roja",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/xSifVxU70KrO3MrGyz6nonuMWZS.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "детектив"
       ]
     },
     {
