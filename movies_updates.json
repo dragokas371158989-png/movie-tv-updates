@@ -1,5 +1,5 @@
 {
-  "version": 113,
+  "version": 114,
   "movies": [
     {
       "id": 7421892,
@@ -5965,6 +5965,22 @@
       ]
     },
     {
+      "id": 8447400,
+      "ru": "Спарта 2. Гоплиты",
+      "en": "Спарта 2. Гоплиты",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7a7kgyIjjGVKTdYeKYinpiFHL5i.jpg",
+      "genres": [
+        "боевик",
+        "драма"
+      ]
+    },
+    {
       "id": 8440098,
       "ru": "Enfrentados: Marfil",
       "en": "Enfrentados: Marfil",
@@ -8063,6 +8079,23 @@
         "комедия",
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8220542,
+      "ru": "Монолог фармацевта",
+      "en": "薬屋のひとりごと",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/7ABzbWhBzp4YjkXziGl77HmPa1h.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -11551,6 +11584,22 @@
         "Боевик и Приключения",
         "НФ и Фэнтези",
         "драма"
+      ]
+    },
+    {
+      "id": 8003034,
+      "ru": "Место преступления",
+      "en": "Tatort",
+      "year": "1970",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/j73WOp6ArCy8vK4vreIdSunoXAr.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
