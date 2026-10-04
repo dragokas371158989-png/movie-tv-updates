@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "movies": [
     {
       "id": 7421892,
@@ -964,6 +964,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
       "genres": [
         "ужасы",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8335227,
+      "ru": "Я предпочитаю смерть",
+      "en": "Prefiero la Muerte",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
+      "genres": [
+        "Боевик и Приключения",
         "комедия"
       ]
     },
@@ -3845,6 +3861,22 @@
       "genres": [
         "ужасы",
         "триллер"
+      ]
+    },
+    {
+      "id": 8491920,
+      "ru": "Женский убойный футбол",
+      "en": "功夫女足",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.056,
+      "poster": "https://image.tmdb.org/t/p/w342/5skHR1T8URubqb30fk14njyPcy4.jpg",
+      "genres": [
+        "боевик",
+        "комедия"
       ]
     },
     {
@@ -7766,6 +7798,23 @@
       ]
     },
     {
+      "id": 8259140,
+      "ru": "Ranma1/2",
+      "en": "らんま1/2",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.069,
+      "poster": "https://image.tmdb.org/t/p/w342/1C4HtKv13BQnhofwnPZiyfti5aC.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "комедия"
+      ]
+    },
+    {
       "id": 8245842,
       "ru": "Меч и жезл Вистории",
       "en": "杖と剣のウィストリア",
@@ -7849,6 +7898,22 @@
         "комедия",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8207347,
+      "ru": "Голубая шкатулка",
+      "en": "アオのハコ",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/9SKhsUvigHfhd27ss6WcJ4X2KUE.jpg",
+      "genres": [
+        "мультфильм",
+        "драма"
       ]
     },
     {
@@ -9150,6 +9215,23 @@
       "genres": [
         "драма",
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8073223,
+      "ru": "Чёрный клевер",
+      "en": "ブラッククローバー",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/vcsAzsoSJEHgJZ29EkxXWSEVbDN.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
