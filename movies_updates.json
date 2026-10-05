@@ -1,5 +1,5 @@
 {
-  "version": 115,
+  "version": 116,
   "movies": [
     {
       "id": 7421892,
@@ -1528,6 +1528,23 @@
         "история",
         "военный",
         "драма"
+      ]
+    },
+    {
+      "id": 8290856,
+      "ru": "Йеллоустоун: Маршалы",
+      "en": "Marshals",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/faJYIqgKoMDqDhdlvKYkbthkN5B.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "Боевик и Приключения"
       ]
     },
     {
@@ -6145,6 +6162,21 @@
       ]
     },
     {
+      "id": 8400837,
+      "ru": "Чужая мама",
+      "en": "Other Mommy",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/xM23YJnhlJgf8gOFE34IZBMxUy3.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8399320,
       "ru": "На деревню к дедушке. Супермиссия",
       "en": "Duivinder",
@@ -6757,6 +6789,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/tnpEkM7NmsHStbBJxTd6gqPjkv8.jpg",
       "genres": [
         "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8281331,
+      "ru": "Социальная расплата",
+      "en": "The Social Reckoning",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/nZ8cQbjAQHRuSqwxvuYhOfxyhfW.jpg",
+      "genres": [
+        "драма",
         "триллер"
       ]
     },
@@ -7948,6 +7996,22 @@
         "драма",
         "семейный",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8211288,
+      "ru": "Следопыт",
+      "en": "Tracker",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/llSXoIf2KfsQ77MQDyZowGnBPxq.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
