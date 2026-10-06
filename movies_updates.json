@@ -1,5 +1,5 @@
 {
-  "version": 116,
+  "version": 117,
   "movies": [
     {
       "id": 7421892,
@@ -95,6 +95,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/9XJksKK7BWVUfr9vUIYd3AdA1Vl.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8307106,
+      "ru": "연애박사",
+      "en": "연애박사",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -794,6 +810,22 @@
       "genres": [
         "боевик",
         "криминал"
+      ]
+    },
+    {
+      "id": 8289560,
+      "ru": "ЦРУ",
+      "en": "CIA",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.531,
+      "poster": "https://image.tmdb.org/t/p/w342/eoVEHMHwopPkcCqIXCoxmM2WDlH.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
