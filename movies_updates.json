@@ -1,5 +1,5 @@
 {
-  "version": 117,
+  "version": 118,
   "movies": [
     {
       "id": 7421892,
@@ -1334,6 +1334,23 @@
       ]
     },
     {
+      "id": 8312693,
+      "ru": "Маленькие пророки",
+      "en": "Small Prophets",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/9OOxxSmmpbgADhAyGGU2zpvHIzU.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8299952,
       "ru": "Ранняя весна",
       "en": "早春晴朗",
@@ -1440,6 +1457,22 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8185344,
+      "ru": "Зверь",
+      "en": "The Beast",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rH6xnAWY1Asb0DlIczPXzVig5cI.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -1560,6 +1593,24 @@
         "история",
         "военный",
         "драма"
+      ]
+    },
+    {
+      "id": 8304434,
+      "ru": "Маленькие демоны путешествуют на Запад",
+      "en": "浪浪山小妖怪",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/yI11Xi7ciXsbWcnob0MJVSbLYlM.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "фэнтези",
+        "комедия"
       ]
     },
     {
@@ -2007,6 +2058,22 @@
       ]
     },
     {
+      "id": 8288673,
+      "ru": "Кэрри",
+      "en": "Carrie",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/qrmBRcNOQ3eHv4zdXlO1anTELq0.jpg",
+      "genres": [
+        "детектив",
+        "драма"
+      ]
+    },
+    {
       "id": 8266800,
       "ru": "Мальчик и лис",
       "en": "L’Enfant du Désert",
@@ -2352,6 +2419,25 @@
       ]
     },
     {
+      "id": 8477104,
+      "ru": "Барашек Шон и Чудище Лохматое",
+      "en": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/lND7rSounD24SQcBFCCd0VOGgXN.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "приключения",
+        "ужасы"
+      ]
+    },
+    {
       "id": 8319522,
       "ru": "Мой бродячий пес",
       "en": "โกฮัง..หัวใจโกโฮม",
@@ -2545,6 +2631,22 @@
         "комедия",
         "музыка",
         "драма"
+      ]
+    },
+    {
+      "id": 8462229,
+      "ru": "Большие гонки. Пегас 3",
+      "en": "飞驰人生3",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/fzkfI2LWgPEHiFOFW2JveqlAY3h.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -2808,6 +2910,21 @@
         "криминал",
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8496491,
+      "ru": "Безумный день в Комеди Франсез",
+      "en": "De la Comédie-Française",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -3882,6 +3999,22 @@
       ]
     },
     {
+      "id": 8461254,
+      "ru": "Проклятье Сальмокджи",
+      "en": "살목지",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/hZcAOqPBiOVMeffbjSN7BAMB9jn.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8288059,
       "ru": "Я хочу с тобой секса",
       "en": "I Want Your Sex",
@@ -4790,6 +4923,21 @@
       "studio": "",
       "rating": 5.1,
       "poster": "https://image.tmdb.org/t/p/w342/fDyjVv5ryBYDiE1sN9mbBbZycBL.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
+      "id": 8590613,
+      "ru": "Синистер. Дом мёртвых",
+      "en": "Cerita Lila",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/80CcJdrV3ewqPawFMAFGIrldgR5.jpg",
       "genres": [
         "ужасы"
       ]
@@ -7111,6 +7259,23 @@
       ]
     },
     {
+      "id": 8241803,
+      "ru": "Отверженные",
+      "en": "Les Misérables",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/g4FreWgZNSY03Kk59E8tPGYpIRz.jpg",
+      "genres": [
+        "история",
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
       "id": 8232569,
       "ru": "Пиноккио: Раскрепощённый",
       "en": "Pinocchio: Unstrung",
@@ -9149,6 +9314,21 @@
         "комедия",
         "драма",
         "семейный"
+      ]
+    },
+    {
+      "id": 7024657,
+      "ru": "Жертвоприношение",
+      "en": "Offret",
+      "year": "2019",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/uOZ7GiXRDLdJ8jr3ft8uYJCvktV.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
