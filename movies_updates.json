@@ -1,5 +1,5 @@
 {
-  "version": 118,
+  "version": 119,
   "movies": [
     {
       "id": 7421892,
@@ -497,6 +497,22 @@
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/1uuVhAwTRvileHfXdO46dYTiJef.jpg",
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8305551,
+      "ru": "メリーベリーラブ",
+      "en": "メリーベリーラブ",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+      "genres": [
+        "комедия",
         "драма"
       ]
     },
@@ -1563,6 +1579,21 @@
       ]
     },
     {
+      "id": 8591675,
+      "ru": "ルックバック",
+      "en": "ルックバック",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8339713,
       "ru": "Обсессия",
       "en": "Obsession",
@@ -2167,6 +2198,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/xgZclC1K9Mm8HeK226EnJMz2uwt.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8285322,
+      "ru": "Вглубь",
+      "en": "Below",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/ccAzLrruF3UaXjZUEjyfn7FSxCe.jpg",
+      "genres": [
+        "детектив"
       ]
     },
     {
