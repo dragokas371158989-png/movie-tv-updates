@@ -1,5 +1,5 @@
 {
-  "version": 119,
+  "version": 120,
   "movies": [
     {
       "id": 7421892,
@@ -191,6 +191,24 @@
       "genres": [
         "детектив",
         "драма"
+      ]
+    },
+    {
+      "id": 8284833,
+      "ru": "Аватар: Семь убежищ",
+      "en": "Avatar: Seven Havens",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vYNar1VtdNyQXXUt16uPbIT6wzr.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "семейный"
       ]
     },
     {
@@ -3303,6 +3321,21 @@
       ]
     },
     {
+      "id": 8712451,
+      "ru": "Resident Dead",
+      "en": "Resident Dead",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/yX8ziNTZ5aOszJ3l4R3BlT2gBIa.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8594914,
       "ru": "Последний рубеж",
       "en": "Lucky Strike",
@@ -3852,6 +3885,22 @@
       ]
     },
     {
+      "id": 8236045,
+      "ru": "Животные",
+      "en": "Animals",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/tivUBDoIEXHnL5ZjyNca3FMTH86.jpg",
+      "genres": [
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
       "id": 8140521,
       "ru": "Вверх по волшебному дереву",
       "en": "The Magic Faraway Tree",
@@ -4089,6 +4138,23 @@
       "genres": [
         "ужасы",
         "триллер"
+      ]
+    },
+    {
+      "id": 8148365,
+      "ru": "Matchbox: фильм",
+      "en": "Matchbox the Movie",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.071,
+      "poster": "https://image.tmdb.org/t/p/w342/ojUXGiBCqgZ9aFYYGNg9jJU0DE5.jpg",
+      "genres": [
+        "боевик",
+        "комедия",
+        "приключения"
       ]
     },
     {
@@ -4726,6 +4792,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/wvDlB9H1egdH2CCVPtS65CJFjB0.jpg",
       "genres": [
         "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8303630,
+      "ru": "Cupertino",
+      "en": "Cupertino",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/70AhJpOqU2oKyQF2paJA764CSje.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -6891,6 +6972,22 @@
       ]
     },
     {
+      "id": 8289423,
+      "ru": "나를 충전해줘",
+      "en": "나를 충전해줘",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "комедия"
+      ]
+    },
+    {
       "id": 8288445,
       "ru": "Мятеж",
       "en": "Mutiny",
@@ -7779,6 +7876,22 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8255752,
+      "ru": "Отель с привидениями",
+      "en": "Haunted Hotel",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/tdDMzL66j6Cy9iPbGNtHP3dpXwS.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия"
       ]
     },
     {
