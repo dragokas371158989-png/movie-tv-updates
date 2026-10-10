@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 121,
   "movies": [
     {
       "id": 7421892,
@@ -1825,6 +1825,23 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8293610,
+      "ru": "Доктор Икс: Эпоха белой мафии",
+      "en": "닥터X: 하얀 마피아의 시대",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/xYFTiwC7Tl0xOUFiVFUPWXHTHnr.jpg",
+      "genres": [
+        "детектив",
+        "драма",
+        "криминал"
       ]
     },
     {
@@ -4174,6 +4191,24 @@
       ]
     },
     {
+      "id": 8735270,
+      "ru": "ಪ್ರೇಮದ ಊರಲಿ",
+      "en": "ಪ್ರೇಮದ ಊರಲಿ",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/d3tfAVRB9baqZqFnV6wPvqZnuzi.jpg",
+      "genres": [
+        "мелодрама",
+        "музыка",
+        "семейный",
+        "драма"
+      ]
+    },
+    {
       "id": 8517069,
       "ru": "Марк глазами Софии",
       "en": "Marc by Sofia",
@@ -5117,6 +5152,21 @@
         "криминал",
         "боевик",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 8473878,
+      "ru": "Демон скорости",
+      "en": "Speed Demon",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.8,
+      "poster": "https://image.tmdb.org/t/p/w342/pKdqRkNYD58b6VUEx3zbCyzDPQq.jpg",
+      "genres": [
+        "ужасы"
       ]
     },
     {
@@ -8750,6 +8800,22 @@
       ]
     },
     {
+      "id": 8231620,
+      "ru": "现在就出发",
+      "en": "现在就出发",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/rYA8lb9XCfI0RRHUr4rQ6F44A3j.jpg",
+      "genres": [
+        "Реалити-шоу",
+        "комедия"
+      ]
+    },
+    {
       "id": 8220118,
       "ru": "漣蒼士に純潔を捧ぐ",
       "en": "漣蒼士に純潔を捧ぐ",
@@ -9933,6 +9999,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
       "genres": [
         "Ток-шоу"
+      ]
+    },
+    {
+      "id": 8058841,
+      "ru": "Полиция Чикаго",
+      "en": "Chicago P.D.",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/nMSL6PGiHOKefKWfS2UFV7mOIX4.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
