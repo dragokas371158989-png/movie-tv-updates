@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "movies": [
     {
       "id": 7421892,
@@ -5538,6 +5538,22 @@
       ]
     },
     {
+      "id": 8333101,
+      "ru": "Остров сокровищ",
+      "en": "Treasure Island",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 1.0,
+      "poster": "https://image.tmdb.org/t/p/w342/o79kVEpMG6FSr5qyiBmVuc3IGWD.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8239618,
       "ru": "American Hostage",
       "en": "American Hostage",
@@ -6954,6 +6970,21 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8293607,
+      "ru": "100일의 거짓말",
+      "en": "100일의 거짓말",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/wf7l8ZfGGkOKcQGF3Htt5DDhBxD.jpg",
+      "genres": [
+        "Боевик и Приключения"
       ]
     },
     {
@@ -10263,6 +10294,21 @@
         "мультфильм",
         "Боевик и Приключения",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8044006,
+      "ru": "Чикаго в огне",
+      "en": "Chicago Fire",
+      "year": "2012",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/pfz9fm6XOorOFkxmin7tqFMv14g.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
