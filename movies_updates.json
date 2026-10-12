@@ -1,5 +1,5 @@
 {
-  "version": 122,
+  "version": 123,
   "movies": [
     {
       "id": 7421892,
@@ -256,6 +256,23 @@
       "genres": [
         "мелодрама",
         "комедия"
+      ]
+    },
+    {
+      "id": 8312359,
+      "ru": "Dragon Ball Super: Бирус",
+      "en": "ドラゴンボール超 ビルス",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.758,
+      "poster": "https://image.tmdb.org/t/p/w342/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -2434,6 +2451,22 @@
       ]
     },
     {
+      "id": 7000227,
+      "ru": "Изгои",
+      "en": "The Outsiders",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/68XmLIWfSBdDcyxsXc1hDBZevQB.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8116201,
       "ru": "Железное лёгкое",
       "en": "Iron Lung",
@@ -2895,6 +2928,23 @@
       ]
     },
     {
+      "id": 7677558,
+      "ru": "Подводная братва. На страже рифа",
+      "en": "The Last Whale Singer",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yor3mLGIU1toeE4tAQWlTAj8Egt.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "семейный"
+      ]
+    },
+    {
       "id": 8166170,
       "ru": "Любовь с того света",
       "en": "L’Âme Idéale",
@@ -3115,6 +3165,23 @@
       "rating": 6.857,
       "poster": "https://image.tmdb.org/t/p/w342/rhtD872D5znYiRIEjTLWvd7ZNDz.jpg",
       "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8339274,
+      "ru": "Не оставляйте детей одних",
+      "en": "No dejes a los niños solos",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.842,
+      "poster": "https://image.tmdb.org/t/p/w342/w01yTCLE2nCSj8IMxUjrc8vIwQ9.jpg",
+      "genres": [
+        "ужасы",
         "драма",
         "триллер"
       ]
@@ -3994,6 +4061,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/kGqVIxC0FH4AbbBXjaVFqXQ3Azz.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8299382,
+      "ru": "О чём говорят любовники",
+      "en": "Breve storia d'amore",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама",
+        "триллер"
       ]
     },
     {
