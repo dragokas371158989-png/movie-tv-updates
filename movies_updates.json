@@ -1,5 +1,5 @@
 {
-  "version": 123,
+  "version": 124,
   "movies": [
     {
       "id": 7421892,
@@ -2336,6 +2336,22 @@
       ]
     },
     {
+      "id": 8554956,
+      "ru": "The Incomer",
+      "en": "The Incomer",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.222,
+      "poster": "https://image.tmdb.org/t/p/w342/QSHsgR6ZTAbnDkHjRhaxkL3caj.jpg",
+      "genres": [
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8630409,
       "ru": "คนเดือดทวงแค้น",
       "en": "คนเดือดทวงแค้น",
@@ -4290,6 +4306,23 @@
         "музыка",
         "семейный",
         "драма"
+      ]
+    },
+    {
+      "id": 8716222,
+      "ru": "Шкатулка проклятия. Зло внутри",
+      "en": "Paket Santet",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ooeIRaAM9N02d8Z4eXPKE5BlBMM.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "триллер"
       ]
     },
     {
@@ -6768,6 +6801,21 @@
       ]
     },
     {
+      "id": 8335536,
+      "ru": "Тайсон",
+      "en": "TYSON",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/y5JxfJTEWOH3GgLk9d8cxQTaJi2.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 8324115,
       "ru": "ทนายปีศาจ",
       "en": "ทนายปีศาจ",
@@ -7486,6 +7534,21 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8255833,
+      "ru": "Кит: Во тьме глубин",
+      "en": "Whalefall",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sqrx5rMkdSSaXTmd19jAbUx5Cpc.jpg",
+      "genres": [
+        "триллер"
       ]
     },
     {
@@ -11534,6 +11597,21 @@
       ]
     },
     {
+      "id": 8336510,
+      "ru": "alpha Österreich",
+      "en": "alpha Österreich",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 8037854,
       "ru": "Ван-Пис",
       "en": "ワンピース",
@@ -11650,6 +11728,21 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8108188,
+      "ru": "Barbara Karlich – Talk um 4",
+      "en": "Barbara Karlich – Talk um 4",
+      "year": "1999",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.5,
+      "poster": "https://image.tmdb.org/t/p/w342/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+      "genres": [
+        "Ток-шоу"
       ]
     },
     {
