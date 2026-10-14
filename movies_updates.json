@@ -1,5 +1,5 @@
 {
-  "version": 124,
+  "version": 125,
   "movies": [
     {
       "id": 7421892,
@@ -1365,6 +1365,21 @@
         "драма",
         "детектив",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 8336166,
+      "ru": "Роллинг Лауд. Дикое веселье",
+      "en": "Rolling Loud: The Movie",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -2796,6 +2811,21 @@
       ]
     },
     {
+      "id": 8442211,
+      "ru": "Идеальный шторм",
+      "en": "Balandrau, vent salvatge",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ip9YFTwcGyiTVdkZNCVu2cNXjoi.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8433367,
       "ru": "Всего одна ночь",
       "en": "One Night Only",
@@ -2808,6 +2838,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/rGIjFMxPgoVVnTPpAFRAkf8TH9M.jpg",
       "genres": [
         "комедия",
+        "мелодрама"
+      ]
+    },
+    {
+      "id": 8381078,
+      "ru": "Любовь твоей жизни",
+      "en": "Love of Your Life",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gOaRyRpilYPEsVLEPHOH9eHNw5E.jpg",
+      "genres": [
+        "драма",
         "мелодрама"
       ]
     },
@@ -7712,6 +7758,23 @@
       ]
     },
     {
+      "id": 8195803,
+      "ru": "Плетёный муж",
+      "en": "Wicker",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ej29DO6sC6IsxQLtYPj4ZxfwCQP.jpg",
+      "genres": [
+        "мелодрама",
+        "фэнтези",
+        "комедия"
+      ]
+    },
+    {
       "id": 8180894,
       "ru": "Оно приходит снизу",
       "en": "Bajo tus pies",
@@ -9541,6 +9604,24 @@
       ]
     },
     {
+      "id": 8289892,
+      "ru": "Аццкий босс",
+      "en": "Helluva Boss",
+      "year": "2020",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/i4dwJO4g0mmVnzQ9WYnhuYONerH.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8095897,
       "ru": "Переполнение",
       "en": "おーばーふろぉ",
@@ -10669,6 +10750,24 @@
       "genres": [
         "комедия",
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 7024021,
+      "ru": "Сумерки. Сага. Затмение",
+      "en": "The Twilight Saga: Eclipse",
+      "year": "2010",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.186,
+      "poster": "https://image.tmdb.org/t/p/w342/40ut2seLFEeyTcan7V2cVjwRvI9.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "драма",
+        "мелодрама"
       ]
     },
     {
