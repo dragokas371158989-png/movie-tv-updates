@@ -1,5 +1,5 @@
 {
-  "version": 125,
+  "version": 126,
   "movies": [
     {
       "id": 7421892,
@@ -5590,6 +5590,22 @@
       ]
     },
     {
+      "id": 8213562,
+      "ru": "Хрустальное озеро",
+      "en": "Crystal Lake",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1l7T2D6x7ZBvsEH73rQuHHzEjZj.jpg",
+      "genres": [
+        "детектив",
+        "драма"
+      ]
+    },
+    {
       "id": 8616674,
       "ru": "Aku Sebelum Aku",
       "en": "Aku Sebelum Aku",
@@ -7278,6 +7294,23 @@
       ]
     },
     {
+      "id": 8286183,
+      "ru": "Голливудская школа искусств",
+      "en": "Hollywood Arts",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/pJsrA4On2ITOk1rBq9PiaRzU2Q0.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8285844,
       "ru": "Романовы: Преданность и предательство",
       "en": "Романовы: Преданность и предательство",
@@ -8348,6 +8381,22 @@
       ]
     },
     {
+      "id": 8273247,
+      "ru": "Подноготная",
+      "en": "The Lowdown",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/r2ZOtDAH49YKKbyZ8QAKrWQcL19.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8246461,
       "ru": "Шерлок и дочь",
       "en": "Sherlock & Daughter",
@@ -9038,6 +9087,22 @@
       "genres": [
         "Боевик и Приключения",
         "драма"
+      ]
+    },
+    {
+      "id": 8203857,
+      "ru": "Дипломатка",
+      "en": "The Diplomat",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/nNCChSFTXCffs6srs27wFW9WIRN.jpg",
+      "genres": [
+        "драма",
+        "Война и Политика"
       ]
     },
     {
