@@ -1,5 +1,5 @@
 {
-  "version": 126,
+  "version": 127,
   "movies": [
     {
       "id": 7421892,
@@ -796,6 +796,22 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8561726,
+      "ru": "Masterplan",
+      "en": "Masterplan",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w342/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "genres": [
+        "боевик",
+        "триллер"
       ]
     },
     {
@@ -2935,6 +2951,22 @@
         "мультфильм",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8288069,
+      "ru": "Тенцинг",
+      "en": "Tenzing",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ieS40Zp9hmDwoZdRUVB3v8HgJaK.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -7041,6 +7073,22 @@
       ]
     },
     {
+      "id": 8311648,
+      "ru": "내가 떨릴 수 있게",
+      "en": "내가 떨릴 수 있게",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/aGX71DFozG55achSbKd225LHGMj.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8309974,
       "ru": "Я влюбился в тебя, когда ты бежала в лунной ночи",
       "en": "透明な夜に駆ける君と、目に見えない恋をした。",
@@ -8711,6 +8759,24 @@
       ]
     },
     {
+      "id": 8022789,
+      "ru": "Головоломка 2",
+      "en": "Inside Out 2",
+      "year": "2024",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.542,
+      "poster": "https://image.tmdb.org/t/p/w342/5fXrqBIvatwSuph7nTuSETBQYxm.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8203744,
       "ru": "Шугар",
       "en": "Sugar",
@@ -9198,6 +9264,23 @@
       "genres": [
         "мультфильм",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8153312,
+      "ru": "Король Талсы",
+      "en": "Tulsa King",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.299,
+      "poster": "https://image.tmdb.org/t/p/w342/8lZrK8t4IVaugD2ho7JbtaPhazs.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "комедия"
       ]
     },
     {
@@ -9977,6 +10060,23 @@
       "genres": [
         "вестерн",
         "драма"
+      ]
+    },
+    {
+      "id": 7299536,
+      "ru": "Мстители: Война бесконечности",
+      "en": "Avengers: Infinity War",
+      "year": "2018",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.245,
+      "poster": "https://image.tmdb.org/t/p/w342/c6RSGB6O0RaaHG3JGLq8lnUJSBC.jpg",
+      "genres": [
+        "приключения",
+        "боевик",
+        "фантастика"
       ]
     },
     {
@@ -11564,6 +11664,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 7000671,
+      "ru": "Гарри Поттер и философский камень",
+      "en": "Harry Potter and the Philosopher's Stone",
+      "year": "2002",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.905,
+      "poster": "https://image.tmdb.org/t/p/w342/q3LZNzwW7ZWu4kSFIPGcB5CYFE4.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези"
       ]
     },
     {
