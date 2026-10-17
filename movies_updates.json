@@ -1,5 +1,5 @@
 {
-  "version": 127,
+  "version": 128,
   "movies": [
     {
       "id": 7421892,
@@ -1542,6 +1542,22 @@
       ]
     },
     {
+      "id": 8234139,
+      "ru": "ஜெயிலர் 2",
+      "en": "ஜெயிலர் 2",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "genres": [
+        "боевик",
+        "комедия"
+      ]
+    },
+    {
       "id": 8185344,
       "ru": "Зверь",
       "en": "The Beast",
@@ -1889,6 +1905,24 @@
       "genres": [
         "детектив",
         "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 8269325,
+      "ru": "Видимость: Заключение",
+      "en": "दृश्यम: आखिरी हिस्सा",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/6cnVYeGJtO4x0rHcTlM5ankxe1e.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "детектив",
         "криминал"
       ]
     },
@@ -6856,6 +6890,22 @@
       "genres": [
         "ужасы",
         "триллер"
+      ]
+    },
+    {
+      "id": 8375156,
+      "ru": "Шальная стрела",
+      "en": "उड़ता तीर",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "genres": [
+        "комедия",
+        "боевик"
       ]
     },
     {
