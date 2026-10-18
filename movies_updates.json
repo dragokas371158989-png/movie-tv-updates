@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "movies": [
     {
       "id": 7421892,
@@ -568,6 +568,21 @@
       ]
     },
     {
+      "id": 8300146,
+      "ru": "Замуж благодаря золотой заколке",
+      "en": "嫁金钗",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8298994,
       "ru": "Крестьянин 999 уровня",
       "en": "LV999の村人",
@@ -1064,6 +1079,21 @@
       "genres": [
         "ужасы",
         "комедия"
+      ]
+    },
+    {
+      "id": 8765072,
+      "ru": "Увидеть всё",
+      "en": "You Can See Everything",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "genres": [
+        "документальный"
       ]
     },
     {
@@ -1673,6 +1703,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8389172,
+      "ru": "रिपोर्टिंग लाइव",
+      "en": "रिपोर्टिंग लाइव",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+      "genres": [
+        "криминал",
+        "триллер"
       ]
     },
     {
