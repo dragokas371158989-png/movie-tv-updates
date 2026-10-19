@@ -1,5 +1,5 @@
 {
-  "version": 129,
+  "version": 130,
   "movies": [
     {
       "id": 7421892,
@@ -2542,6 +2542,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/ap7d2nqdkcls8Kjw7TNL5BTfXkJ.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8198654,
+      "ru": "Паршивые овцы",
+      "en": "Bad Apples",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/fUr2nWvcrDf7S1uZrEU6ai7Zgsl.jpg",
+      "genres": [
+        "комедия",
+        "триллер"
       ]
     },
     {
@@ -6115,6 +6131,24 @@
       ]
     },
     {
+      "id": 8654581,
+      "ru": "Новая невестка",
+      "en": "नय्यी नवेल्ली",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "комедия",
+        "драма"
+      ]
+    },
+    {
       "id": 8653771,
       "ru": "Старый орёл",
       "en": "Старый орёл",
@@ -9327,6 +9361,24 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8105248,
+      "ru": "Cyberpunk: Edgerunners",
+      "en": "Cyberpunk: Edgerunners",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/w15qxusZtam6ipBGEWBcwg9WQNN.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "криминал"
       ]
     },
     {
