@@ -1,5 +1,5 @@
 {
-  "version": 130,
+  "version": 131,
   "movies": [
     {
       "id": 7421892,
@@ -2364,6 +2364,22 @@
       ]
     },
     {
+      "id": 8503762,
+      "ru": "Разум и чувства",
+      "en": "Sense and Sensibility",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8285322,
       "ru": "Вглубь",
       "en": "Below",
@@ -2526,6 +2542,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/xmHzLoSEguCNj4b0nSiqu0npNHF.jpg",
       "genres": [
         "приключения",
+        "драма"
+      ]
+    },
+    {
+      "id": 8380417,
+      "ru": "Любой ценой",
+      "en": "By Any Means",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+      "genres": [
+        "история",
+        "криминал",
         "драма"
       ]
     },
@@ -5428,6 +5461,23 @@
       ]
     },
     {
+      "id": 8275139,
+      "ru": "Phony",
+      "en": "Phony",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8103473,
       "ru": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
       "en": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
@@ -5857,6 +5907,24 @@
       "poster": "https://image.tmdb.org/t/p/w342/o79kVEpMG6FSr5qyiBmVuc3IGWD.jpg",
       "genres": [
         "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8303745,
+      "ru": "나의 유죄인간",
+      "en": "나의 유죄인간",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 1.0,
+      "poster": "https://image.tmdb.org/t/p/w342/skZsbkeVQzZ2Pu2xtgulvP15Y7G.jpg",
+      "genres": [
+        "комедия",
+        "драма",
+        "криминал",
         "Боевик и Приключения"
       ]
     },
@@ -13034,6 +13102,19 @@
       "genres": [
         "Мыльная опера"
       ]
+    },
+    {
+      "id": 8015325,
+      "ru": "Dagsrevyen",
+      "en": "Dagsrevyen",
+      "year": "1958",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/5wGSp6VaXG406ZbgQoJizPKUE79.jpg",
+      "genres": []
     },
     {
       "id": 8094722,
