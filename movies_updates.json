@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 132,
   "movies": [
     {
       "id": 7421892,
@@ -5414,6 +5414,21 @@
       ]
     },
     {
+      "id": 8654086,
+      "ru": "The Influencer Project",
+      "en": "The Influencer Project",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8590613,
       "ru": "Синистер. Дом мёртвых",
       "en": "Cerita Lila",
@@ -7004,6 +7019,22 @@
       "genres": [
         "ужасы",
         "детектив",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8379486,
+      "ru": "Психопатка",
+      "en": "Victorian Psycho",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/dAich40U660rAgw7fin6gbZHoHC.jpg",
+      "genres": [
+        "ужасы",
         "триллер"
       ]
     },
@@ -9072,6 +9103,22 @@
       ]
     },
     {
+      "id": 8234310,
+      "ru": "Куда пропала Ванда",
+      "en": "Where's Wanda?",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/gRSgEqT8J1OxITaXNLfOfCLuZez.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8261471,
       "ru": "脱口秀和Ta的朋友们",
       "en": "脱口秀和Ta的朋友们",
@@ -9564,6 +9611,22 @@
         "Боевик и Приключения",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8120911,
+      "ru": "Список смертников",
+      "en": "The Terminal List",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/m3LfubuJbFjcZ9V1121mh8BqMbZ.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма"
       ]
     },
     {
@@ -11072,6 +11135,24 @@
       ]
     },
     {
+      "id": 8041956,
+      "ru": "Смерть в раю",
+      "en": "Death in Paradise",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.457,
+      "poster": "https://image.tmdb.org/t/p/w342/x8eeZ221jxFJ11TLC3kf57UavnN.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 7082023,
       "ru": "Отель Желание",
       "en": "Hotel Desire",
@@ -11469,6 +11550,23 @@
         "мультфильм",
         "комедия",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8000424,
+      "ru": "Торчвуд",
+      "en": "Torchwood",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/hvMpice45ef8mBr3em8jhqrchMW.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "Боевик и Приключения",
+        "драма"
       ]
     },
     {
@@ -12352,6 +12450,22 @@
         "мультфильм",
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8001480,
+      "ru": "Элли МакБил",
+      "en": "Ally McBeal",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/weS8htxS2j0EQ6jorK3WOR1dZpH.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
