@@ -1,5 +1,5 @@
 {
-  "version": 132,
+  "version": 133,
   "movies": [
     {
       "id": 7421892,
@@ -10195,6 +10195,22 @@
       ]
     },
     {
+      "id": 8083631,
+      "ru": "Чем мы заняты в тени",
+      "en": "What We Do in the Shadows",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.999,
+      "poster": "https://image.tmdb.org/t/p/w342/9TCCD3DEdDY07T3t61066nqBRU7.jpg",
+      "genres": [
+        "комедия",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8091555,
       "ru": "All Elite Wrestling: Dynamite",
       "en": "All Elite Wrestling: Dynamite",
@@ -11266,6 +11282,22 @@
       ]
     },
     {
+      "id": 8018053,
+      "ru": "Сестра Джеки",
+      "en": "Nurse Jackie",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.094,
+      "poster": "https://image.tmdb.org/t/p/w342/rC6B8A6U1I4RBAcs5G0yHS0WiUi.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 7018239,
       "ru": "Сумерки. Сага. Новолуние",
       "en": "The Twilight Saga: New Moon",
@@ -12139,6 +12171,22 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8002398,
+      "ru": "Girlfriends",
+      "en": "Girlfriends",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/buFnsyWEg4pPR7dco5Vbsm6HCIY.jpg",
+      "genres": [
+        "драма",
+        "комедия"
       ]
     },
     {
