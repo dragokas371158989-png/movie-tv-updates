@@ -1,5 +1,5 @@
 {
-  "version": 133,
+  "version": 134,
   "movies": [
     {
       "id": 7421892,
@@ -794,6 +794,23 @@
       "genres": [
         "мультфильм",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 7791523,
+      "ru": "Ведьмин лес",
+      "en": "Wildwood",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.9,
+      "poster": "https://image.tmdb.org/t/p/w342/67SHha1PONyP33eCkjnjQXxWIKP.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения",
+        "фэнтези"
       ]
     },
     {
@@ -2249,6 +2266,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/nhhfvJRIXC5a7d5eOZOhu1vrTWG.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8314360,
+      "ru": "Яга: Охота на ведьм",
+      "en": "YAGA",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/xftRX5fV7KSowOXP4xGd8M0UXoi.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -9836,6 +9869,23 @@
         "боевик",
         "приключения",
         "фантастика"
+      ]
+    },
+    {
+      "id": 8096677,
+      "ru": "Люпен",
+      "en": "Lupin",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/64Eu2KUZOFhhSmkdb3oUw124tYQ.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
