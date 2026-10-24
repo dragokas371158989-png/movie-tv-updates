@@ -1,5 +1,5 @@
 {
-  "version": 134,
+  "version": 135,
   "movies": [
     {
       "id": 7421892,
@@ -10540,6 +10540,22 @@
       ]
     },
     {
+      "id": 8070528,
+      "ru": "Чикагская пишущая машинка",
+      "en": "시카고 타자기",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/5qD8pAFPGuioviwaam20YNrjH8q.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма"
+      ]
+    },
+    {
       "id": 7315635,
       "ru": "Человек-паук: Возвращение домой",
       "en": "Spider-Man: Homecoming",
@@ -11185,6 +11201,23 @@
       ]
     },
     {
+      "id": 8001411,
+      "ru": "В поле зрения",
+      "en": "Person of Interest",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/v88HCZkrWu4HDHWzDmpKxZ5zwWU.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "криминал",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8045247,
       "ru": "Яркая Тихая",
       "en": "ちはやふる",
@@ -11278,6 +11311,23 @@
       "genres": [
         "комедия",
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8001426,
+      "ru": "Лютер",
+      "en": "Luther",
+      "year": "2010",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.854,
+      "poster": "https://image.tmdb.org/t/p/w342/1DogoydxuYEWUlQK1OdO69lO78t.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
