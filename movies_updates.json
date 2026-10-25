@@ -1,5 +1,5 @@
 {
-  "version": 135,
+  "version": 136,
   "movies": [
     {
       "id": 7421892,
@@ -1345,6 +1345,22 @@
       "genres": [
         "боевик",
         "криминал"
+      ]
+    },
+    {
+      "id": 8422041,
+      "ru": "Чёрный шар",
+      "en": "La bola negra",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.072,
+      "poster": "https://image.tmdb.org/t/p/w342/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "genres": [
+        "драма",
+        "военный"
       ]
     },
     {
@@ -7221,6 +7237,21 @@
       ]
     },
     {
+      "id": 8316702,
+      "ru": "파이널 테이블",
+      "en": "파이널 테이블",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/zNSBXSIOMZWFZ5dqtm7tFBKFMrk.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8316540,
       "ru": "嫁入高门",
       "en": "嫁入高门",
@@ -10738,6 +10769,22 @@
         "драма",
         "Боевик и Приключения",
         "Война и Политика"
+      ]
+    },
+    {
+      "id": 8062933,
+      "ru": "Я тебя помню",
+      "en": "너를 기억해",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.308,
+      "poster": "https://image.tmdb.org/t/p/w342/6LnvlfevdppZNYg0VptRb7N8fwe.jpg",
+      "genres": [
+        "детектив",
+        "драма"
       ]
     },
     {
