@@ -1,5 +1,5 @@
 {
-  "version": 136,
+  "version": 137,
   "movies": [
     {
       "id": 7421892,
@@ -692,6 +692,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/q2ulZwiuO9Gg0bVziimr8CXHdpk.jpg",
       "genres": [
         "семейный",
+        "драма"
+      ]
+    },
+    {
+      "id": 8286171,
+      "ru": "Тигры вдыхают аромат розы",
+      "en": "尚公主",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bgPVGcFIlY2vetjneDXQ1WQbJRD.jpg",
+      "genres": [
         "драма"
       ]
     },
@@ -5008,6 +5023,21 @@
         "приключения",
         "фэнтези",
         "боевик"
+      ]
+    },
+    {
+      "id": 8780005,
+      "ru": "Contra el huracán",
+      "en": "Contra el huracán",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
