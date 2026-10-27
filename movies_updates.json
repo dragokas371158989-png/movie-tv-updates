@@ -1,5 +1,5 @@
 {
-  "version": 137,
+  "version": 138,
   "movies": [
     {
       "id": 7421892,
@@ -7218,6 +7218,21 @@
       ]
     },
     {
+      "id": 8333533,
+      "ru": "The One About Matthew Perry",
+      "en": "The One About Matthew Perry",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "genres": [
+        "документальный"
+      ]
+    },
+    {
       "id": 8324115,
       "ru": "ทนายปีศาจ",
       "en": "ทนายปีศาจ",
@@ -8392,6 +8407,23 @@
         "фантастика",
         "боевик",
         "приключения"
+      ]
+    },
+    {
+      "id": 7999592,
+      "ru": "Рождение империи",
+      "en": "Рождение империи",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/1JbTVMAXpfcez5bFWJpgnwdIAde.jpg",
+      "genres": [
+        "драма",
+        "история",
+        "военный"
       ]
     },
     {
@@ -10598,6 +10630,22 @@
         "драма",
         "НФ и Фэнтези",
         "Война и Политика"
+      ]
+    },
+    {
+      "id": 8067744,
+      "ru": "Охотник за разумом",
+      "en": "MINDHUNTER",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.146,
+      "poster": "https://image.tmdb.org/t/p/w342/tEBOVb1ZGT5XapLn5YLXk3Msr8N.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
