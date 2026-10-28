@@ -1,5 +1,5 @@
 {
-  "version": 138,
+  "version": 139,
   "movies": [
     {
       "id": 7421892,
@@ -976,6 +976,22 @@
         "Боевик и Приключения",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8279136,
+      "ru": "Любовь между строк",
+      "en": "轧戏",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/h4JBW427uAKQayEdyCu2Ffp1sri.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -2543,6 +2559,25 @@
       ]
     },
     {
+      "id": 8657630,
+      "ru": "El despertar",
+      "en": "El despertar",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.211,
+      "poster": "https://image.tmdb.org/t/p/w342/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "genres": [
+        "ужасы",
+        "боевик",
+        "военный",
+        "фэнтези",
+        "триллер"
+      ]
+    },
+    {
       "id": 8630409,
       "ru": "คนเดือดทวงแค้น",
       "en": "คนเดือดทวงแค้น",
@@ -2933,6 +2968,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/tUHzcIOt5miEdgDyV6PJdFNTp3N.jpg",
       "genres": [
         "боевик",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8727734,
+      "ru": "Али Джи: Кто я?",
+      "en": "Ali G: Who Iz I?",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+      "genres": [
         "комедия"
       ]
     },
@@ -5638,6 +5688,23 @@
       ]
     },
     {
+      "id": 8497348,
+      "ru": "Астрал. Иной мир",
+      "en": "Alas Roban",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.7,
+      "poster": "https://image.tmdb.org/t/p/w342/dtJmnGZYuA2Ngnj3iv0T9EqCHBH.jpg",
+      "genres": [
+        "драма",
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
       "id": 8284725,
       "ru": "Вы нам не подходите",
       "en": "Not Suitable for Work",
@@ -6052,6 +6119,22 @@
       "genres": [
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8776413,
+      "ru": "Лиля",
+      "en": "Лиля",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/loNcp97cFO1INUcVlxLQAEPjOlV.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
@@ -6471,6 +6554,22 @@
       "genres": [
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8596275,
+      "ru": "Drive - The Pretenders",
+      "en": "Drive - The Pretenders",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/o1amTBOej7F2wdrTSKzGE6eG2CT.jpg",
+      "genres": [
+        "мелодрама",
+        "триллер"
       ]
     },
     {
@@ -7102,6 +7201,23 @@
       ]
     },
     {
+      "id": 8381273,
+      "ru": "Бумажный тигр",
+      "en": "Paper Tiger",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bImSlyY8idLkP4fadA111oMidbN.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 8379486,
       "ru": "Психопатка",
       "en": "Victorian Psycho",
@@ -7662,6 +7778,22 @@
       "genres": [
         "боевик",
         "триллер"
+      ]
+    },
+    {
+      "id": 8286656,
+      "ru": "Рокки — это я",
+      "en": "I Play Rocky",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/1ix2T9PtEYzuOMT10VrsFmYxBPS.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -9723,6 +9855,21 @@
       ]
     },
     {
+      "id": 8194766,
+      "ru": "То лето, когда я похорошела",
+      "en": "The Summer I Turned Pretty",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/z5o9a0Q2QXKp5qT9JXIuxpmT1KF.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8108978,
       "ru": "Ричер",
       "en": "Reacher",
@@ -10534,6 +10681,23 @@
       ]
     },
     {
+      "id": 8079593,
+      "ru": "Частный детектив Магнум",
+      "en": "Magnum P.I.",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8078648,
       "ru": "Потрясающая суббота - ДоРеМи Маркет",
       "en": "놀라운 토요일",
@@ -10649,6 +10813,23 @@
       ]
     },
     {
+      "id": 8068814,
+      "ru": "Силачка До Бон Сун",
+      "en": "힘쎈여자 도봉순",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zUeMFnFJKPqe8lNdUYl7oxrwSZ3.jpg",
+      "genres": [
+        "комедия",
+        "Боевик и Приключения",
+        "драма"
+      ]
+    },
+    {
       "id": 8070528,
       "ru": "Чикагская пишущая машинка",
       "en": "시카고 타자기",
@@ -10679,6 +10860,21 @@
         "боевик",
         "приключения",
         "фантастика"
+      ]
+    },
+    {
+      "id": 7370755,
+      "ru": "Патерсон",
+      "en": "Paterson",
+      "year": "2017",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.116,
+      "poster": "https://image.tmdb.org/t/p/w342/apFJb9w2NyTJTi7zAsZGiyBJUKG.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -10765,6 +10961,21 @@
       ]
     },
     {
+      "id": 8065494,
+      "ru": "Корона",
+      "en": "The Crown",
+      "year": "2016",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.181,
+      "poster": "https://image.tmdb.org/t/p/w342/1fgswE7VWpGQPD68DUFx6KPnWWa.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8063247,
       "ru": "Мир Дикого Запада",
       "en": "Westworld",
@@ -10797,6 +11008,24 @@
         "НФ и Фэнтези",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 7396535,
+      "ru": "Поезд в Пусан",
+      "en": "부산행",
+      "year": "2016",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.751,
+      "poster": "https://image.tmdb.org/t/p/w342/zrWFD3ZW4VkiX4FpEfjpl7M5mHL.jpg",
+      "genres": [
+        "боевик",
+        "ужасы",
+        "триллер",
+        "приключения"
       ]
     },
     {
@@ -11621,6 +11850,25 @@
       ]
     },
     {
+      "id": 8064414,
+      "ru": "Вакфу",
+      "en": "Wakfu",
+      "year": "2008",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.279,
+      "poster": "https://image.tmdb.org/t/p/w342/hXx5KsyUynyH6f6sxyqpOQgLBNb.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "драма",
+        "НФ и Фэнтези",
+        "комедия"
+      ]
+    },
+    {
       "id": 8016322,
       "ru": "X Factor",
       "en": "X Factor",
@@ -11971,6 +12219,24 @@
         "НФ и Фэнтези",
         "Детский",
         "семейный"
+      ]
+    },
+    {
+      "id": 8000036,
+      "ru": "Медиум",
+      "en": "Medium",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/6tOxspW2MbbAQ0s3jtfs8QATcx.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -12364,6 +12630,21 @@
         "комедия",
         "драма",
         "семейный"
+      ]
+    },
+    {
+      "id": 8002004,
+      "ru": "Малкольм в центре внимания",
+      "en": "Malcolm in the Middle",
+      "year": "2000",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/tuskpLz1wWwDKxdQR9Ih7o47dcV.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -12839,6 +13120,21 @@
       ]
     },
     {
+      "id": 8001668,
+      "ru": "Друзья",
+      "en": "Friends",
+      "year": "1994",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.408,
+      "poster": "https://image.tmdb.org/t/p/w342/zBOs8S3UOHyWLzOl9gF8lknBxlL.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8017892,
       "ru": "Unter uns",
       "en": "Unter uns",
@@ -13053,6 +13349,23 @@
         "семейный",
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8004386,
+      "ru": "Спасатели Малибу",
+      "en": "Baywatch",
+      "year": "1989",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.948,
+      "poster": "https://image.tmdb.org/t/p/w342/itV48463KHVvOGCUEtI2W0EBVVH.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "криминал"
       ]
     },
     {
