@@ -1,5 +1,5 @@
 {
-  "version": 139,
+  "version": 140,
   "movies": [
     {
       "id": 7421892,
@@ -6666,6 +6666,22 @@
       ]
     },
     {
+      "id": 8545966,
+      "ru": "Лес",
+      "en": "Лес",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/5DpI2zp02W9GdLlOrVwcdvWE0lH.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 8530393,
       "ru": "За любовь",
       "en": "За любовь",
@@ -7476,6 +7492,22 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8313699,
+      "ru": "Balaraw",
+      "en": "Balaraw",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+      "genres": [
+        "детектив",
+        "драма"
       ]
     },
     {
@@ -13068,6 +13100,22 @@
         "криминал",
         "детектив",
         "комедия"
+      ]
+    },
+    {
+      "id": 8003497,
+      "ru": "Moesha",
+      "en": "Moesha",
+      "year": "1996",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
       ]
     },
     {
