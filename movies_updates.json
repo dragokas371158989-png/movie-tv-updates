@@ -1,5 +1,5 @@
 {
-  "version": 140,
+  "version": 141,
   "movies": [
     {
       "id": 7421892,
@@ -160,6 +160,22 @@
       "genres": [
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8289517,
+      "ru": "Работа с призрачными перспективами",
+      "en": "꿀알바",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg",
+      "genres": [
+        "детектив",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -450,6 +466,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/etw1XngIUqHeTeIPloS9B8w9xPi.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8789549,
+      "ru": "Das Geschenk",
+      "en": "Das Geschenk",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -940,6 +971,23 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8507696,
+      "ru": "Apocalipsis Z: Nuevo mundo",
+      "en": "Apocalipsis Z: Nuevo mundo",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
+        "ужасы"
       ]
     },
     {
@@ -4451,6 +4499,23 @@
       ]
     },
     {
+      "id": 8292741,
+      "ru": "Ноктюрн",
+      "en": "Nocturne",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.143,
+      "poster": "https://image.tmdb.org/t/p/w342/ueZzyDf0sAAu6FLUAD0L4ux4c8y.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8368314,
       "ru": "Пассажир",
       "en": "Passenger",
@@ -6651,6 +6716,24 @@
       ]
     },
     {
+      "id": 8571955,
+      "ru": "Курс на столкновение",
+      "en": "Colisión",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/L2SDL6pi8jyvMRmh1vWbqfwHtf.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "боевик",
+        "криминал"
+      ]
+    },
+    {
       "id": 8549719,
       "ru": "Я приду",
       "en": "Я приду",
@@ -8754,6 +8837,23 @@
       ]
     },
     {
+      "id": 8259909,
+      "ru": "Декстер: Воскрешение",
+      "en": "Dexter: Resurrection",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/yFQFozGDLl7RFzupKuilh66OFuW.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8247718,
       "ru": "Гангстерленд",
       "en": "MobLand",
@@ -10109,6 +10209,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/4TpBhdaSl5ALHbgeaYOLF8Q3haz.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8126027,
+      "ru": "Призраки",
+      "en": "Ghosts",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.147,
+      "poster": "https://image.tmdb.org/t/p/w342/uR60glr02UkHIiIsLDZ6NNrxh3O.jpg",
+      "genres": [
+        "комедия",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -11861,6 +11977,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/3NA1FOlnjE909OyVT534B7fw5h5.jpg",
       "genres": [
         "драма",
+        "криминал"
+      ]
+    },
+    {
+      "id": 7000155,
+      "ru": "Тёмный рыцарь",
+      "en": "The Dark Knight",
+      "year": "2008",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.539,
+      "poster": "https://image.tmdb.org/t/p/w342/aPtN76OjnNKLqCJ2FJBnQOIL031.jpg",
+      "genres": [
+        "боевик",
+        "триллер",
         "криминал"
       ]
     },
