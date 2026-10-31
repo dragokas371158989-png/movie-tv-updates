@@ -1,5 +1,5 @@
 {
-  "version": 141,
+  "version": 142,
   "movies": [
     {
       "id": 7421892,
@@ -95,6 +95,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/9XJksKK7BWVUfr9vUIYd3AdA1Vl.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8307478,
+      "ru": "라이어",
+      "en": "라이어",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/up1YBgPq6lC0ut2JvjguNwLiXw4.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "детектив"
       ]
     },
     {
@@ -6685,6 +6702,21 @@
       ]
     },
     {
+      "id": 8588240,
+      "ru": "Новый дом",
+      "en": "Новый дом",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fWjZWs6nd7urk7zfQBj4xmCGKAC.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8582302,
       "ru": "Лунтик. Обратная сторона Луны",
       "en": "Лунтик. Обратная сторона Луны",
@@ -9971,6 +10003,21 @@
       ]
     },
     {
+      "id": 8231962,
+      "ru": "Diepe Waters",
+      "en": "Diepe Waters",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/uF5SpFjMmYTMF0sc5MbjnDsoBcG.jpg",
+      "genres": [
+        "Мыльная опера"
+      ]
+    },
+    {
       "id": 8136315,
       "ru": "Медведь",
       "en": "The Bear",
@@ -11305,6 +11352,22 @@
       ]
     },
     {
+      "id": 8060735,
+      "ru": "Флэш",
+      "en": "The Flash",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.741,
+      "poster": "https://image.tmdb.org/t/p/w342/q14oRmj0ITMBzqHUdiGwXUIvg7t.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8059941,
       "ru": "Ночное шоу с Джимми Фэллоном",
       "en": "The Tonight Show Starring Jimmy Fallon",
@@ -11833,6 +11896,23 @@
       ]
     },
     {
+      "id": 8031991,
+      "ru": "WWE NXT",
+      "en": "WWE NXT",
+      "year": "2010",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "Реалити-шоу"
+      ]
+    },
+    {
       "id": 7024021,
       "ru": "Сумерки. Сага. Затмение",
       "en": "The Twilight Saga: Eclipse",
@@ -11864,6 +11944,21 @@
       "genres": [
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8001421,
+      "ru": "Американская семейка",
+      "en": "Modern Family",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.91,
+      "poster": "https://image.tmdb.org/t/p/w342/tbTOeLXT56sywk7OS0qCaHzFNO6.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -12367,6 +12462,21 @@
       ]
     },
     {
+      "id": 8001100,
+      "ru": "Как я встретил вашу маму",
+      "en": "How I Met Your Mother",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.111,
+      "poster": "https://image.tmdb.org/t/p/w342/bcd5s6VHINRMEnnt4zXtd3m1GCO.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8065733,
       "ru": "Дораэмон",
       "en": "ドラえもん",
@@ -12556,6 +12666,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/xKhGbQg0pjgrsLE8octAdB31026.jpg",
       "genres": [
         "Новости"
+      ]
+    },
+    {
+      "id": 8001408,
+      "ru": "Доктор Хаус",
+      "en": "House",
+      "year": "2004",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.563,
+      "poster": "https://image.tmdb.org/t/p/w342/hXoGcvNOeWZkxbaitu7ZvEM0hQJ.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
