@@ -1,5 +1,5 @@
 {
-  "version": 142,
+  "version": 143,
   "movies": [
     {
       "id": 7421892,
@@ -7349,6 +7349,23 @@
       ]
     },
     {
+      "id": 8381071,
+      "ru": "Годзилла: Минус ноль",
+      "en": "ゴジラ-0.0",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg",
+      "genres": [
+        "фантастика",
+        "ужасы",
+        "боевик"
+      ]
+    },
+    {
       "id": 8379486,
       "ru": "Психопатка",
       "en": "Victorian Psycho",
@@ -8899,6 +8916,22 @@
       "genres": [
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8200875,
+      "ru": "Оно: Добро пожаловать в Дерри",
+      "en": "IT: Welcome to Derry",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.25,
+      "poster": "https://image.tmdb.org/t/p/w342/omSIgPmFZx557xYo1PvQVUebaGe.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -10957,6 +10990,24 @@
       ]
     },
     {
+      "id": 7354912,
+      "ru": "Тайна Коко",
+      "en": "Coco",
+      "year": "2017",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.204,
+      "poster": "https://image.tmdb.org/t/p/w342/jvYsGaUqN8ymH696kRfVJjJ3GIl.jpg",
+      "genres": [
+        "семейный",
+        "мультфильм",
+        "музыка",
+        "приключения"
+      ]
+    },
+    {
       "id": 8079481,
       "ru": "Расколотая битвой синева небес",
       "en": "斗破苍穹",
@@ -11352,6 +11403,40 @@
       ]
     },
     {
+      "id": 8046648,
+      "ru": "Настоящий детектив",
+      "en": "True Detective",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.295,
+      "poster": "https://image.tmdb.org/t/p/w342/1p60ehq2diow72QQC8pyppfexky.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
+      "id": 8048866,
+      "ru": "Сотня",
+      "en": "The 100",
+      "year": "2014",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.878,
+      "poster": "https://image.tmdb.org/t/p/w342/tEm3ALRXsoXT9IaCp1dcNFyjtBO.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "Боевик и Приключения",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8060735,
       "ru": "Флэш",
       "en": "The Flash",
@@ -11480,6 +11565,23 @@
         "комедия",
         "НФ и Фэнтези",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8044217,
+      "ru": "Викинги",
+      "en": "Vikings",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.105,
+      "poster": "https://image.tmdb.org/t/p/w342/1de3R902B5EEMmohBQsExd5V87Y.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "Война и Политика"
       ]
     },
     {
@@ -11647,6 +11749,23 @@
         "Боевик и Приключения",
         "НФ и Фэнтези",
         "комедия"
+      ]
+    },
+    {
+      "id": 8033880,
+      "ru": "Легенда о Корре",
+      "en": "The Legend of Korra",
+      "year": "2012",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.224,
+      "poster": "https://image.tmdb.org/t/p/w342/7d5AUrE6wbj03M2ZIsmqPoyCrcv.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -12794,6 +12913,24 @@
       ]
     },
     {
+      "id": 8001695,
+      "ru": "Дефективный детектив",
+      "en": "Monk",
+      "year": "2002",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.934,
+      "poster": "https://image.tmdb.org/t/p/w342/iQY0M2nvSgCrUXKAYG8eEwpEwAj.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "криминал",
+        "детектив"
+      ]
+    },
+    {
       "id": 7000671,
       "ru": "Гарри Поттер и философский камень",
       "en": "Harry Potter and the Philosopher's Stone",
@@ -13641,6 +13778,21 @@
       ]
     },
     {
+      "id": 8001400,
+      "ru": "Сайнфелд",
+      "en": "Seinfeld",
+      "year": "1989",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.25,
+      "poster": "https://image.tmdb.org/t/p/w342/xLO8d7auctnCgOGJSoyiiaWmDOa.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8000456,
       "ru": "Симпсоны",
       "en": "The Simpsons",
@@ -13891,6 +14043,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/g3Mqv7hHPcjjmlpJrNSvx1lkZHx.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8000873,
+      "ru": "Коломбо",
+      "en": "Columbo",
+      "year": "1971",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.058,
+      "poster": "https://image.tmdb.org/t/p/w342/u1J1ZuHLZdITJDKYJifXqNDzIhv.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
       ]
     },
     {
