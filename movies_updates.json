@@ -1,5 +1,5 @@
 {
-  "version": 143,
+  "version": 144,
   "movies": [
     {
       "id": 7421892,
@@ -4090,6 +4090,23 @@
       ]
     },
     {
+      "id": 8813355,
+      "ru": "Оно: Добро пожаловать в Дерри. История Дерри",
+      "en": "A Story of Derry",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.553,
+      "poster": "https://image.tmdb.org/t/p/w342/xkn3MF9mjgvPw5I525EqVTMGZsQ.jpg",
+      "genres": [
+        "драма",
+        "ужасы",
+        "детектив"
+      ]
+    },
+    {
       "id": 8409925,
       "ru": "Изгой",
       "en": "Molt lluny",
@@ -7754,6 +7771,23 @@
       ]
     },
     {
+      "id": 8300968,
+      "ru": "Голодные игры: Рассвет жатвы",
+      "en": "The Hunger Games: Sunrise on the Reaping",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/tD4kBIthK1NFxesGT5Pj42fM5u5.jpg",
+      "genres": [
+        "фантастика",
+        "боевик",
+        "приключения"
+      ]
+    },
+    {
       "id": 8300507,
       "ru": "Crew Girl",
       "en": "Crew Girl",
@@ -9173,6 +9207,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/vazL5zGQUUKBMahfiGV91bc1ynf.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 7755898,
+      "ru": "Война миров",
+      "en": "War of the Worlds",
+      "year": "2025",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 4.04,
+      "poster": "https://image.tmdb.org/t/p/w342/12dBX2CibQ0CXAJfIRBqOY6ac3h.jpg",
+      "genres": [
+        "фантастика",
+        "триллер"
       ]
     },
     {
