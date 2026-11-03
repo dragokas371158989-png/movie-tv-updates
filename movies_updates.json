@@ -1,5 +1,5 @@
 {
-  "version": 144,
+  "version": 145,
   "movies": [
     {
       "id": 7421892,
@@ -877,6 +877,23 @@
       ]
     },
     {
+      "id": 7891621,
+      "ru": "Дикая лошадь",
+      "en": "Wild Horse Nine",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.867,
+      "poster": "https://image.tmdb.org/t/p/w342/vuhv7VzbOQp0tsYxNxrTADpyn6J.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
       "id": 8220102,
       "ru": "Паук-Нуар",
       "en": "Spider-Noir",
@@ -1162,6 +1179,21 @@
       ]
     },
     {
+      "id": 8257147,
+      "ru": "Minha Melhor Amiga",
+      "en": "Minha Melhor Amiga",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8439930,
       "ru": "Каратель: Последнее убийство",
       "en": "The Punisher: One Last Kill",
@@ -1176,6 +1208,21 @@
         "боевик",
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8285625,
+      "ru": "小城良方",
+      "en": "小城良方",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.333,
+      "poster": "https://image.tmdb.org/t/p/w342/fONYOXlKcphO290BSGxSCjnMPZg.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -2099,6 +2146,25 @@
         "драма",
         "детектив",
         "криминал"
+      ]
+    },
+    {
+      "id": 8117898,
+      "ru": "Кот в шляпе",
+      "en": "The Cat in the Hat",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "фэнтези"
       ]
     },
     {
@@ -11325,6 +11391,25 @@
       ]
     },
     {
+      "id": 8061923,
+      "ru": "Звёздная принцесса и силы зла",
+      "en": "Star vs. the Forces of Evil",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.365,
+      "poster": "https://image.tmdb.org/t/p/w342/1nVVMkBNHuNBIM2cmx1wPGuoxkQ.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "мультфильм",
+        "комедия",
+        "НФ и Фэнтези",
+        "семейный"
+      ]
+    },
+    {
       "id": 8065334,
       "ru": "Леди Баг и Супер-кот",
       "en": "Miraculous, les aventures de Ladybug et Chat Noir",
@@ -11649,6 +11734,23 @@
         "криминал",
         "драма",
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8001424,
+      "ru": "Оранжевый — хит сезона",
+      "en": "Orange Is the New Black",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.64,
+      "poster": "https://image.tmdb.org/t/p/w342/13AaXX09cd8NCw0jcERuPn0jfLW.jpg",
+      "genres": [
+        "драма",
+        "комедия",
+        "криминал"
       ]
     },
     {
