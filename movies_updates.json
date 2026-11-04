@@ -1,5 +1,5 @@
 {
-  "version": 145,
+  "version": 146,
   "movies": [
     {
       "id": 7421892,
@@ -530,6 +530,24 @@
         "мультфильм",
         "фэнтези",
         "семейный"
+      ]
+    },
+    {
+      "id": 8418531,
+      "ru": "История огня",
+      "en": "燃比娃",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/345iQbrsk9GPUrk8toAuhxcacss.jpg",
+      "genres": [
+        "мультфильм",
+        "семейный",
+        "приключения",
+        "фэнтези"
       ]
     },
     {
@@ -1745,6 +1763,22 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8279246,
+      "ru": "Второй брак императрицы",
+      "en": "재혼 황후",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/9mVhSAIZERTDw7dWbbGuJegCDjl.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -4188,6 +4222,22 @@
       ]
     },
     {
+      "id": 8374462,
+      "ru": "Мама. Зло внутри",
+      "en": "Dia Bukan Ibu",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/52N5rBuHGGUR7MDfMoEb1PH9Ddo.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
+      ]
+    },
+    {
       "id": 8361774,
       "ru": "Динк",
       "en": "The Dink",
@@ -5320,6 +5370,23 @@
       ]
     },
     {
+      "id": 7656908,
+      "ru": "रामायणम्",
+      "en": "रामायणम्",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/3fAIVJMxdBCGTfaYjOSbjcm7o0G.jpg",
+      "genres": [
+        "фэнтези",
+        "боевик",
+        "приключения"
+      ]
+    },
+    {
       "id": 8273221,
       "ru": "Очень страшное кино",
       "en": "Scary Movie",
@@ -5478,6 +5545,24 @@
         "ужасы",
         "триллер",
         "комедия"
+      ]
+    },
+    {
+      "id": 8218069,
+      "ru": "Дворняшка",
+      "en": "Yugly",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/eU7L6bHzCblawEUplQxJUGzzLO2.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "комедия",
+        "семейный"
       ]
     },
     {
@@ -6013,6 +6098,22 @@
       ]
     },
     {
+      "id": 8336240,
+      "ru": "Пара секретов",
+      "en": "Bytet",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.313,
+      "poster": "https://image.tmdb.org/t/p/w342/vAvP6gftUN4IATr3CYkonH7jqSY.jpg",
+      "genres": [
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8656220,
       "ru": "23.000 Leben",
       "en": "23.000 Leben",
@@ -6507,6 +6608,22 @@
       ]
     },
     {
+      "id": 8700884,
+      "ru": "Александр I",
+      "en": "Александр I",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/f7QZR7li6m7W55fDzIb0ZPu4PYA.jpg",
+      "genres": [
+        "драма",
+        "история"
+      ]
+    },
+    {
       "id": 8664119,
       "ru": "Малыш-каратист",
       "en": "Малыш-каратист",
@@ -6815,6 +6932,22 @@
       ]
     },
     {
+      "id": 8580804,
+      "ru": "Дедмобиль",
+      "en": "Дедмобиль",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/gqiWDmlCjRgjZfxdpNkIWA2VWRv.jpg",
+      "genres": [
+        "комедия",
+        "семейный"
+      ]
+    },
+    {
       "id": 8580190,
       "ru": "除暴之路",
       "en": "除暴之路",
@@ -6930,6 +7063,24 @@
       ]
     },
     {
+      "id": 8526917,
+      "ru": "Созданный в Бездне: Тайна пробуждения",
+      "en": "メイドインアビス 目覚める神秘",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7HfBlYDlMVaHnvd7NEpZLd8r7FO.jpg",
+      "genres": [
+        "мультфильм",
+        "фантастика",
+        "фэнтези",
+        "приключения"
+      ]
+    },
+    {
       "id": 8523426,
       "ru": "Соавторы",
       "en": "Соавторы",
@@ -6943,6 +7094,22 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 8517409,
+      "ru": "Адский Голливуд",
+      "en": "Hollywood Hells",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/ogouh8BbKHOuUDdWpKpuEbLjsWg.jpg",
+      "genres": [
+        "триллер",
+        "ужасы"
       ]
     },
     {
@@ -8345,6 +8512,23 @@
       "genres": [
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8269278,
+      "ru": "Колотун и волшебное королевство",
+      "en": "Колотун и волшебное королевство",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/p30NzHHkWDrtG1g7JEEEd2hltBT.jpg",
+      "genres": [
+        "фэнтези",
+        "семейный",
+        "приключения"
       ]
     },
     {
@@ -11009,6 +11193,23 @@
       ]
     },
     {
+      "id": 8078191,
+      "ru": "Ты",
+      "en": "You",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.994,
+      "poster": "https://image.tmdb.org/t/p/w342/9XJACue1ENlSfTRR43HDuYqn1pQ.jpg",
+      "genres": [
+        "детектив",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8079166,
       "ru": "Необъятный океан",
       "en": "ぐらんぶる",
@@ -11407,6 +11608,23 @@
         "комедия",
         "НФ и Фэнтези",
         "семейный"
+      ]
+    },
+    {
+      "id": 8063333,
+      "ru": "Последнее королевство",
+      "en": "The Last Kingdom",
+      "year": "2015",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.255,
+      "poster": "https://image.tmdb.org/t/p/w342/eXRWYkffOq0be8hNlQTNeB0yLPX.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "Война и Политика"
       ]
     },
     {
