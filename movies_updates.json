@@ -1,5 +1,5 @@
 {
-  "version": 146,
+  "version": 147,
   "movies": [
     {
       "id": 7421892,
@@ -1161,6 +1161,22 @@
       "genres": [
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8570488,
+      "ru": "Идеальное Рождество для собаки",
+      "en": "A Dog's Perfect Christmas",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a80Mg04hjQh4l0MRvv7RB0qc17S.jpg",
+      "genres": [
+        "комедия",
+        "драма"
       ]
     },
     {
@@ -2606,6 +2622,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/xgZclC1K9Mm8HeK226EnJMz2uwt.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8792170,
+      "ru": "Образцовый гражданин",
+      "en": "Model Citizen",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.333,
+      "poster": "https://image.tmdb.org/t/p/w342/909iKtZQg7PWjBxNuFkTCd1LrGW.jpg",
+      "genres": [
+        "криминал",
+        "фантастика",
+        "триллер"
       ]
     },
     {
@@ -5890,6 +5923,21 @@
       ]
     },
     {
+      "id": 8258989,
+      "ru": "Великий",
+      "en": "The Greatest",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.9,
+      "poster": "https://image.tmdb.org/t/p/w342/7DviSnWMyVoGjph7leXF1xpX6wX.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8473878,
       "ru": "Демон скорости",
       "en": "Speed Demon",
@@ -6608,6 +6656,22 @@
       ]
     },
     {
+      "id": 8701947,
+      "ru": "Лучшее лето в жизни",
+      "en": "Лучшее лето в жизни",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/xZJLLY8DkBUdYQyKpeg8L86yS8s.jpg",
+      "genres": [
+        "комедия",
+        "детектив"
+      ]
+    },
+    {
       "id": 8700884,
       "ru": "Александр I",
       "en": "Александр I",
@@ -6655,6 +6719,22 @@
         "мультфильм",
         "приключения",
         "семейный"
+      ]
+    },
+    {
+      "id": 8654940,
+      "ru": "余命一年、男をかう",
+      "en": "余命一年、男をかう",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
@@ -9397,6 +9477,21 @@
       ]
     },
     {
+      "id": 8249023,
+      "ru": "Севернее севера",
+      "en": "North of North",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/yy6QrRfiZ4ewi3X9cZmREe82N4M.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8273247,
       "ru": "Подноготная",
       "en": "The Lowdown",
@@ -9456,6 +9551,22 @@
       "rating": 5.9,
       "poster": "https://image.tmdb.org/t/p/w342/vazL5zGQUUKBMahfiGV91bc1ynf.jpg",
       "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 8258742,
+      "ru": "Всё честно",
+      "en": "All's Fair",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.9,
+      "poster": "https://image.tmdb.org/t/p/w342/wHrZEnUcD8eoZlr2vrQZM72E4Ma.jpg",
+      "genres": [
+        "драма",
         "комедия"
       ]
     },
@@ -10448,6 +10559,21 @@
       ]
     },
     {
+      "id": 8081723,
+      "ru": "Позолоченный век",
+      "en": "The Gilded Age",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/3NGS3kSkyB1btiCLegUaG8c0OaR.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8199318,
       "ru": "Заговор сестер Гарви",
       "en": "Bad Sisters",
@@ -10461,6 +10587,22 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8084773,
+      "ru": "Властелин колец: Кольца Власти",
+      "en": "The Lord of the Rings: The Rings of Power",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.211,
+      "poster": "https://image.tmdb.org/t/p/w342/pp5yf6xRMtySYgtVf5YTDYh7fof.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
