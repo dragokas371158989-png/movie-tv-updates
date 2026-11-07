@@ -1,5 +1,5 @@
 {
-  "version": 148,
+  "version": 149,
   "movies": [
     {
       "id": 7421892,
@@ -1572,6 +1572,23 @@
       ]
     },
     {
+      "id": 8658136,
+      "ru": "Зверодвиж",
+      "en": "猪猪侠大电影之竞速小英雄",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
+      "genres": [
+        "комедия",
+        "боевик",
+        "мультфильм"
+      ]
+    },
+    {
       "id": 8516698,
       "ru": "Последний рассвет",
       "en": "The Last Sunrise",
@@ -2495,6 +2512,21 @@
       "genres": [
         "драма",
         "мелодрама"
+      ]
+    },
+    {
+      "id": 8483525,
+      "ru": "Что, если любовь",
+      "en": "가능한 사랑",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/7UAzxqezg5yvZyK3k62wOAzg0Zs.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -11830,6 +11862,24 @@
       ]
     },
     {
+      "id": 8067175,
+      "ru": "Елена - принцесса Авалора",
+      "en": "Elena of Avalor",
+      "year": "2016",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+      "genres": [
+        "мультфильм",
+        "Детский",
+        "НФ и Фэнтези",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8061923,
       "ru": "Звёздная принцесса и силы зла",
       "en": "Star vs. the Forces of Evil",
@@ -12937,6 +12987,24 @@
       ]
     },
     {
+      "id": 8001877,
+      "ru": "Финес и Ферб",
+      "en": "Phineas and Ferb",
+      "year": "2007",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/4lhRkyi8iczcebgK3fJJrtPqPIQ.jpg",
+      "genres": [
+        "мультфильм",
+        "комедия",
+        "семейный",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8003172,
       "ru": "Частная практика",
       "en": "Private Practice",
@@ -13042,6 +13110,21 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8002490,
+      "ru": "Компьютерщики",
+      "en": "The IT Crowd",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.168,
+      "poster": "https://image.tmdb.org/t/p/w342/r06TUWcoMgog6BoS9VhzOcfEtIo.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -14529,6 +14612,22 @@
       "genres": [
         "Реалити-шоу",
         "семейный"
+      ]
+    },
+    {
+      "id": 7011308,
+      "ru": "Отель «Нью-Хэмпшир»",
+      "en": "The Hotel New Hampshire",
+      "year": "1984",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/9XGGGniMtBqhox7JAV5JujlUqFz.jpg",
+      "genres": [
+        "комедия",
+        "драма"
       ]
     },
     {
