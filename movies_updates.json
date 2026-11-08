@@ -1,5 +1,5 @@
 {
-  "version": 149,
+  "version": 150,
   "movies": [
     {
       "id": 7421892,
@@ -1074,6 +1074,23 @@
         "фэнтези",
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8330613,
+      "ru": "กฎหลังเที่ยงคืน",
+      "en": "กฎหลังเที่ยงคืน",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/kCg4qUkikRPhjutwb3Y4TuGZDrJ.jpg",
+      "genres": [
+        "драма",
+        "детектив",
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -9524,6 +9541,22 @@
       ]
     },
     {
+      "id": 8253372,
+      "ru": "Институт",
+      "en": "The Institute",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jK0FZcOdDXhNK9wqJBODkZd5Ipv.jpg",
+      "genres": [
+        "детектив",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8248830,
       "ru": "Король гольфа",
       "en": "Stick",
@@ -9553,6 +9586,22 @@
       "genres": [
         "драма",
         "вестерн"
+      ]
+    },
+    {
+      "id": 8253376,
+      "ru": "Девушка моего сына",
+      "en": "The Girlfriend",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.176,
+      "poster": "https://image.tmdb.org/t/p/w342/vHvXAk9gI1BysGv9yL5LUvMb08q.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -13321,6 +13370,23 @@
         "НФ и Фэнтези",
         "Детский",
         "семейный"
+      ]
+    },
+    {
+      "id": 8057243,
+      "ru": "Доктор Кто",
+      "en": "Doctor Who",
+      "year": "2005",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.632,
+      "poster": "https://image.tmdb.org/t/p/w342/4yAIKCTUumob1Xx38yuW1U9IbJe.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "драма",
+        "НФ и Фэнтези"
       ]
     },
     {
