@@ -1,5 +1,5 @@
 {
-  "version": 150,
+  "version": 151,
   "movies": [
     {
       "id": 7421892,
@@ -802,6 +802,21 @@
       "studio": "",
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/m0bMTgWSDNwaZiz9TKTNqkCCDUX.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8279155,
+      "ru": "谷雨",
+      "en": "谷雨",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kcVAU4qFRLD5gYNTZNvbZcZ1Jui.jpg",
       "genres": [
         "драма"
       ]
@@ -4394,6 +4409,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/r0VO4SFyAPhZ9TKWnXunm4zG4tU.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8341138,
+      "ru": "Девичник в спа",
+      "en": "Spa Weekend",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/pGyuM0qntTdW5g9bRwqH4h7gkms.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
