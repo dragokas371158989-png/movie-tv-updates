@@ -1,5 +1,5 @@
 {
-  "version": 151,
+  "version": 152,
   "movies": [
     {
       "id": 7421892,
@@ -351,6 +351,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/5C7z9KKylOsI4ncxecLVSxcTDYI.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8307853,
+      "ru": "今天是太阳雨",
+      "en": "今天是太阳雨",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.5,
+      "poster": "https://image.tmdb.org/t/p/w342/reDzSqynyCv734aXv9NflnpflMo.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -1021,6 +1036,22 @@
       "genres": [
         "мультфильм",
         "драма"
+      ]
+    },
+    {
+      "id": 8567605,
+      "ru": "Скрудж",
+      "en": "Ebenezer",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/9puQx5pcot0cxpmqMJAAi5zpaAY.jpg",
+      "genres": [
+        "фэнтези",
+        "комедия"
       ]
     },
     {
@@ -4693,6 +4724,23 @@
         "приключения",
         "семейный",
         "фэнтези"
+      ]
+    },
+    {
+      "id": 8244523,
+      "ru": "Монстр Амазонки",
+      "en": "Beware Boiúna",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.255,
+      "poster": "https://image.tmdb.org/t/p/w342/6GhML83NKBtsHiH3uc5t0fjaDQE.jpg",
+      "genres": [
+        "ужасы",
+        "триллер",
+        "боевик"
       ]
     },
     {
@@ -12322,6 +12370,23 @@
       ]
     },
     {
+      "id": 8001427,
+      "ru": "Убийство на пляже",
+      "en": "Broadchurch",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/2NhBFUTg5KVBmGwafxtLwVdsqrr.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8001424,
       "ru": "Оранжевый — хит сезона",
       "en": "Orange Is the New Black",
@@ -13699,6 +13764,22 @@
       "genres": [
         "комедия",
         "Ток-шоу"
+      ]
+    },
+    {
+      "id": 8001489,
+      "ru": "Джимми Киммел в прямом эфире ",
+      "en": "Jimmy Kimmel Live!",
+      "year": "2003",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+      "genres": [
+        "Ток-шоу",
+        "комедия"
       ]
     },
     {
