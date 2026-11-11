@@ -1,5 +1,5 @@
 {
-  "version": 152,
+  "version": 153,
   "movies": [
     {
       "id": 7421892,
@@ -478,6 +478,21 @@
       "studio": "",
       "rating": 9.2,
       "poster": "https://image.tmdb.org/t/p/w342/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8270431,
+      "ru": "折月亮",
+      "en": "折月亮",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 9.2,
+      "poster": "https://image.tmdb.org/t/p/w342/3RrrTbz5zYmv8nZEj4PDXX47axi.jpg",
       "genres": [
         "драма"
       ]
@@ -4592,6 +4607,23 @@
       ]
     },
     {
+      "id": 8031962,
+      "ru": "Никто не должен знать",
+      "en": "What We Hide",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/zRpg88XmgjqX4Gg4q7nCC3MucPW.jpg",
+      "genres": [
+        "драма",
+        "триллер",
+        "детектив"
+      ]
+    },
+    {
       "id": 7824003,
       "ru": "Фантом. Кто ты?",
       "en": "Diabolik - Chi sei?",
@@ -5805,6 +5837,22 @@
         "драма",
         "криминал",
         "детектив"
+      ]
+    },
+    {
+      "id": 8401052,
+      "ru": "Женщина в черном. Восставшая",
+      "en": "Tenung",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/zOKTUp2ZjzUBIZAayhOnx9QicQr.jpg",
+      "genres": [
+        "ужасы",
+        "драма"
       ]
     },
     {
@@ -7236,6 +7284,22 @@
       ]
     },
     {
+      "id": 8569200,
+      "ru": "Вершина",
+      "en": "Вершина",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/sHKsjA7nHNVRUbu05gggWpdys3N.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 8549719,
       "ru": "Я приду",
       "en": "Я приду",
@@ -8385,6 +8449,22 @@
       ]
     },
     {
+      "id": 8291507,
+      "ru": "Тело",
+      "en": "The Body",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/qPWgaH7hw1y2bh7NpmZi4v5GvxZ.jpg",
+      "genres": [
+        "драма",
+        "НФ и Фэнтези"
+      ]
+    },
+    {
       "id": 8291392,
       "ru": "野狗骨头",
       "en": "野狗骨头",
@@ -9190,6 +9270,22 @@
         "фантастика",
         "детектив",
         "триллер"
+      ]
+    },
+    {
+      "id": 8096831,
+      "ru": "Мазерати",
+      "en": "Maserati: The Brothers",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/qjYCJJj3DIn2WlZb9AzRE0hUE1H.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -12784,6 +12880,23 @@
       ]
     },
     {
+      "id": 7049852,
+      "ru": "Щелкунчик и Крысиный король",
+      "en": "The Nutcracker",
+      "year": "2011",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/n3j5Y26QuJNnDPU8jncWr2OLSnA.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "семейный"
+      ]
+    },
+    {
       "id": 8019885,
       "ru": "Шерлок",
       "en": "Sherlock",
@@ -13878,6 +13991,23 @@
       "genres": [
         "Ток-шоу",
         "документальный"
+      ]
+    },
+    {
+      "id": 7000634,
+      "ru": "Дневник Бриджит Джонс",
+      "en": "Bridget Jones's Diary",
+      "year": "2001",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.732,
+      "poster": "https://image.tmdb.org/t/p/w342/132tQ6hzei84HwrW3rZuIKi9JkO.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама",
+        "драма"
       ]
     },
     {
@@ -15023,6 +15153,21 @@
       "studio": "",
       "rating": 4.32,
       "poster": "https://image.tmdb.org/t/p/w342/5NG3iF6mli8QMJYNsbzWxzW04t4.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
+      "id": 8003002,
+      "ru": "Шоу Бенни Хилла",
+      "en": "The Benny Hill Show",
+      "year": "1969",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.22,
+      "poster": "https://image.tmdb.org/t/p/w342/y3mGj6YAy7CRWMq06gjsXf3rIJ1.jpg",
       "genres": [
         "комедия"
       ]
