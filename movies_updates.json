@@ -1,5 +1,5 @@
 {
-  "version": 153,
+  "version": 154,
   "movies": [
     {
       "id": 7421892,
@@ -288,6 +288,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/aPgmrBBWIp1HTazq0Q3ej7TmBTy.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8249565,
+      "ru": "Хорошая дочь",
+      "en": "The Good Daughter",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
@@ -10920,6 +10936,21 @@
       "studio": "",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/3NGS3kSkyB1btiCLegUaG8c0OaR.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8131488,
+      "ru": "Императрица",
+      "en": "Die Kaiserin",
+      "year": "2022",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/sixRdWKWlLwIMqkHejsIvvqgI66.jpg",
       "genres": [
         "драма"
       ]
