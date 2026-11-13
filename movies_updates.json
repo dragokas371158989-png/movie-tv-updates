@@ -1,5 +1,5 @@
 {
-  "version": 154,
+  "version": 155,
   "movies": [
     {
       "id": 7421892,
@@ -1366,6 +1366,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/fONYOXlKcphO290BSGxSCjnMPZg.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8050981,
+      "ru": "Быть человеком: История Джуди Хьюман",
+      "en": "Being Heumann",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.333,
+      "poster": "https://image.tmdb.org/t/p/w342/qvxIrRZUsPBTtnwHZg08JpPTJ3N.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -3752,6 +3768,23 @@
       ]
     },
     {
+      "id": 8616687,
+      "ru": "Serangan Balik",
+      "en": "Serangan Balik",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/9wypfSz5OyWnew6mt5hviGw6WhM.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
+      ]
+    },
+    {
       "id": 8496491,
       "ru": "Безумный день в Комеди Франсез",
       "en": "De la Comédie-Française",
@@ -5970,6 +6003,23 @@
       ]
     },
     {
+      "id": 8254630,
+      "ru": "12 12 12",
+      "en": "12 12 12",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 5.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8751701,
       "ru": "After Impact",
       "en": "After Impact",
@@ -6923,6 +6973,22 @@
       "genres": [
         "драма",
         "история"
+      ]
+    },
+    {
+      "id": 8678247,
+      "ru": "Очень сказочные дела",
+      "en": "Очень сказочные дела",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/mHkITMH8tNStFe5cUmgy5OzJ6e5.jpg",
+      "genres": [
+        "комедия",
+        "фэнтези"
       ]
     },
     {
