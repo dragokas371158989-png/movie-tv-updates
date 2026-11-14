@@ -1,5 +1,5 @@
 {
-  "version": 155,
+  "version": 156,
   "movies": [
     {
       "id": 7421892,
@@ -984,6 +984,22 @@
       "genres": [
         "комедия",
         "криминал",
+        "триллер"
+      ]
+    },
+    {
+      "id": 8562642,
+      "ru": "Ghost Soldier",
+      "en": "Ghost Soldier",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.727,
+      "poster": "https://image.tmdb.org/t/p/w342/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "genres": [
+        "боевик",
         "триллер"
       ]
     },
@@ -4098,6 +4114,23 @@
       ]
     },
     {
+      "id": 8543469,
+      "ru": "Хартленд",
+      "en": "Heartland",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.75,
+      "poster": "https://image.tmdb.org/t/p/w342/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "genres": [
+        "триллер",
+        "детектив",
+        "музыка"
+      ]
+    },
+    {
       "id": 8375646,
       "ru": "Колония",
       "en": "군체",
@@ -4458,6 +4491,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/qpeQ4WdcFfNhlnXNu7tv7rygqys.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8437511,
+      "ru": "Как ограбить банк",
+      "en": "How to Rob a Bank",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/bROcFOiRQBKZ6JeVmg2q4nMTxkW.jpg",
+      "genres": [
+        "боевик",
+        "криминал",
+        "триллер"
       ]
     },
     {
@@ -5275,6 +5325,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/jC3FRx1hKsi1ivrZvET9AQ5oC7Y.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8210268,
+      "ru": "Исчезновение",
+      "en": "El deshielo",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/f36sgbAIuGYRdQcmDeClo4OgWcy.jpg",
+      "genres": [
+        "детектив",
+        "драма",
+        "триллер"
       ]
     },
     {
@@ -14856,6 +14923,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/6IfLWdBXDuktBo8oVjiWxodSHCV.jpg",
       "genres": [
         "криминал",
+        "драма"
+      ]
+    },
+    {
+      "id": 8002025,
+      "ru": "Беверли-Хиллз 90210",
+      "en": "Beverly Hills, 90210",
+      "year": "1990",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.26,
+      "poster": "https://image.tmdb.org/t/p/w342/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+      "genres": [
         "драма"
       ]
     },
