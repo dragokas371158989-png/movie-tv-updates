@@ -1,5 +1,5 @@
 {
-  "version": 156,
+  "version": 157,
   "movies": [
     {
       "id": 7421892,
@@ -273,6 +273,21 @@
       "genres": [
         "драма",
         "криминал"
+      ]
+    },
+    {
+      "id": 8261315,
+      "ru": "十万狂花入梦来",
+      "en": "十万狂花入梦来",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/A5LbZohCVL7O4x5H6Q2Xbw4w3mv.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -11567,6 +11582,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/cIHvYSONXUF17lUlschDDiw1Trz.jpg",
       "genres": [
         "комедия",
+        "драма"
+      ]
+    },
+    {
+      "id": 8085077,
+      "ru": "Избранные",
+      "en": "The Chosen",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.8,
+      "poster": "https://image.tmdb.org/t/p/w342/loocNikWYS4KSZNrTFQWSKADpSd.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "семейный",
         "драма"
       ]
     },
