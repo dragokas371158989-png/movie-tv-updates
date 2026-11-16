@@ -1,5 +1,5 @@
 {
-  "version": 157,
+  "version": 158,
   "movies": [
     {
       "id": 7421892,
@@ -2778,6 +2778,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8335981,
+      "ru": "Канк о кино",
+      "en": "Cunk on Cinema",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.444,
+      "poster": "https://image.tmdb.org/t/p/w342/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "genres": [
+        "комедия",
+        "документальный"
       ]
     },
     {
@@ -9238,6 +9254,21 @@
       ]
     },
     {
+      "id": 8205851,
+      "ru": "Кибер-девушки",
+      "en": "電競女孩",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/lZYyu1mmUlL9DEwuuckqCrUlG78.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8204680,
       "ru": "Хитрый койот",
       "en": "Coyote vs. Acme",
@@ -14608,6 +14639,23 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8060572,
+      "ru": "Покемон",
+      "en": "ポケットモンスター",
+      "year": "1997",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.989,
+      "poster": "https://image.tmdb.org/t/p/w342/9DItnIg8U7UC8RqfUHBbF1G91dq.jpg",
+      "genres": [
+        "мультфильм",
+        "Боевик и Приключения",
+        "НФ и Фэнтези"
       ]
     },
     {
