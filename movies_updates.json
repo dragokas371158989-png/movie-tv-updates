@@ -1,5 +1,5 @@
 {
-  "version": 158,
+  "version": 159,
   "movies": [
     {
       "id": 7421892,
@@ -1216,6 +1216,22 @@
         "Боевик и Приключения",
         "криминал",
         "драма"
+      ]
+    },
+    {
+      "id": 8294498,
+      "ru": "多喜一家人",
+      "en": "多喜一家人",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/oEHYm8uzdqbfD5aIe1YBJLq2ko3.jpg",
+      "genres": [
+        "драма",
+        "семейный"
       ]
     },
     {
@@ -4107,6 +4123,23 @@
         "семейный",
         "приключения",
         "детектив",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8518204,
+      "ru": "Аллен",
+      "en": "Allen",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.798,
+      "poster": "https://image.tmdb.org/t/p/w342/nVT6OmnB2P1muxeHk6DQRm9JA0q.jpg",
+      "genres": [
+        "фантастика",
+        "приключения",
         "комедия"
       ]
     },
@@ -13174,6 +13207,22 @@
       ]
     },
     {
+      "id": 8032573,
+      "ru": "Ответный удар",
+      "en": "Strike Back",
+      "year": "2010",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.421,
+      "poster": "https://image.tmdb.org/t/p/w342/b0vc9n0qUV4wnk9Mx5NfDgh69D3.jpg",
+      "genres": [
+        "драма",
+        "Боевик и Приключения"
+      ]
+    },
+    {
       "id": 8031991,
       "ru": "WWE NXT",
       "en": "WWE NXT",
@@ -13626,6 +13675,23 @@
         "мультфильм",
         "комедия",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8004620,
+      "ru": "Эврика",
+      "en": "Eureka",
+      "year": "2006",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.738,
+      "poster": "https://image.tmdb.org/t/p/w342/3Kw690B6EqftxmsQ5D6hLb2UdHZ.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "комедия",
+        "драма"
       ]
     },
     {
