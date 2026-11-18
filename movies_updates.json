@@ -1,5 +1,5 @@
 {
-  "version": 159,
+  "version": 160,
   "movies": [
     {
       "id": 7421892,
@@ -1301,6 +1301,22 @@
         "детектив",
         "комедия",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8131943,
+      "ru": "Мэдден",
+      "en": "Madden",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/zeZmdpuhXZCzE0pzzK98Dzu1r43.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -6275,6 +6291,22 @@
       ]
     },
     {
+      "id": 8461432,
+      "ru": "Взрослые под присмотром",
+      "en": "Arkipelag",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rBR8DmaMqRcxv6Ewgg6rwczV8EY.jpg",
+      "genres": [
+        "драма",
+        "триллер"
+      ]
+    },
+    {
       "id": 8392469,
       "ru": "कॉकटेल २",
       "en": "कॉकटेल २",
@@ -7273,6 +7305,21 @@
       ]
     },
     {
+      "id": 8644597,
+      "ru": "Ёлки 13",
+      "en": "Ёлки 13",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/7yjOEdjZhLqAoQGk84JDg2W8poo.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 8640261,
       "ru": "Сказка о потерянном времени",
       "en": "Сказка о потерянном времени",
@@ -7541,6 +7588,22 @@
       "genres": [
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8532610,
+      "ru": "Чернила",
+      "en": "Ink",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/bhSFNaOX2OcVrl5Gw9jEisddOyY.jpg",
+      "genres": [
+        "драма",
+        "история"
       ]
     },
     {
@@ -8759,6 +8822,24 @@
       ]
     },
     {
+      "id": 8287520,
+      "ru": "Ноябрь 63",
+      "en": "November 1963",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/9Tr0CDyE7DiV70yL8Hhp2SNUZma.jpg",
+      "genres": [
+        "история",
+        "криминал",
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 8286656,
       "ru": "Рокки — это я",
       "en": "I Play Rocky",
@@ -9144,6 +9225,23 @@
       ]
     },
     {
+      "id": 8255832,
+      "ru": "Супермен на всю голову",
+      "en": "Forelock",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/fPIekd602UP7WTmRMInb4NzqsPK.jpg",
+      "genres": [
+        "комедия",
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8254812,
       "ru": "Непокой",
       "en": "Непокой",
@@ -9253,6 +9351,24 @@
         "ужасы",
         "фэнтези",
         "детектив"
+      ]
+    },
+    {
+      "id": 8218374,
+      "ru": "Сказочные выходные",
+      "en": "Сказочные выходные",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/qrfglNXYuD1wVYJMWJ0yOkk3BQJ.jpg",
+      "genres": [
+        "семейный",
+        "комедия",
+        "фэнтези",
+        "приключения"
       ]
     },
     {
@@ -10744,6 +10860,23 @@
       "genres": [
         "мультфильм",
         "комедия"
+      ]
+    },
+    {
+      "id": 8231100,
+      "ru": "Безграничная любовь",
+      "en": "Hudutsuz Sevda",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/ycJmOkrz4sWI5cAyAiY9Zm31AKi.jpg",
+      "genres": [
+        "драма",
+        "криминал",
+        "Мыльная опера"
       ]
     },
     {
@@ -13091,6 +13224,23 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 7050619,
+      "ru": "Сумерки. Сага. Рассвет: Часть 1",
+      "en": "The Twilight Saga: Breaking Dawn - Part 1",
+      "year": "2011",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.178,
+      "poster": "https://image.tmdb.org/t/p/w342/1AGYnV21tSjkXNiRs5TzLGmRoBl.jpg",
+      "genres": [
+        "приключения",
+        "фэнтези",
+        "мелодрама"
       ]
     },
     {
