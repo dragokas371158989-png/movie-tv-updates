@@ -1,5 +1,5 @@
 {
-  "version": 160,
+  "version": 161,
   "movies": [
     {
       "id": 7421892,
@@ -95,6 +95,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/9XJksKK7BWVUfr9vUIYd3AdA1Vl.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8308007,
+      "ru": "Альтруисты",
+      "en": "The Altruists",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+      "genres": [
+        "драма",
+        "криминал"
       ]
     },
     {
@@ -3063,6 +3079,22 @@
       ]
     },
     {
+      "id": 8551025,
+      "ru": "Охрана звезд",
+      "en": "Guarding Stars",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/1RQFu2dzuwIm03XSN3BDf3GOfWg.jpg",
+      "genres": [
+        "мелодрама",
+        "комедия"
+      ]
+    },
+    {
       "id": 8442669,
       "ru": "Электрический поцелуй",
       "en": "La Vénus électrique",
@@ -3612,6 +3644,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/pH1zpLMuagE8wji4kg3SEJ1RB3.jpg",
       "genres": [
         "Реалити-шоу"
+      ]
+    },
+    {
+      "id": 8332839,
+      "ru": "Закон зверя",
+      "en": "Prawo bestii",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
@@ -12046,6 +12094,22 @@
       ]
     },
     {
+      "id": 8076331,
+      "ru": "Наследники",
+      "en": "Succession",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/5vZjUwl2NxNJY2cH7e8tmXdIjBA.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
       "id": 8073586,
       "ru": "Йеллоустоун",
       "en": "Yellowstone",
@@ -13421,6 +13485,21 @@
       "genres": [
         "драма",
         "НФ и Фэнтези"
+      ]
+    },
+    {
+      "id": 8018347,
+      "ru": "Сообщество",
+      "en": "Community",
+      "year": "2009",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/agANuljOdfMZ7UxAiSm2k085cKZ.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
