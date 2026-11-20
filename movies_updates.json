@@ -1,5 +1,5 @@
 {
-  "version": 161,
+  "version": 162,
   "movies": [
     {
       "id": 7421892,
@@ -17,6 +17,25 @@
         "комедия",
         "семейный",
         "фэнтези",
+        "приключения"
+      ]
+    },
+    {
+      "id": 8595124,
+      "ru": "Сводные сестры",
+      "en": "Steps",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wBSoXjOCyywMqP4ALKJDMauRc8M.jpg",
+      "genres": [
+        "мультфильм",
+        "фэнтези",
+        "комедия",
+        "семейный",
         "приключения"
       ]
     },
@@ -159,6 +178,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
       "genres": [
         "драма"
+      ]
+    },
+    {
+      "id": 8300523,
+      "ru": "Синяя дорога",
+      "en": "푸른길",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rHgC4wYhpI8Vx7kSwA1OTvwQRh0.jpg",
+      "genres": [
+        "криминал",
+        "детектив"
       ]
     },
     {
@@ -7608,6 +7643,23 @@
       ]
     },
     {
+      "id": 8568060,
+      "ru": "Perfectos mentirosos",
+      "en": "Perfectos mentirosos",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+      "genres": [
+        "драма",
+        "мелодрама",
+        "триллер"
+      ]
+    },
+    {
       "id": 8549719,
       "ru": "Я приду",
       "en": "Я приду",
@@ -11059,6 +11111,24 @@
       ]
     },
     {
+      "id": 8103540,
+      "ru": "Перси Джексон и Олимпийцы",
+      "en": "Percy Jackson and the Olympians",
+      "year": "2023",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.264,
+      "poster": "https://image.tmdb.org/t/p/w342/l2HEvsr0ER00hnihvYOX64QQjO.jpg",
+      "genres": [
+        "Боевик и Приключения",
+        "НФ и Фэнтези",
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8220118,
       "ru": "漣蒼士に純潔を捧ぐ",
       "en": "漣蒼士に純潔を捧ぐ",
@@ -11588,6 +11658,22 @@
         "драма",
         "криминал",
         "мелодрама"
+      ]
+    },
+    {
+      "id": 8117488,
+      "ru": "Шершни",
+      "en": "Yellowjackets",
+      "year": "2021",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/bcp7zBSBNDKUOksC5mYS3F10WS5.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
