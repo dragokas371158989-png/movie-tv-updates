@@ -1,5 +1,5 @@
 {
-  "version": 162,
+  "version": 163,
   "movies": [
     {
       "id": 7421892,
@@ -5938,6 +5938,23 @@
       ]
     },
     {
+      "id": 8642568,
+      "ru": "Последнее искушение Бекки",
+      "en": "The Last Temptation of Becky",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4tv2pwDl3I0XperQh16lErKB9LJ.jpg",
+      "genres": [
+        "боевик",
+        "ужасы",
+        "триллер"
+      ]
+    },
+    {
       "id": 8101412,
       "ru": "Вышка 2: Мёртвая точка",
       "en": "Fall 2: Deadpoint",
@@ -7688,6 +7705,25 @@
       "genres": [
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8538497,
+      "ru": "Билли и мир магии",
+      "en": "Hexed",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/jofendfLiFRv1nX8We7BtPEjyy7.jpg",
+      "genres": [
+        "приключения",
+        "мультфильм",
+        "семейный",
+        "фэнтези",
+        "комедия"
       ]
     },
     {
@@ -13092,6 +13128,23 @@
       ]
     },
     {
+      "id": 8046923,
+      "ru": "Шетланд",
+      "en": "Shetland",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jNsMU7bSdhVrUKzlK21zFjbFar4.jpg",
+      "genres": [
+        "криминал",
+        "драма",
+        "детектив"
+      ]
+    },
+    {
       "id": 8049847,
       "ru": "House Rules",
       "en": "House Rules",
@@ -13768,6 +13821,23 @@
         "драма",
         "НФ и Фэнтези",
         "комедия"
+      ]
+    },
+    {
+      "id": 7001726,
+      "ru": "Железный человек",
+      "en": "Iron Man",
+      "year": "2008",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.668,
+      "poster": "https://image.tmdb.org/t/p/w342/wAKZudQn0HEXqLvaGN6BEripHbv.jpg",
+      "genres": [
+        "боевик",
+        "фантастика",
+        "приключения"
       ]
     },
     {
