@@ -1,5 +1,5 @@
 {
-  "version": 163,
+  "version": 164,
   "movies": [
     {
       "id": 7421892,
@@ -13342,6 +13342,23 @@
         "НФ и Фэнтези",
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8042009,
+      "ru": "Черное зеркало",
+      "en": "Black Mirror",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.296,
+      "poster": "https://image.tmdb.org/t/p/w342/usjxU1cyXk9FDVCJFwIT01iCLty.jpg",
+      "genres": [
+        "НФ и Фэнтези",
+        "драма",
+        "детектив"
       ]
     },
     {
