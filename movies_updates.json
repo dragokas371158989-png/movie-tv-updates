@@ -1,5 +1,5 @@
 {
-  "version": 164,
+  "version": 165,
   "movies": [
     {
       "id": 7421892,
@@ -514,6 +514,22 @@
         "драма",
         "детектив",
         "криминал"
+      ]
+    },
+    {
+      "id": 8599184,
+      "ru": "Расколотая битвой синева небес: Битва двух императоров",
+      "en": "斗破苍穹剧场版：双帝之战",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 9.4,
+      "poster": "https://image.tmdb.org/t/p/w342/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
+      "genres": [
+        "мультфильм",
+        "приключения"
       ]
     },
     {
@@ -3798,6 +3814,23 @@
       ]
     },
     {
+      "id": 8084409,
+      "ru": "Последнее убийство мистера Рипли",
+      "en": "A Talent for Murder",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/8STOEg4MU7dTU1H5PzW5LcUHeXD.jpg",
+      "genres": [
+        "триллер",
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 7912378,
       "ru": "ദൃഢം",
       "en": "ദൃഢം",
@@ -5001,6 +5034,22 @@
       "genres": [
         "криминал",
         "триллер"
+      ]
+    },
+    {
+      "id": 8741617,
+      "ru": "Hansel & Gretel's Halloween",
+      "en": "Hansel & Gretel's Halloween",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.286,
+      "poster": "https://image.tmdb.org/t/p/w342/taNnBPN5FrJqYxsiJIqAL0KhqZ.jpg",
+      "genres": [
+        "ужасы",
+        "фэнтези"
       ]
     },
     {
@@ -6284,6 +6333,22 @@
       ]
     },
     {
+      "id": 8611767,
+      "ru": "Clashing Through the Snow",
+      "en": "Clashing Through the Snow",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 5.2,
+      "poster": "https://image.tmdb.org/t/p/w342/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
+      ]
+    },
+    {
       "id": 8278624,
       "ru": "Лаки",
       "en": "Lucky",
@@ -6791,6 +6856,21 @@
         "боевик",
         "фантастика",
         "триллер"
+      ]
+    },
+    {
+      "id": 8290826,
+      "ru": "Раскопки",
+      "en": "Dig",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/cPJRtFeXHUae8hrTzfpj2AId2m7.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -7877,6 +7957,21 @@
       ]
     },
     {
+      "id": 8514601,
+      "ru": "Песни джиннов",
+      "en": "Песни джиннов",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/chssamlBBfvhSm9GZY0rMVh8DP7.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 8513703,
       "ru": "Последний богатырь. Колобок",
       "en": "Последний богатырь. Колобок",
@@ -8714,6 +8809,23 @@
       "rating": 0,
       "poster": "https://image.tmdb.org/t/p/w342/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
       "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8303552,
+      "ru": "대리수능",
+      "en": "대리수능",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/oz3eIoEpmPqeu0qvaylynGbxCL5.jpg",
+      "genres": [
+        "криминал",
+        "детектив",
         "драма"
       ]
     },
@@ -12118,6 +12230,21 @@
       ]
     },
     {
+      "id": 8086893,
+      "ru": "Пожарная служба Такомы",
+      "en": "Tacoma FD",
+      "year": "2019",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.74,
+      "poster": "https://image.tmdb.org/t/p/w342/mH0d0dUdHYkmHLAkoTVXc1FUS9V.jpg",
+      "genres": [
+        "комедия"
+      ]
+    },
+    {
       "id": 7024657,
       "ru": "Жертвоприношение",
       "en": "Offret",
@@ -13028,6 +13155,22 @@
       ]
     },
     {
+      "id": 8041727,
+      "ru": "Банши",
+      "en": "Banshee",
+      "year": "2013",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.984,
+      "poster": "https://image.tmdb.org/t/p/w342/1FS2Oj1mXBDNif6MuifULdGVU6w.jpg",
+      "genres": [
+        "криминал",
+        "драма"
+      ]
+    },
+    {
       "id": 8044953,
       "ru": "Повелитель небес",
       "en": "El señor de los cielos",
@@ -13444,6 +13587,21 @@
         "криминал",
         "драма",
         "детектив"
+      ]
+    },
+    {
+      "id": 8001420,
+      "ru": "Новенькая",
+      "en": "New Girl",
+      "year": "2011",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/1eae2nOTTUqzy4XvxwMc3XOsPu3.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
@@ -14603,6 +14761,22 @@
       "poster": "https://image.tmdb.org/t/p/w342/uksRhdaOn64bO5d33d7rcTbrhJI.jpg",
       "genres": [
         "Мыльная опера"
+      ]
+    },
+    {
+      "id": 8001438,
+      "ru": "Прослушка",
+      "en": "The Wire",
+      "year": "2002",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.637,
+      "poster": "https://image.tmdb.org/t/p/w342/aoy6XphJtLvCfVmLFqBLaR56BAW.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
