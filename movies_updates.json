@@ -1,5 +1,5 @@
 {
-  "version": 165,
+  "version": 166,
   "movies": [
     {
       "id": 7421892,
@@ -1764,6 +1764,21 @@
       ]
     },
     {
+      "id": 8203483,
+      "ru": "两京十五日",
+      "en": "两京十五日",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/oqHkgdVFO9LpGnwTx0zXZcUJ82p.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
       "id": 7414419,
       "ru": "Убить Билла: Кровавое дело целиком",
       "en": "Kill Bill: The Whole Bloody Affair",
@@ -1925,6 +1940,21 @@
         "триллер",
         "история",
         "военный"
+      ]
+    },
+    {
+      "id": 8318349,
+      "ru": "宝珠",
+      "en": "宝珠",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/p1MA5VQyjZhWmelyRC75RuRu1CG.jpg",
+      "genres": [
+        "драма"
       ]
     },
     {
@@ -2570,6 +2600,22 @@
         "криминал",
         "драма",
         "триллер"
+      ]
+    },
+    {
+      "id": 8400336,
+      "ru": "Знакомство с Факерами: Новая глава",
+      "en": "Focker In-Law",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mhBUlkfVm6tjs9zwVgWWUH0Faq0.jpg",
+      "genres": [
+        "комедия",
+        "мелодрама"
       ]
     },
     {
@@ -7757,6 +7803,21 @@
       ]
     },
     {
+      "id": 8561952,
+      "ru": "Падший",
+      "en": "Падший",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/8UTqaWDLFO4U8teti7yetSTT7Ea.jpg",
+      "genres": [
+        "триллер"
+      ]
+    },
+    {
       "id": 8549719,
       "ru": "Я приду",
       "en": "Я приду",
@@ -9712,6 +9773,21 @@
       "poster": "https://image.tmdb.org/t/p/w342/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
       "genres": [
         "ужасы"
+      ]
+    },
+    {
+      "id": 8171802,
+      "ru": "Бегущий по лезвию 2099",
+      "en": "Blade Runner 2099",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/oxkRPILCEelt0jrdcMKwKRPS42B.jpg",
+      "genres": [
+        "НФ и Фэнтези"
       ]
     },
     {
@@ -14714,6 +14790,21 @@
         "криминал",
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8002691,
+      "ru": "Два с половиной человека",
+      "en": "Two and a Half Men",
+      "year": "2003",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.438,
+      "poster": "https://image.tmdb.org/t/p/w342/rfo3OHRPRIDODWWr54sY1bTZLd3.jpg",
+      "genres": [
+        "комедия"
       ]
     },
     {
