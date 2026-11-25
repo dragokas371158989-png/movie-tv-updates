@@ -1,5 +1,5 @@
 {
-  "version": 166,
+  "version": 167,
   "movies": [
     {
       "id": 7421892,
@@ -2084,6 +2084,22 @@
       ]
     },
     {
+      "id": 8280115,
+      "ru": "Путь мальчика-воина",
+      "en": "Way of the Warrior Kid",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/lGR08nCKFPzaugkTmPI2CswgA3O.jpg",
+      "genres": [
+        "драма",
+        "семейный"
+      ]
+    },
+    {
       "id": 8279246,
       "ru": "Второй брак императрицы",
       "en": "재혼 황후",
@@ -3567,6 +3583,22 @@
       ]
     },
     {
+      "id": 8633540,
+      "ru": "Бочка",
+      "en": "The Barrel",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/lityxmkbqG9PcfVwSs94r2g6DuH.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 8607127,
       "ru": "One Last Shot",
       "en": "One Last Shot",
@@ -4038,6 +4070,23 @@
       "poster": "https://image.tmdb.org/t/p/w342/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
       "genres": [
         "комедия"
+      ]
+    },
+    {
+      "id": 8458300,
+      "ru": "Комариный кубок",
+      "en": "The Mosquito Bowl",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "genres": [
+        "история",
+        "драма",
+        "военный"
       ]
     },
     {
@@ -4827,6 +4876,24 @@
       "genres": [
         "криминал",
         "детектив"
+      ]
+    },
+    {
+      "id": 8125627,
+      "ru": "ДримКвил. Корпорация грез",
+      "en": "DreamQuil",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/a2UHsXHp4HvV6jpIvnhfMtGCHY9.jpg",
+      "genres": [
+        "ужасы",
+        "детектив",
+        "фантастика",
+        "триллер"
       ]
     },
     {
@@ -7381,6 +7448,37 @@
       ]
     },
     {
+      "id": 8677956,
+      "ru": "Как пережить брак",
+      "en": "Как пережить брак",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/IZkdecDoMH6QM5r795iIJ9Y7go.jpg",
+      "genres": [
+        "драма"
+      ]
+    },
+    {
+      "id": 8676282,
+      "ru": "Зима в Простоквашино",
+      "en": "Зима в Простоквашино",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/64QTsefaiYJRhsSXsZJ0DR1zFP1.jpg",
+      "genres": [
+        "приключения",
+        "семейный"
+      ]
+    },
+    {
       "id": 8664119,
       "ru": "Малыш-каратист",
       "en": "Малыш-каратист",
@@ -8837,6 +8935,22 @@
       "studio": "",
       "rating": 0,
       "poster": "https://image.tmdb.org/t/p/w342/aGX71DFozG55achSbKd225LHGMj.jpg",
+      "genres": [
+        "драма",
+        "комедия"
+      ]
+    },
+    {
+      "id": 8310209,
+      "ru": "나인 투 식스",
+      "en": "나인 투 식스",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/kJIq121nQSOStpliFc3ApWdASSN.jpg",
       "genres": [
         "драма",
         "комедия"
@@ -10874,6 +10988,23 @@
       ]
     },
     {
+      "id": 7038142,
+      "ru": "5 сантиметров в секунду",
+      "en": "秒速5センチメートル",
+      "year": "2024",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.301,
+      "poster": "https://image.tmdb.org/t/p/w342/cTeCq65By2lRpgE2vrvHmmWULl3.jpg",
+      "genres": [
+        "мультфильм",
+        "мелодрама",
+        "драма"
+      ]
+    },
+    {
       "id": 8203744,
       "ru": "Шугар",
       "en": "Sugar",
@@ -11001,6 +11132,24 @@
       "genres": [
         "драма",
         "комедия"
+      ]
+    },
+    {
+      "id": 7801688,
+      "ru": "Шамбала. Конец времён",
+      "en": "కల్కి 2898-ఎ.డి",
+      "year": "2024",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 6.416,
+      "poster": "https://image.tmdb.org/t/p/w342/bPUyxoWGPlBKpH54XKc4PqP2gtR.jpg",
+      "genres": [
+        "драма",
+        "боевик",
+        "фэнтези",
+        "фантастика"
       ]
     },
     {
