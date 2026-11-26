@@ -1,5 +1,5 @@
 {
-  "version": 167,
+  "version": 168,
   "movies": [
     {
       "id": 7421892,
@@ -2989,6 +2989,22 @@
         "драма",
         "мелодрама",
         "комедия"
+      ]
+    },
+    {
+      "id": 8496696,
+      "ru": "Заводчица",
+      "en": "Breeder",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 7.411,
+      "poster": "https://image.tmdb.org/t/p/w342/hEnNf4r9BxGa65IIKsapYWrie8f.jpg",
+      "genres": [
+        "ужасы",
+        "триллер"
       ]
     },
     {
@@ -8731,6 +8747,24 @@
       ]
     },
     {
+      "id": 8326247,
+      "ru": "Ночь дурака",
+      "en": "フールナイト",
+      "year": "2026",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+      "genres": [
+        "мультфильм",
+        "драма",
+        "НФ и Фэнтези",
+        "детектив"
+      ]
+    },
+    {
       "id": 8324115,
       "ru": "ทนายปีศาจ",
       "en": "ทนายปีศาจ",
@@ -10574,6 +10608,22 @@
       "genres": [
         "драма",
         "Боевик и Приключения"
+      ]
+    },
+    {
+      "id": 8244447,
+      "ru": "Жёны на охоте",
+      "en": "The Hunting Wives",
+      "year": "2025",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/73NPdGzHRfENOhJHxPYtVy7jOjw.jpg",
+      "genres": [
+        "драма",
+        "детектив"
       ]
     },
     {
