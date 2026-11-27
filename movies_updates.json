@@ -1,5 +1,5 @@
 {
-  "version": 168,
+  "version": 169,
   "movies": [
     {
       "id": 7421892,
@@ -54,6 +54,22 @@
         "триллер",
         "криминал",
         "история"
+      ]
+    },
+    {
+      "id": 8480665,
+      "ru": "Квазимодо, душа Парижа",
+      "en": "Quasimodo, l'âme de Paris",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/necpLRF5VF381uNR5PWkz7klQlG.jpg",
+      "genres": [
+        "драма",
+        "мелодрама"
       ]
     },
     {
@@ -7082,6 +7098,21 @@
       ]
     },
     {
+      "id": 8492566,
+      "ru": "Dracula Eternal",
+      "en": "Dracula Eternal",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 2.2,
+      "poster": "https://image.tmdb.org/t/p/w342/qDFHLI5s1o7TgeBN4wSPrvJN8D5.jpg",
+      "genres": [
+        "ужасы"
+      ]
+    },
+    {
       "id": 8710008,
       "ru": "Jusqu'au bout",
       "en": "Jusqu'au bout",
@@ -9844,6 +9875,22 @@
       ]
     },
     {
+      "id": 8213227,
+      "ru": "поезд",
+      "en": "ட்ரெயின்",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/3u6yleXoPaqpzmje3dqnCktzt5C.jpg",
+      "genres": [
+        "триллер",
+        "драма"
+      ]
+    },
+    {
       "id": 8212763,
       "ru": "Зловещие мертвецы: Пекло",
       "en": "Evil Dead Burn",
@@ -11035,6 +11082,22 @@
         "приключения",
         "комедия",
         "семейный"
+      ]
+    },
+    {
+      "id": 8218347,
+      "ru": "Дорогуша",
+      "en": "Sweetpea",
+      "year": "2024",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/33DCNqCAtqL408AOYrzJ09NhiN7.jpg",
+      "genres": [
+        "комедия",
+        "драма"
       ]
     },
     {
@@ -12667,6 +12730,22 @@
       ]
     },
     {
+      "id": 8080240,
+      "ru": "Королева флоу",
+      "en": "La Reina del Flow",
+      "year": "2018",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.018,
+      "poster": "https://image.tmdb.org/t/p/w342/fuVuDYrs8sxvEolnYr0wCSvtyTi.jpg",
+      "genres": [
+        "драма",
+        "криминал"
+      ]
+    },
+    {
       "id": 8078191,
       "ru": "Ты",
       "en": "You",
@@ -12831,6 +12910,22 @@
         "драма",
         "НФ и Фэнтези",
         "Война и Политика"
+      ]
+    },
+    {
+      "id": 8069740,
+      "ru": "Озарк",
+      "en": "Ozark",
+      "year": "2017",
+      "type": "Сериал",
+      "episodes": "",
+      "status": "Онгоинг",
+      "studio": "",
+      "rating": 8.193,
+      "poster": "https://image.tmdb.org/t/p/w342/uRvsisd0e9vLtJyGWz9GSptVRW4.jpg",
+      "genres": [
+        "криминал",
+        "драма"
       ]
     },
     {
