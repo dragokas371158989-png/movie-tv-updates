@@ -1,5 +1,5 @@
 {
-  "version": 169,
+  "version": 170,
   "movies": [
     {
       "id": 7421892,
@@ -7737,6 +7737,22 @@
       "genres": [
         "мультфильм",
         "приключения"
+      ]
+    },
+    {
+      "id": 8623543,
+      "ru": "Дива",
+      "en": "Дива",
+      "year": "2026",
+      "type": "Фильм",
+      "episodes": "",
+      "status": "Вышел",
+      "studio": "",
+      "rating": 0,
+      "poster": "https://image.tmdb.org/t/p/w342/98nEibhx1eAwtZpOQMR4pVpPELh.jpg",
+      "genres": [
+        "драма",
+        "фэнтези"
       ]
     },
     {
